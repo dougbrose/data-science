@@ -1,0 +1,1001 @@
+id,item,dollars,wkday,time
+0,cookware set,25.71,Sat,2
+1,carpet,20.38,Mon,2
+2,microwave,18.6,Fri,3
+3,cookware set,65.93,Fri,1
+4,fan,32.31,Sat,3
+5,cookware set,79.86,Mon,3
+6,carpet,51.42,Tue,0
+7,carpet,51.23,Thur,3
+8,toaster,21.33,Fri,3
+9,microwave,15.28,Tue,2
+10,decorations,19.94,Mon,1
+11,paint,12.99,Wed,0
+12,fan,21.73,Sat,0
+13,paint,11.92,Tue,3
+14,cookware set,82.63,Mon,3
+15,cookware set,96.36,Sat,0
+16,toaster,19.47,Wed,1
+17,toaster,23.42,Fri,0
+18,fan,91.54,Tue,2
+19,microwave,33.53,Tue,3
+20,carpet,57.22,Mon,1
+21,cookware set,109.66,Mon,2
+22,carpet,62.47,Wed,2
+23,microwave,15.03,Wed,1
+24,paint,17.24,Thur,3
+25,carpet,34.44,Mon,1
+26,toaster,13.36,Wed,2
+27,paint,12.78,Sat,0
+28,decorations,16.63,5,0
+29,fan,21.36,Fri,0
+30,toaster,29.55,Thur,0
+31,paint,19.49,Mon,0
+32,paint,19.98,Sun,0
+33,fan,58.16,Sun,0
+34,fan,103.13,Sun,2
+35,carpet,11.71,Wed,2
+36,paint,14.92,Wed,0
+37,carpet,11.17,Wed,2
+38,paint,14.92,Mon,0
+39,toaster,26.11,Tue,1
+40,cookware set,98.84,Sat,1
+41,fan,32.67,Sun,3
+42,paint,10.98,Fri,0
+43,decorations,12.44,5,3
+44,fan,29.56,Thur,0
+45,toaster,28.63,Wed,0
+46,cookware set,43.46,Mon,2
+47,fan,48.42,Mon,3
+48,toaster,12.83,Mon,1
+49,toaster,20.43,Thur,2
+50,cookware set,37.8,Thur,1
+51,fan,72.03,Mon,2
+52,cookware set,52.93,Sun,3
+53,microwave,37.88,Thur,0
+54,paint,10.31,Mon,3
+55,decorations,10.47,5,0
+56,cookware set,90.29,Sun,2
+57,carpet,17.16,Sat,2
+58,fan,100.61,Fri,3
+59,toaster,26.72,Sun,1
+60,paint,10.65,Wed,0
+61,toaster,13.64,Thur,1
+62,decorations,11.2,Sun,1
+63,cookware set,24.82,Mon,1
+64,carpet,29.34,Fri,3
+65,decorations,15.72,5,1
+66,toaster,16.36,Tue,3
+67,cookware set,38.82,Wed,3
+68,cookware set,43.79,Tue,2
+69,cookware set,95.0,Mon,0
+70,paint,13.61,Sun,0
+71,microwave,27.9,Wed,2
+72,fan,31.57,Thur,1
+73,carpet,49.03,Sat,1
+74,toaster,24.36,Sun,3
+75,decorations,11.25,Sun,3
+76,decorations,10.62,Fri,2
+77,decorations,19.99,5,0
+78,paint,14.9,Mon,1
+79,paint,11.7,Fri,2
+80,carpet,66.47,Mon,2
+81,paint,13.34,Sat,0
+82,paint,19.29,Sat,0
+83,decorations,17.6,5,3
+84,cookware set,15.51,Sat,3
+85,decorations,14.48,Sun,1
+86,fan,93.2,Sun,1
+87,fan,106.85,Fri,3
+88,paint,15.19,Tue,0
+89,carpet,97.48,Fri,0
+90,carpet,90.72,Thur,2
+91,fan,12.38,Wed,2
+92,fan,92.23,Mon,0
+93,paint,18.09,Fri,3
+94,decorations,11.13,5,0
+95,cookware set,23.32,Sat,0
+96,toaster,28.95,Fri,3
+97,decorations,19.91,Tue,2
+98,microwave,11.91,Thur,2
+99,carpet,99.04,Fri,1
+100,microwave,22.17,Thur,3
+101,fan,90.99,Wed,2
+102,fan,57.47,Tue,3
+103,toaster,16.3,Sat,1
+104,carpet,30.6,Mon,2
+105,fan,42.31,Mon,0
+106,decorations,19.77,Wed,3
+107,toaster,11.26,Fri,3
+108,decorations,12.3,5,0
+109,carpet,61.42,Thur,2
+110,decorations,15.43,Wed,1
+111,carpet,77.79,Thur,3
+112,microwave,27.59,Sun,2
+113,paint,13.33,Mon,0
+114,fan,95.83,Wed,3
+115,carpet,28.46,Sat,3
+116,cookware set,75.76,Mon,1
+117,toaster,15.24,Sat,0
+118,paint,10.59,Fri,0
+119,paint,16.95,Sun,3
+120,toaster,21.68,Tue,2
+121,toaster,17.71,Thur,1
+122,fan,100.23,Sun,1
+123,cookware set,82.78,Sun,1
+124,carpet,30.55,Fri,0
+125,microwave,31.8,Thur,2
+126,fan,24.83,Sat,1
+127,toaster,12.04,Fri,0
+128,carpet,50.01,Sun,1
+129,fan,17.7,Thur,3
+130,microwave,24.19,Mon,0
+131,cookware set,79.69,Thur,0
+132,microwave,10.59,Fri,2
+133,paint,16.07,Sun,0
+134,carpet,36.36,Mon,0
+135,microwave,20.84,Fri,0
+136,decorations,13.89,5,2
+137,carpet,80.8,Tue,3
+138,paint,12.68,Thur,3
+139,toaster,29.36,Sun,0
+140,cookware set,84.57,Sun,3
+141,carpet,61.46,Tue,1
+142,paint,18.22,Sun,0
+143,cookware set,76.4,Fri,0
+144,carpet,59.75,Thur,0
+145,microwave,18.18,Sat,0
+146,paint,19.42,Tue,0
+147,microwave,30.5,Thur,0
+148,fan,54.85,Wed,1
+149,paint,10.2,Mon,0
+150,paint,14.21,Mon,3
+151,cookware set,14.27,Fri,3
+152,paint,16.38,Sat,3
+153,toaster,23.59,Wed,3
+154,carpet,36.67,Fri,1
+155,microwave,26.11,Fri,2
+156,decorations,14.46,Fri,3
+157,paint,19.35,Mon,0
+158,carpet,66.02,Fri,2
+159,decorations,13.95,Mon,2
+160,microwave,17.49,Sat,2
+161,fan,32.1,Fri,1
+162,fan,70.36,Mon,2
+163,microwave,24.85,Tue,3
+164,cookware set,21.95,Wed,2
+165,decorations,11.42,5,3
+166,fan,13.59,Tue,2
+167,decorations,19.12,5,3
+168,paint,17.44,Fri,0
+169,toaster,20.0,Tue,1
+170,carpet,25.15,Sun,1
+171,fan,78.19,Sun,0
+172,paint,18.29,Tue,0
+173,decorations,19.97,5,3
+174,decorations,15.96,5,0
+175,carpet,102.92,Mon,1
+176,paint,14.62,Sun,2
+177,carpet,11.99,Sat,1
+178,decorations,12.25,5,2
+179,toaster,27.17,Sat,3
+180,microwave,20.77,Sat,2
+181,toaster,25.24,Sun,2
+182,cookware set,78.69,Wed,2
+183,paint,17.44,Fri,1
+184,fan,52.58,Fri,0
+185,microwave,33.78,Wed,3
+186,decorations,19.43,Fri,0
+187,carpet,62.87,Sat,2
+188,paint,14.74,Sun,1
+189,fan,65.48,Thur,2
+190,cookware set,87.6,Thur,0
+191,carpet,72.13,Tue,3
+192,toaster,14.36,Mon,3
+193,paint,14.41,Sat,0
+194,carpet,10.26,Sat,3
+195,fan,13.6,Wed,2
+196,cookware set,104.45,Mon,2
+197,cookware set,82.33,Fri,0
+198,toaster,19.39,Sun,2
+199,decorations,16.49,Wed,0
+200,microwave,31.26,Sat,3
+201,fan,75.42,Sat,3
+202,microwave,29.31,Sat,2
+203,decorations,16.71,Sun,3
+204,decorations,10.81,Sat,0
+205,cookware set,41.58,Thur,3
+206,fan,108.71,Sun,3
+207,fan,13.71,Wed,3
+208,decorations,13.89,5,1
+209,paint,19.01,Sat,0
+210,paint,11.77,Fri,0
+211,paint,14.57,Tue,0
+212,paint,14.82,Tue,1
+213,microwave,34.94,Fri,0
+214,carpet,101.79,Fri,3
+215,cookware set,57.01,Tue,1
+216,decorations,10.51,5,3
+217,decorations,16.79,Tue,2
+218,fan,17.43,Mon,3
+219,cookware set,13.4,Sat,2
+220,toaster,22.86,Tue,3
+221,decorations,12.76,5,2
+222,paint,12.4,Fri,0
+223,decorations,18.38,Mon,2
+224,decorations,10.96,5,1
+225,paint,13.82,Tue,0
+226,carpet,53.4,Sat,3
+227,paint,18.04,Mon,0
+228,cookware set,23.9,Wed,1
+229,microwave,33.96,Fri,0
+230,fan,73.42,Tue,2
+231,carpet,38.64,Sat,3
+232,toaster,12.52,Wed,0
+233,microwave,30.69,Tue,0
+234,paint,19.29,Tue,0
+235,cookware set,58.29,Sat,1
+236,toaster,20.17,Sat,1
+237,decorations,13.49,Sat,3
+238,carpet,70.38,Sun,1
+239,cookware set,31.04,Sat,3
+240,microwave,32.4,Mon,3
+241,fan,50.51,Thur,3
+242,microwave,23.02,Mon,3
+243,toaster,16.46,Fri,0
+244,carpet,33.76,Wed,3
+245,carpet,30.0,Tue,1
+246,microwave,24.98,Sun,0
+247,cookware set,84.55,Sat,1
+248,carpet,100.93,Mon,3
+249,fan,10.91,Wed,3
+250,decorations,15.09,5,0
+251,cookware set,99.77,Sat,1
+252,toaster,19.0,Mon,1
+253,decorations,10.04,Tue,3
+254,carpet,25.49,Tue,2
+255,microwave,17.99,Mon,3
+256,paint,15.54,Sun,0
+257,fan,105.96,Sun,3
+258,fan,105.02,Sat,0
+259,microwave,28.84,Mon,1
+260,decorations,11.49,5,3
+261,fan,62.91,Tue,2
+262,paint,12.28,Mon,0
+263,cookware set,51.24,Tue,0
+264,decorations,12.74,Mon,0
+265,cookware set,53.95,Mon,3
+266,cookware set,22.46,Mon,3
+267,toaster,15.4,Fri,0
+268,microwave,38.95,Fri,2
+269,paint,12.08,Tue,0
+270,fan,96.78,Tue,0
+271,fan,95.84,Tue,0
+272,fan,94.25,Mon,1
+273,fan,70.42,Mon,2
+274,microwave,24.97,Sat,3
+275,toaster,12.9,Mon,1
+276,toaster,23.34,Sun,1
+277,microwave,26.68,Sun,2
+278,paint,18.35,Mon,0
+279,microwave,25.7,Sat,0
+280,carpet,103.69,Sat,3
+281,cookware set,108.67,Fri,3
+282,fan,14.38,Thur,3
+283,decorations,14.78,5,3
+284,fan,66.47,Tue,1
+285,decorations,13.67,Wed,2
+286,cookware set,62.84,Tue,2
+287,toaster,19.2,Thur,2
+288,carpet,75.56,Mon,2
+289,microwave,14.95,Sat,3
+290,decorations,17.42,5,2
+291,toaster,20.3,Fri,0
+292,toaster,17.88,Wed,2
+293,microwave,30.09,Mon,2
+294,microwave,29.16,Mon,3
+295,fan,64.93,Thur,0
+296,paint,14.03,Wed,0
+297,fan,43.57,Wed,0
+298,decorations,14.4,Tue,3
+299,decorations,17.46,5,2
+300,toaster,24.38,Sun,3
+301,cookware set,59.16,Wed,0
+302,cookware set,45.39,Wed,1
+303,carpet,109.31,Sat,2
+304,decorations,19.42,Thur,1
+305,decorations,10.19,Thur,2
+306,decorations,13.29,5,2
+307,paint,19.29,Wed,0
+308,carpet,82.51,Fri,3
+309,decorations,14.61,Thur,2
+310,toaster,18.55,Thur,0
+311,decorations,16.0,5,3
+312,microwave,19.8,Mon,2
+313,paint,14.9,Thur,0
+314,paint,17.74,Tue,0
+315,toaster,14.34,Tue,2
+316,toaster,11.53,Sat,1
+317,carpet,59.72,Wed,1
+318,decorations,13.66,Mon,3
+319,decorations,13.14,5,2
+320,carpet,106.16,Thur,3
+321,microwave,13.69,Sat,3
+322,fan,93.94,Wed,1
+323,fan,16.15,Sat,0
+324,microwave,19.74,Wed,1
+325,carpet,27.27,Fri,1
+326,microwave,16.17,Fri,1
+327,fan,41.95,Tue,0
+328,decorations,12.87,Tue,1
+329,microwave,37.27,Mon,0
+330,paint,14.65,Wed,2
+331,fan,28.3,Fri,3
+332,microwave,28.53,Thur,1
+333,toaster,26.92,Tue,0
+334,paint,15.19,Sat,1
+335,decorations,19.79,Wed,3
+336,cookware set,60.41,Tue,3
+337,paint,18.95,Wed,0
+338,carpet,97.63,Tue,0
+339,fan,51.6,Mon,2
+340,carpet,78.38,Fri,3
+341,carpet,29.23,Sat,2
+342,carpet,52.72,Fri,2
+343,decorations,12.79,Wed,2
+344,toaster,13.05,Thur,0
+345,fan,34.3,Sun,3
+346,fan,100.85,Sun,0
+347,toaster,12.96,Mon,0
+348,toaster,19.5,Tue,0
+349,toaster,19.01,Sat,3
+350,decorations,15.09,Tue,2
+351,cookware set,42.57,Tue,2
+352,decorations,10.92,5,0
+353,paint,17.6,Sat,0
+354,toaster,13.95,Sun,2
+355,fan,34.0,Tue,0
+356,microwave,19.93,Mon,0
+357,fan,23.51,Thur,3
+358,carpet,53.64,Sun,0
+359,toaster,10.44,Fri,1
+360,cookware set,61.92,Sun,2
+361,cookware set,108.25,Sat,0
+362,toaster,16.26,Fri,3
+363,cookware set,47.61,Wed,0
+364,decorations,16.38,Sat,3
+365,cookware set,61.43,Wed,0
+366,paint,16.78,Fri,0
+367,cookware set,46.39,Tue,0
+368,cookware set,68.46,Sat,2
+369,carpet,93.62,Fri,2
+370,decorations,17.01,Fri,0
+371,fan,80.34,Wed,2
+372,carpet,50.93,Sat,3
+373,toaster,13.98,Tue,0
+374,paint,12.34,Tue,1
+375,carpet,81.34,Sat,3
+376,decorations,14.33,Wed,1
+377,decorations,10.97,Sat,2
+378,decorations,13.6,Thur,1
+379,toaster,14.94,Mon,3
+380,paint,11.24,Sun,0
+381,toaster,13.36,Fri,0
+382,carpet,83.88,Sat,2
+383,fan,20.24,Sat,3
+384,carpet,101.69,Tue,2
+385,paint,11.29,Wed,1
+386,carpet,77.93,Fri,2
+387,fan,68.09,Fri,3
+388,toaster,17.66,Sun,2
+389,cookware set,34.83,Sun,3
+390,toaster,15.71,Thur,3
+391,carpet,44.88,Fri,2
+392,paint,11.19,Thur,0
+393,cookware set,89.38,Sat,0
+394,cookware set,58.2,Mon,0
+395,carpet,52.11,Fri,2
+396,toaster,20.39,Tue,2
+397,microwave,39.05,Tue,3
+398,carpet,80.46,Fri,3
+399,paint,10.64,Mon,0
+400,carpet,32.56,Wed,2
+401,cookware set,38.37,Thur,2
+402,toaster,20.23,Fri,0
+403,carpet,88.57,Sun,1
+404,microwave,21.44,Fri,0
+405,toaster,16.15,Wed,0
+406,fan,74.5,Mon,0
+407,paint,14.1,Sat,0
+408,carpet,23.93,Wed,0
+409,decorations,11.07,5,3
+410,decorations,19.49,5,2
+411,decorations,12.9,Fri,2
+412,carpet,32.59,Sat,1
+413,toaster,16.87,Sun,2
+414,fan,82.47,Mon,0
+415,carpet,85.87,Fri,1
+416,cookware set,98.96,Sat,1
+417,fan,48.72,Sun,0
+418,carpet,48.81,Thur,0
+419,carpet,76.75,Mon,3
+420,microwave,22.08,Sun,1
+421,fan,36.06,Tue,0
+422,microwave,34.43,Fri,3
+423,toaster,12.87,Sat,3
+424,fan,93.39,Thur,1
+425,fan,30.0,Wed,3
+426,toaster,27.68,Mon,3
+427,paint,13.14,Fri,0
+428,carpet,46.53,Fri,0
+429,paint,10.78,Sat,0
+430,paint,19.13,Sat,3
+431,carpet,31.42,Sat,3
+432,decorations,13.57,Mon,0
+433,microwave,31.07,Sat,3
+434,microwave,29.7,Sun,3
+435,fan,24.8,Tue,3
+436,carpet,42.07,Sun,0
+437,microwave,18.95,Thur,3
+438,toaster,10.41,Thur,1
+439,toaster,13.66,Sat,2
+440,microwave,16.63,Tue,2
+441,toaster,19.58,Fri,1
+442,fan,57.69,Wed,3
+443,carpet,107.27,Fri,1
+444,decorations,13.29,Sun,1
+445,microwave,20.47,Sat,3
+446,carpet,104.16,Tue,0
+447,toaster,20.19,Sun,3
+448,microwave,33.67,Sun,2
+449,fan,73.15,Wed,0
+450,carpet,102.66,Sun,1
+451,paint,14.14,Sat,0
+452,carpet,93.58,Sun,0
+453,paint,16.47,Thur,3
+454,paint,15.75,Mon,1
+455,decorations,16.57,5,1
+456,carpet,89.97,Tue,1
+457,decorations,10.77,Sat,2
+458,paint,17.56,Wed,0
+459,toaster,29.93,Wed,3
+460,fan,87.45,Wed,1
+461,cookware set,11.29,Mon,1
+462,paint,14.52,Sun,0
+463,toaster,12.77,Wed,3
+464,paint,13.38,Tue,0
+465,carpet,44.99,Thur,3
+466,microwave,11.83,Fri,0
+467,decorations,13.06,5,2
+468,toaster,18.36,Sat,2
+469,paint,10.64,Sun,0
+470,toaster,29.15,Thur,1
+471,cookware set,50.22,Fri,3
+472,paint,15.42,Sun,0
+473,toaster,16.68,Sun,0
+474,fan,65.68,Fri,1
+475,carpet,84.89,Wed,3
+476,paint,14.05,Wed,1
+477,microwave,39.74,Mon,2
+478,cookware set,41.94,Wed,2
+479,paint,13.45,Mon,0
+480,carpet,37.1,Fri,2
+481,paint,14.22,Sat,0
+482,fan,73.41,Sat,0
+483,toaster,20.2,Sat,0
+484,paint,10.3,Sun,1
+485,microwave,28.69,Fri,0
+486,fan,17.08,Fri,1
+487,carpet,25.3,Sat,3
+488,cookware set,93.39,Sat,3
+489,microwave,20.29,Fri,1
+490,fan,29.52,Wed,3
+491,microwave,13.91,Sun,2
+492,carpet,63.46,Mon,2
+493,fan,69.64,Tue,0
+494,fan,87.91,Sun,3
+495,paint,16.67,Thur,3
+496,microwave,16.6,Wed,1
+497,carpet,35.8,Wed,2
+498,microwave,25.83,Sat,1
+499,carpet,72.68,Wed,2
+500,fan,14.85,Thur,3
+501,decorations,13.63,Wed,3
+502,fan,10.1,Thur,2
+503,carpet,19.13,Wed,2
+504,toaster,18.5,Thur,0
+505,microwave,12.48,Thur,2
+506,carpet,31.27,Thur,0
+507,carpet,51.5,Mon,3
+508,fan,59.94,Sat,0
+509,fan,90.42,Fri,1
+510,decorations,12.68,Thur,3
+511,fan,87.79,Sat,2
+512,cookware set,59.13,Sat,2
+513,paint,18.32,Wed,0
+514,paint,10.65,Fri,0
+515,toaster,21.93,Fri,1
+516,toaster,11.23,Sat,0
+517,paint,19.61,Mon,0
+518,carpet,45.96,Mon,0
+519,carpet,13.92,Thur,0
+520,toaster,28.18,Tue,3
+521,cookware set,14.65,Tue,1
+522,cookware set,24.58,Fri,2
+523,toaster,23.38,Sat,3
+524,carpet,81.79,Mon,2
+525,toaster,27.49,Wed,1
+526,cookware set,69.38,Tue,0
+527,toaster,18.54,Sun,3
+528,carpet,71.21,Fri,3
+529,paint,13.1,Sun,0
+530,fan,100.93,Sat,2
+531,decorations,12.12,Wed,1
+532,carpet,58.57,Fri,1
+533,paint,12.46,Mon,0
+534,paint,14.98,Mon,1
+535,carpet,14.61,Wed,2
+536,toaster,17.63,Sun,2
+537,decorations,14.23,5,1
+538,paint,18.24,Thur,0
+539,decorations,13.1,Sat,1
+540,decorations,10.82,5,2
+541,decorations,11.14,Mon,0
+542,fan,96.66,Sat,0
+543,toaster,27.87,Mon,2
+544,toaster,19.21,Sun,0
+545,microwave,13.97,Tue,1
+546,microwave,26.78,Mon,0
+547,microwave,37.45,Thur,2
+548,decorations,12.03,Mon,2
+549,toaster,29.58,Wed,0
+550,fan,81.68,Sun,3
+551,paint,19.27,Mon,2
+552,fan,109.26,Fri,3
+553,carpet,68.43,Thur,0
+554,paint,18.84,Sun,0
+555,fan,56.67,Tue,2
+556,paint,10.94,Mon,0
+557,fan,64.0,Wed,0
+558,paint,19.57,Sat,0
+559,toaster,13.67,Sat,1
+560,toaster,24.34,Fri,3
+561,microwave,23.7,Mon,1
+562,toaster,27.46,Sat,0
+563,toaster,10.22,Thur,3
+564,microwave,21.53,Wed,3
+565,toaster,13.3,Thur,0
+566,microwave,19.18,Sat,3
+567,carpet,92.64,Fri,2
+568,fan,80.75,Sat,0
+569,toaster,18.44,Fri,0
+570,toaster,17.45,Wed,1
+571,microwave,22.44,Fri,0
+572,toaster,28.18,Mon,1
+573,microwave,25.99,Sun,3
+574,paint,15.41,Sun,0
+575,cookware set,33.15,Sun,0
+576,fan,43.65,Mon,0
+577,fan,81.94,Sat,3
+578,fan,27.64,Sun,1
+579,microwave,11.34,Fri,1
+580,fan,46.46,Sun,1
+581,fan,44.64,Tue,2
+582,cookware set,80.05,Fri,0
+583,paint,16.52,Tue,0
+584,toaster,27.89,Wed,2
+585,carpet,35.56,Wed,2
+586,cookware set,59.88,Fri,1
+587,microwave,27.04,Mon,1
+588,cookware set,43.76,Sat,2
+589,carpet,107.47,Thur,0
+590,fan,36.91,Mon,3
+591,paint,17.79,Mon,0
+592,cookware set,105.45,Sun,0
+593,fan,48.03,Thur,1
+594,microwave,28.03,Tue,1
+595,toaster,11.59,Sun,2
+596,decorations,11.36,Sun,1
+597,carpet,92.03,Sat,2
+598,cookware set,67.43,Fri,1
+599,carpet,90.68,Tue,3
+600,cookware set,96.25,Thur,0
+601,microwave,26.18,Tue,3
+602,toaster,27.78,Fri,1
+603,decorations,19.18,Sat,0
+604,carpet,92.91,Wed,2
+605,fan,20.71,Sat,2
+606,decorations,11.64,Fri,0
+607,toaster,20.73,Tue,1
+608,cookware set,102.41,Mon,1
+609,carpet,49.69,Tue,1
+610,microwave,12.37,Wed,3
+611,fan,29.81,Wed,1
+612,toaster,21.42,Mon,0
+613,fan,45.69,Fri,2
+614,toaster,26.16,Sat,1
+615,carpet,81.38,Mon,2
+616,toaster,24.23,Wed,0
+617,microwave,11.02,Mon,2
+618,decorations,11.1,5,0
+619,fan,18.26,Tue,1
+620,fan,51.82,Sat,0
+621,toaster,16.57,Sun,1
+622,toaster,25.34,Mon,0
+623,decorations,14.43,Fri,1
+624,fan,22.33,Wed,3
+625,toaster,24.82,Thur,0
+626,carpet,21.29,Fri,1
+627,toaster,24.79,Sun,2
+628,carpet,83.48,Sat,3
+629,paint,18.73,Mon,1
+630,toaster,26.51,Fri,0
+631,cookware set,38.43,Mon,1
+632,cookware set,43.02,Tue,3
+633,microwave,32.28,Sun,1
+634,cookware set,14.88,Sun,2
+635,cookware set,72.41,Tue,1
+636,fan,29.76,Wed,0
+637,microwave,22.84,Sat,2
+638,decorations,11.74,5,0
+639,paint,19.11,Wed,0
+640,toaster,29.6,Tue,0
+641,fan,21.72,Wed,1
+642,carpet,102.29,Sun,3
+643,toaster,23.32,Sun,1
+644,carpet,101.03,Tue,0
+645,decorations,12.31,5,2
+646,cookware set,23.68,Sun,1
+647,paint,10.2,Mon,0
+648,cookware set,75.76,Sun,1
+649,decorations,18.83,Thur,1
+650,cookware set,42.75,Sat,0
+651,decorations,17.72,5,0
+652,toaster,15.33,Sat,0
+653,paint,14.02,Tue,0
+654,carpet,60.63,Fri,3
+655,paint,14.77,Wed,3
+656,decorations,18.03,Mon,3
+657,cookware set,19.66,Wed,3
+658,decorations,11.71,Thur,2
+659,microwave,27.4,Wed,3
+660,decorations,13.58,Mon,0
+661,cookware set,68.09,Fri,1
+662,cookware set,61.84,Wed,1
+663,toaster,10.92,Mon,2
+664,toaster,26.31,Sun,2
+665,toaster,16.7,Sun,2
+666,toaster,14.78,Mon,3
+667,cookware set,49.58,Sat,0
+668,microwave,21.7,Sat,1
+669,paint,16.18,Thur,0
+670,toaster,29.51,Mon,3
+671,fan,42.1,Tue,0
+672,carpet,84.08,Thur,1
+673,carpet,33.62,Thur,2
+674,cookware set,101.94,Mon,0
+675,cookware set,31.22,Wed,3
+676,decorations,12.25,5,3
+677,fan,56.26,Wed,3
+678,microwave,25.56,Wed,2
+679,toaster,18.11,Sun,0
+680,carpet,103.09,Tue,1
+681,paint,10.9,Fri,0
+682,carpet,25.16,Thur,0
+683,microwave,10.34,Tue,0
+684,decorations,16.78,5,2
+685,carpet,49.04,Wed,2
+686,toaster,22.99,Tue,0
+687,decorations,14.6,Fri,2
+688,paint,12.6,Wed,0
+689,decorations,11.32,Wed,0
+690,fan,89.56,Tue,1
+691,paint,17.24,Wed,0
+692,cookware set,59.11,Mon,0
+693,paint,17.06,Sat,2
+694,toaster,16.66,Thur,3
+695,paint,12.66,Fri,0
+696,toaster,27.64,Sat,1
+697,carpet,78.9,Mon,0
+698,toaster,11.48,Thur,3
+699,cookware set,21.83,Thur,3
+700,fan,106.38,Fri,1
+701,microwave,13.82,Sat,2
+702,toaster,22.78,Tue,2
+703,paint,15.53,Thur,3
+704,paint,13.34,Thur,3
+705,paint,14.33,Mon,0
+706,cookware set,69.16,Tue,3
+707,paint,17.59,Tue,1
+708,fan,108.4,Wed,0
+709,paint,10.59,Sun,0
+710,paint,11.94,Sat,0
+711,fan,55.68,Mon,2
+712,toaster,11.93,Sun,3
+713,cookware set,27.95,Mon,0
+714,decorations,14.38,Sat,3
+715,decorations,11.86,Mon,1
+716,fan,71.21,Sat,2
+717,cookware set,107.53,Sat,0
+718,microwave,22.26,Sun,1
+719,fan,58.72,Sun,1
+720,decorations,10.99,Fri,3
+721,fan,86.67,Thur,0
+722,toaster,28.28,Fri,0
+723,decorations,19.88,5,3
+724,carpet,12.06,Wed,3
+725,paint,19.27,Mon,1
+726,paint,12.74,Mon,3
+727,toaster,26.82,Thur,1
+728,fan,54.93,Sun,3
+729,microwave,30.74,Thur,3
+730,toaster,12.96,Sun,2
+731,fan,76.36,Sat,3
+732,cookware set,66.49,Fri,2
+733,microwave,28.6,Tue,1
+734,cookware set,11.31,Tue,1
+735,carpet,109.19,Thur,1
+736,paint,14.79,Sun,0
+737,microwave,22.02,Mon,1
+738,microwave,19.81,Sun,0
+739,carpet,87.15,Mon,2
+740,carpet,56.81,Wed,3
+741,carpet,95.55,Thur,3
+742,microwave,10.65,Sat,3
+743,carpet,11.46,Fri,2
+744,decorations,14.28,Mon,1
+745,toaster,14.26,Sun,1
+746,toaster,14.44,Fri,0
+747,fan,95.39,Mon,3
+748,fan,100.12,Mon,0
+749,cookware set,28.4,Mon,0
+750,decorations,11.0,5,0
+751,decorations,12.18,5,0
+752,microwave,24.87,Sun,3
+753,microwave,25.32,Thur,1
+754,decorations,13.48,5,1
+755,microwave,32.74,Fri,2
+756,decorations,14.89,Fri,1
+757,decorations,10.78,Mon,1
+758,paint,18.23,Tue,2
+759,carpet,58.53,Fri,3
+760,decorations,19.1,Sat,2
+761,cookware set,69.26,Mon,2
+762,toaster,14.3,Wed,3
+763,cookware set,74.78,Mon,0
+764,cookware set,70.49,Sat,2
+765,fan,39.45,Fri,3
+766,fan,21.09,Sun,0
+767,cookware set,78.63,Fri,3
+768,paint,13.65,Thur,3
+769,carpet,107.14,Sat,3
+770,cookware set,73.58,Wed,1
+771,fan,48.66,Wed,1
+772,fan,63.37,Mon,1
+773,carpet,32.29,Wed,2
+774,fan,15.95,Thur,3
+775,paint,11.0,Tue,0
+776,microwave,16.29,Thur,1
+777,fan,35.11,Sun,2
+778,paint,19.09,Sat,2
+779,paint,17.87,Wed,2
+780,cookware set,21.49,Mon,2
+781,microwave,30.98,Wed,0
+782,fan,56.63,Sat,1
+783,toaster,24.6,Mon,2
+784,microwave,28.92,Sat,1
+785,cookware set,69.87,Sat,0
+786,decorations,16.32,Sat,0
+787,paint,13.91,Thur,0
+788,toaster,27.14,Sun,3
+789,carpet,53.09,Sat,2
+790,cookware set,86.2,Wed,2
+791,cookware set,29.56,Fri,1
+792,microwave,29.69,Mon,1
+793,carpet,47.4,Sat,2
+794,microwave,20.23,Mon,1
+795,microwave,37.66,Sat,1
+796,fan,36.15,Thur,3
+797,carpet,78.64,Wed,3
+798,cookware set,89.11,Wed,1
+799,paint,10.39,Sun,3
+800,paint,17.97,Fri,0
+801,cookware set,93.72,Mon,0
+802,fan,30.92,Mon,1
+803,microwave,18.31,Sat,2
+804,microwave,33.82,Thur,2
+805,paint,16.95,Thur,0
+806,cookware set,90.42,Tue,1
+807,microwave,13.41,Thur,2
+808,cookware set,107.3,Fri,3
+809,carpet,53.97,Wed,0
+810,fan,108.36,Tue,0
+811,paint,17.32,Tue,0
+812,toaster,27.38,Sun,2
+813,microwave,27.48,Fri,1
+814,paint,10.28,Fri,1
+815,paint,18.02,Wed,0
+816,fan,10.62,Wed,0
+817,microwave,28.67,Tue,1
+818,toaster,15.27,Thur,1
+819,microwave,27.87,Thur,1
+820,paint,18.84,Mon,1
+821,cookware set,96.38,Mon,0
+822,fan,45.15,Mon,1
+823,fan,93.11,Tue,1
+824,cookware set,93.74,Thur,2
+825,cookware set,28.55,Sun,2
+826,carpet,65.62,Wed,1
+827,decorations,12.01,5,0
+828,paint,19.09,Wed,0
+829,paint,16.79,Wed,1
+830,paint,11.97,Wed,2
+831,fan,69.99,Thur,2
+832,paint,16.34,Tue,0
+833,paint,14.08,Thur,0
+834,paint,12.04,Tue,0
+835,paint,19.12,Tue,3
+836,paint,10.05,Wed,3
+837,carpet,17.73,Thur,3
+838,paint,10.34,Tue,0
+839,fan,24.61,Tue,2
+840,decorations,16.59,5,2
+841,decorations,17.16,5,0
+842,microwave,23.44,Sun,3
+843,decorations,16.31,Mon,3
+844,toaster,11.2,Wed,2
+845,paint,18.68,Wed,0
+846,fan,29.0,Sun,0
+847,microwave,31.66,Wed,1
+848,microwave,25.09,Wed,2
+849,decorations,16.9,Mon,1
+850,paint,10.53,Mon,0
+851,toaster,27.45,Thur,1
+852,decorations,13.42,5,0
+853,decorations,10.34,Tue,0
+854,fan,15.9,Tue,0
+855,fan,30.79,Mon,3
+856,carpet,37.57,Mon,3
+857,cookware set,47.97,Sun,3
+858,toaster,18.5,Wed,3
+859,microwave,26.08,Tue,2
+860,fan,75.31,Sat,1
+861,carpet,103.6,Wed,1
+862,decorations,14.27,Wed,3
+863,fan,13.21,Thur,2
+864,fan,60.47,Fri,3
+865,toaster,14.34,Wed,0
+866,fan,107.56,Mon,1
+867,carpet,94.33,Fri,3
+868,toaster,14.87,Fri,1
+869,decorations,19.96,Fri,1
+870,carpet,58.4,Sat,3
+871,cookware set,19.75,Fri,1
+872,fan,37.57,Fri,1
+873,carpet,42.9,Sun,3
+874,cookware set,65.1,Mon,3
+875,fan,109.69,Fri,2
+876,microwave,28.38,Thur,0
+877,microwave,10.52,Tue,0
+878,fan,74.96,Sun,3
+879,decorations,15.03,5,1
+880,carpet,93.47,Mon,3
+881,fan,28.35,Sun,3
+882,toaster,15.6,Tue,2
+883,microwave,32.84,Mon,1
+884,cookware set,56.73,Wed,1
+885,cookware set,95.77,Fri,3
+886,microwave,17.27,Sat,2
+887,toaster,19.18,Thur,3
+888,toaster,10.53,Tue,0
+889,toaster,23.42,Mon,2
+890,microwave,18.76,Thur,3
+891,carpet,82.13,Mon,1
+892,cookware set,105.19,Mon,1
+893,cookware set,53.21,Fri,1
+894,cookware set,58.66,Mon,3
+895,carpet,40.13,Mon,2
+896,microwave,17.47,Wed,2
+897,cookware set,20.82,Thur,0
+898,paint,16.33,Sun,0
+899,microwave,39.04,Fri,0
+900,toaster,16.32,Thur,2
+901,fan,86.51,Sun,0
+902,decorations,13.57,Wed,3
+903,paint,14.47,Sat,0
+904,microwave,24.48,Mon,2
+905,cookware set,54.25,Sat,0
+906,toaster,11.22,Wed,3
+907,decorations,16.89,Mon,3
+908,decorations,11.64,5,2
+909,toaster,21.51,Fri,1
+910,fan,106.22,Sun,2
+911,carpet,38.96,Wed,3
+912,carpet,16.78,Fri,3
+913,fan,54.75,Mon,3
+914,carpet,35.66,Fri,0
+915,cookware set,85.67,Sun,0
+916,fan,17.09,Tue,2
+917,decorations,10.68,Fri,2
+918,fan,40.89,Mon,3
+919,toaster,28.64,Tue,0
+920,decorations,13.05,Fri,1
+921,decorations,11.86,5,2
+922,fan,97.21,Wed,2
+923,microwave,20.65,Wed,1
+924,paint,16.7,Fri,0
+925,carpet,87.84,Tue,0
+926,carpet,67.21,Sat,3
+927,toaster,19.62,Thur,1
+928,carpet,13.57,Thur,0
+929,paint,12.54,Thur,0
+930,paint,13.38,Sat,0
+931,carpet,89.17,Sat,2
+932,paint,10.48,Mon,0
+933,fan,68.5,Sat,2
+934,microwave,20.14,Mon,1
+935,microwave,38.54,Thur,2
+936,carpet,84.83,Sat,2
+937,carpet,63.94,Thur,0
+938,fan,11.19,Fri,1
+939,fan,44.18,Mon,0
+940,toaster,15.57,Tue,0
+941,paint,17.5,Wed,2
+942,toaster,24.89,Mon,1
+943,carpet,50.52,Fri,1
+944,microwave,21.03,Sun,2
+945,fan,83.77,Sun,1
+946,paint,18.67,Wed,0
+947,carpet,20.42,Sun,2
+948,decorations,11.74,5,1
+949,fan,73.29,Sun,3
+950,toaster,21.53,Mon,2
+951,toaster,25.56,Wed,0
+952,fan,106.03,Tue,0
+953,carpet,47.41,Wed,3
+954,decorations,16.15,Fri,1
+955,carpet,45.12,Thur,1
+956,paint,18.34,Sun,0
+957,toaster,18.22,Sun,0
+958,paint,17.02,Thur,0
+959,paint,13.92,Tue,0
+960,decorations,18.11,Wed,1
+961,cookware set,27.28,Thur,1
+962,carpet,69.67,Fri,0
+963,decorations,15.8,5,0
+964,carpet,98.06,Thur,2
+965,cookware set,54.61,Fri,1
+966,microwave,28.03,Thur,2
+967,microwave,12.48,Sat,1
+968,paint,19.51,Thur,1
+969,microwave,38.59,Sat,3
+970,decorations,18.84,5,2
+971,paint,12.48,Sun,0
+972,toaster,15.91,Thur,0
+973,microwave,16.9,Fri,2
+974,paint,19.03,Mon,0
+975,decorations,17.03,Sun,3
+976,carpet,59.64,Sun,2
+977,paint,16.43,Tue,0
+978,carpet,29.32,Sat,0
+979,paint,19.33,Wed,0
+980,paint,15.05,Tue,0
+981,paint,14.43,Wed,2
+982,cookware set,81.35,Sun,3
+983,toaster,29.11,Thur,1
+984,toaster,26.51,Wed,1
+985,microwave,20.15,Fri,0
+986,cookware set,27.65,Wed,2
+987,microwave,34.07,Wed,3
+988,microwave,38.0,Fri,1
+989,toaster,28.07,Tue,2
+990,cookware set,68.65,Thur,0
+991,toaster,15.36,Tue,2
+992,fan,48.76,Sat,0
+993,toaster,10.24,Sat,0
+994,cookware set,57.04,Thur,3
+995,carpet,95.26,Sun,1
+996,decorations,16.58,Mon,1
+997,paint,18.74,Mon,0
+998,cookware set,54.07,Sun,1
+999,fan,43.29,Wed,2

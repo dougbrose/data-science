@@ -1,0 +1,5001 @@
+id,setting
+0,studying
+1,watching TV
+2,shopping
+3,waiting for bus
+4,working
+5,driving
+6,dining
+7,dining
+8,walking
+9,walking
+10,driving
+11,before sleep
+12,before sleep
+13,waiting for bus
+14,working
+15,watching TV
+16,studying
+17,shopping
+18,dining
+19,watching TV
+20,driving
+21,dining
+22,walking
+23,driving
+24,working
+25,driving
+26,studying
+27,walking
+28,waiting for bus
+29,driving
+30,waiting for bus
+31,dining
+32,working
+33,watching TV
+34,walking
+35,shopping
+36,waiting for bus
+37,dining
+38,driving
+39,walking
+40,watching TV
+41,walking
+42,shopping
+43,dining
+44,dining
+45,working
+46,before sleep
+47,working
+48,dining
+49,walking
+50,dining
+51,walking
+52,driving
+53,dining
+54,waiting for bus
+55,studying
+56,waiting for bus
+57,dining
+58,shopping
+59,dining
+60,waiting for bus
+61,dining
+62,shopping
+63,driving
+64,studying
+65,working
+66,walking
+67,before sleep
+68,walking
+69,shopping
+70,walking
+71,waiting for bus
+72,driving
+73,waiting for bus
+74,waiting for bus
+75,watching TV
+76,watching TV
+77,before sleep
+78,driving
+79,shopping
+80,studying
+81,driving
+82,walking
+83,dining
+84,driving
+85,shopping
+86,watching TV
+87,studying
+88,driving
+89,waiting for bus
+90,driving
+91,waiting for bus
+92,driving
+93,studying
+94,driving
+95,walking
+96,watching TV
+97,waiting for bus
+98,driving
+99,before sleep
+100,before sleep
+101,driving
+102,shopping
+103,working
+104,waiting for bus
+105,dining
+106,dining
+107,watching TV
+108,watching TV
+109,dining
+110,waiting for bus
+111,shopping
+112,shopping
+113,waiting for bus
+114,dining
+115,studying
+116,working
+117,studying
+118,walking
+119,working
+120,walking
+121,dining
+122,dining
+123,studying
+124,dining
+125,waiting for bus
+126,walking
+127,driving
+128,studying
+129,walking
+130,studying
+131,driving
+132,driving
+133,working
+134,dining
+135,waiting for bus
+136,driving
+137,waiting for bus
+138,working
+139,before sleep
+140,driving
+141,working
+142,walking
+143,before sleep
+144,working
+145,studying
+146,shopping
+147,walking
+148,driving
+149,shopping
+150,walking
+151,before sleep
+152,before sleep
+153,watching TV
+154,before sleep
+155,dining
+156,working
+157,working
+158,walking
+159,working
+160,dining
+161,dining
+162,walking
+163,waiting for bus
+164,driving
+165,working
+166,studying
+167,dining
+168,driving
+169,shopping
+170,driving
+171,dining
+172,driving
+173,driving
+174,driving
+175,driving
+176,dining
+177,before sleep
+178,waiting for bus
+179,driving
+180,driving
+181,waiting for bus
+182,shopping
+183,before sleep
+184,studying
+185,waiting for bus
+186,dining
+187,shopping
+188,driving
+189,driving
+190,studying
+191,driving
+192,working
+193,studying
+194,driving
+195,waiting for bus
+196,shopping
+197,walking
+198,dining
+199,studying
+200,shopping
+201,working
+202,shopping
+203,working
+204,dining
+205,watching TV
+206,shopping
+207,watching TV
+208,waiting for bus
+209,shopping
+210,waiting for bus
+211,walking
+212,waiting for bus
+213,waiting for bus
+214,watching TV
+215,driving
+216,watching TV
+217,waiting for bus
+218,studying
+219,studying
+220,driving
+221,before sleep
+222,dining
+223,working
+224,working
+225,dining
+226,driving
+227,driving
+228,driving
+229,studying
+230,shopping
+231,studying
+232,driving
+233,driving
+234,working
+235,walking
+236,dining
+237,before sleep
+238,before sleep
+239,shopping
+240,studying
+241,driving
+242,watching TV
+243,studying
+244,waiting for bus
+245,driving
+246,walking
+247,walking
+248,driving
+249,before sleep
+250,waiting for bus
+251,studying
+252,working
+253,before sleep
+254,driving
+255,studying
+256,waiting for bus
+257,waiting for bus
+258,working
+259,driving
+260,walking
+261,driving
+262,waiting for bus
+263,watching TV
+264,driving
+265,watching TV
+266,driving
+267,shopping
+268,waiting for bus
+269,waiting for bus
+270,watching TV
+271,working
+272,studying
+273,before sleep
+274,waiting for bus
+275,watching TV
+276,studying
+277,watching TV
+278,driving
+279,driving
+280,dining
+281,driving
+282,waiting for bus
+283,waiting for bus
+284,watching TV
+285,walking
+286,working
+287,working
+288,walking
+289,walking
+290,walking
+291,walking
+292,driving
+293,watching TV
+294,driving
+295,waiting for bus
+296,before sleep
+297,waiting for bus
+298,watching TV
+299,studying
+300,shopping
+301,before sleep
+302,watching TV
+303,driving
+304,driving
+305,before sleep
+306,waiting for bus
+307,before sleep
+308,before sleep
+309,shopping
+310,driving
+311,driving
+312,walking
+313,driving
+314,walking
+315,working
+316,waiting for bus
+317,shopping
+318,walking
+319,driving
+320,driving
+321,working
+322,driving
+323,walking
+324,studying
+325,waiting for bus
+326,shopping
+327,before sleep
+328,working
+329,shopping
+330,working
+331,waiting for bus
+332,driving
+333,dining
+334,shopping
+335,walking
+336,driving
+337,shopping
+338,walking
+339,before sleep
+340,before sleep
+341,walking
+342,waiting for bus
+343,driving
+344,walking
+345,watching TV
+346,working
+347,walking
+348,driving
+349,waiting for bus
+350,walking
+351,driving
+352,walking
+353,watching TV
+354,walking
+355,driving
+356,waiting for bus
+357,walking
+358,waiting for bus
+359,before sleep
+360,watching TV
+361,driving
+362,driving
+363,driving
+364,walking
+365,working
+366,walking
+367,shopping
+368,waiting for bus
+369,walking
+370,walking
+371,watching TV
+372,walking
+373,working
+374,working
+375,shopping
+376,watching TV
+377,shopping
+378,studying
+379,waiting for bus
+380,shopping
+381,shopping
+382,watching TV
+383,walking
+384,waiting for bus
+385,driving
+386,driving
+387,waiting for bus
+388,watching TV
+389,dining
+390,working
+391,driving
+392,working
+393,driving
+394,studying
+395,driving
+396,driving
+397,shopping
+398,before sleep
+399,waiting for bus
+400,dining
+401,dining
+402,walking
+403,dining
+404,walking
+405,watching TV
+406,waiting for bus
+407,driving
+408,watching TV
+409,shopping
+410,studying
+411,dining
+412,walking
+413,shopping
+414,dining
+415,walking
+416,dining
+417,watching TV
+418,watching TV
+419,watching TV
+420,driving
+421,walking
+422,walking
+423,dining
+424,walking
+425,working
+426,watching TV
+427,working
+428,watching TV
+429,waiting for bus
+430,before sleep
+431,walking
+432,working
+433,walking
+434,studying
+435,studying
+436,studying
+437,watching TV
+438,working
+439,watching TV
+440,driving
+441,dining
+442,dining
+443,watching TV
+444,driving
+445,walking
+446,working
+447,shopping
+448,walking
+449,before sleep
+450,studying
+451,walking
+452,driving
+453,walking
+454,waiting for bus
+455,walking
+456,walking
+457,walking
+458,working
+459,walking
+460,before sleep
+461,studying
+462,before sleep
+463,studying
+464,driving
+465,waiting for bus
+466,studying
+467,dining
+468,watching TV
+469,dining
+470,driving
+471,waiting for bus
+472,driving
+473,waiting for bus
+474,driving
+475,walking
+476,driving
+477,before sleep
+478,walking
+479,shopping
+480,driving
+481,driving
+482,shopping
+483,working
+484,working
+485,working
+486,before sleep
+487,watching TV
+488,watching TV
+489,before sleep
+490,before sleep
+491,waiting for bus
+492,walking
+493,waiting for bus
+494,walking
+495,waiting for bus
+496,driving
+497,watching TV
+498,shopping
+499,waiting for bus
+500,walking
+501,watching TV
+502,walking
+503,before sleep
+504,driving
+505,driving
+506,driving
+507,before sleep
+508,watching TV
+509,studying
+510,before sleep
+511,driving
+512,walking
+513,shopping
+514,shopping
+515,studying
+516,driving
+517,dining
+518,studying
+519,before sleep
+520,driving
+521,waiting for bus
+522,waiting for bus
+523,waiting for bus
+524,shopping
+525,watching TV
+526,driving
+527,driving
+528,before sleep
+529,walking
+530,waiting for bus
+531,dining
+532,studying
+533,dining
+534,before sleep
+535,working
+536,driving
+537,driving
+538,driving
+539,driving
+540,dining
+541,driving
+542,shopping
+543,shopping
+544,walking
+545,driving
+546,watching TV
+547,waiting for bus
+548,working
+549,driving
+550,waiting for bus
+551,dining
+552,driving
+553,driving
+554,shopping
+555,walking
+556,waiting for bus
+557,watching TV
+558,watching TV
+559,shopping
+560,dining
+561,shopping
+562,watching TV
+563,driving
+564,shopping
+565,driving
+566,driving
+567,dining
+568,walking
+569,waiting for bus
+570,shopping
+571,working
+572,before sleep
+573,working
+574,driving
+575,walking
+576,driving
+577,walking
+578,working
+579,driving
+580,walking
+581,driving
+582,shopping
+583,driving
+584,working
+585,waiting for bus
+586,studying
+587,dining
+588,driving
+589,driving
+590,shopping
+591,walking
+592,walking
+593,dining
+594,before sleep
+595,before sleep
+596,studying
+597,walking
+598,driving
+599,studying
+600,shopping
+601,walking
+602,walking
+603,working
+604,walking
+605,dining
+606,driving
+607,shopping
+608,walking
+609,dining
+610,shopping
+611,dining
+612,watching TV
+613,waiting for bus
+614,driving
+615,walking
+616,shopping
+617,working
+618,waiting for bus
+619,working
+620,shopping
+621,shopping
+622,working
+623,dining
+624,walking
+625,working
+626,driving
+627,before sleep
+628,dining
+629,shopping
+630,studying
+631,walking
+632,before sleep
+633,waiting for bus
+634,walking
+635,driving
+636,driving
+637,watching TV
+638,shopping
+639,shopping
+640,studying
+641,before sleep
+642,walking
+643,shopping
+644,waiting for bus
+645,walking
+646,shopping
+647,driving
+648,working
+649,shopping
+650,walking
+651,dining
+652,working
+653,driving
+654,waiting for bus
+655,watching TV
+656,before sleep
+657,walking
+658,waiting for bus
+659,walking
+660,studying
+661,before sleep
+662,waiting for bus
+663,driving
+664,before sleep
+665,walking
+666,walking
+667,shopping
+668,dining
+669,waiting for bus
+670,waiting for bus
+671,shopping
+672,working
+673,studying
+674,driving
+675,waiting for bus
+676,walking
+677,shopping
+678,before sleep
+679,working
+680,dining
+681,driving
+682,walking
+683,driving
+684,driving
+685,watching TV
+686,working
+687,walking
+688,dining
+689,dining
+690,watching TV
+691,shopping
+692,driving
+693,watching TV
+694,driving
+695,walking
+696,walking
+697,watching TV
+698,shopping
+699,watching TV
+700,studying
+701,driving
+702,before sleep
+703,driving
+704,watching TV
+705,waiting for bus
+706,watching TV
+707,walking
+708,driving
+709,before sleep
+710,working
+711,walking
+712,working
+713,watching TV
+714,walking
+715,walking
+716,walking
+717,studying
+718,driving
+719,walking
+720,driving
+721,walking
+722,watching TV
+723,driving
+724,studying
+725,shopping
+726,driving
+727,driving
+728,dining
+729,driving
+730,driving
+731,driving
+732,waiting for bus
+733,studying
+734,driving
+735,shopping
+736,shopping
+737,walking
+738,before sleep
+739,walking
+740,driving
+741,before sleep
+742,watching TV
+743,watching TV
+744,walking
+745,watching TV
+746,driving
+747,waiting for bus
+748,driving
+749,working
+750,before sleep
+751,shopping
+752,walking
+753,walking
+754,walking
+755,shopping
+756,working
+757,working
+758,driving
+759,watching TV
+760,dining
+761,working
+762,studying
+763,walking
+764,watching TV
+765,before sleep
+766,waiting for bus
+767,working
+768,before sleep
+769,walking
+770,walking
+771,driving
+772,studying
+773,dining
+774,before sleep
+775,working
+776,watching TV
+777,before sleep
+778,walking
+779,watching TV
+780,watching TV
+781,watching TV
+782,studying
+783,driving
+784,walking
+785,studying
+786,driving
+787,dining
+788,waiting for bus
+789,working
+790,dining
+791,before sleep
+792,before sleep
+793,working
+794,before sleep
+795,shopping
+796,waiting for bus
+797,driving
+798,working
+799,working
+800,working
+801,shopping
+802,walking
+803,before sleep
+804,walking
+805,walking
+806,studying
+807,working
+808,watching TV
+809,watching TV
+810,waiting for bus
+811,driving
+812,working
+813,shopping
+814,driving
+815,driving
+816,walking
+817,driving
+818,waiting for bus
+819,walking
+820,driving
+821,driving
+822,driving
+823,waiting for bus
+824,walking
+825,watching TV
+826,shopping
+827,driving
+828,walking
+829,studying
+830,waiting for bus
+831,shopping
+832,dining
+833,before sleep
+834,waiting for bus
+835,before sleep
+836,driving
+837,watching TV
+838,watching TV
+839,driving
+840,driving
+841,watching TV
+842,before sleep
+843,dining
+844,before sleep
+845,shopping
+846,shopping
+847,walking
+848,driving
+849,driving
+850,working
+851,watching TV
+852,driving
+853,watching TV
+854,watching TV
+855,driving
+856,driving
+857,driving
+858,shopping
+859,driving
+860,driving
+861,walking
+862,driving
+863,waiting for bus
+864,walking
+865,before sleep
+866,walking
+867,walking
+868,driving
+869,working
+870,walking
+871,before sleep
+872,walking
+873,driving
+874,walking
+875,studying
+876,working
+877,driving
+878,driving
+879,shopping
+880,dining
+881,watching TV
+882,shopping
+883,watching TV
+884,driving
+885,waiting for bus
+886,shopping
+887,driving
+888,studying
+889,driving
+890,waiting for bus
+891,watching TV
+892,dining
+893,shopping
+894,walking
+895,driving
+896,walking
+897,driving
+898,studying
+899,walking
+900,walking
+901,walking
+902,walking
+903,watching TV
+904,waiting for bus
+905,watching TV
+906,working
+907,walking
+908,driving
+909,waiting for bus
+910,driving
+911,walking
+912,shopping
+913,watching TV
+914,before sleep
+915,dining
+916,waiting for bus
+917,driving
+918,walking
+919,watching TV
+920,walking
+921,walking
+922,working
+923,before sleep
+924,walking
+925,waiting for bus
+926,driving
+927,watching TV
+928,before sleep
+929,working
+930,watching TV
+931,walking
+932,studying
+933,walking
+934,before sleep
+935,watching TV
+936,shopping
+937,dining
+938,driving
+939,shopping
+940,waiting for bus
+941,shopping
+942,walking
+943,walking
+944,working
+945,driving
+946,walking
+947,studying
+948,walking
+949,walking
+950,driving
+951,working
+952,shopping
+953,walking
+954,working
+955,walking
+956,working
+957,watching TV
+958,shopping
+959,shopping
+960,waiting for bus
+961,before sleep
+962,shopping
+963,studying
+964,before sleep
+965,shopping
+966,driving
+967,before sleep
+968,shopping
+969,driving
+970,walking
+971,driving
+972,driving
+973,dining
+974,watching TV
+975,dining
+976,studying
+977,waiting for bus
+978,walking
+979,watching TV
+980,watching TV
+981,driving
+982,watching TV
+983,walking
+984,working
+985,working
+986,walking
+987,dining
+988,driving
+989,watching TV
+990,walking
+991,shopping
+992,walking
+993,studying
+994,watching TV
+995,dining
+996,driving
+997,dining
+998,driving
+999,dining
+1000,walking
+1001,driving
+1002,driving
+1003,before sleep
+1004,walking
+1005,shopping
+1006,driving
+1007,walking
+1008,working
+1009,studying
+1010,watching TV
+1011,working
+1012,waiting for bus
+1013,walking
+1014,watching TV
+1015,shopping
+1016,shopping
+1017,walking
+1018,before sleep
+1019,shopping
+1020,watching TV
+1021,dining
+1022,walking
+1023,walking
+1024,studying
+1025,walking
+1026,waiting for bus
+1027,walking
+1028,working
+1029,waiting for bus
+1030,walking
+1031,walking
+1032,watching TV
+1033,studying
+1034,watching TV
+1035,driving
+1036,driving
+1037,waiting for bus
+1038,driving
+1039,watching TV
+1040,walking
+1041,waiting for bus
+1042,driving
+1043,studying
+1044,waiting for bus
+1045,studying
+1046,shopping
+1047,studying
+1048,before sleep
+1049,driving
+1050,driving
+1051,walking
+1052,waiting for bus
+1053,watching TV
+1054,walking
+1055,driving
+1056,walking
+1057,driving
+1058,driving
+1059,studying
+1060,driving
+1061,driving
+1062,studying
+1063,before sleep
+1064,driving
+1065,watching TV
+1066,waiting for bus
+1067,driving
+1068,walking
+1069,studying
+1070,shopping
+1071,waiting for bus
+1072,driving
+1073,watching TV
+1074,shopping
+1075,before sleep
+1076,walking
+1077,driving
+1078,walking
+1079,dining
+1080,walking
+1081,studying
+1082,watching TV
+1083,waiting for bus
+1084,watching TV
+1085,walking
+1086,driving
+1087,driving
+1088,working
+1089,studying
+1090,walking
+1091,walking
+1092,driving
+1093,walking
+1094,driving
+1095,working
+1096,driving
+1097,working
+1098,driving
+1099,walking
+1100,driving
+1101,studying
+1102,dining
+1103,watching TV
+1104,walking
+1105,shopping
+1106,dining
+1107,driving
+1108,dining
+1109,shopping
+1110,before sleep
+1111,driving
+1112,walking
+1113,dining
+1114,waiting for bus
+1115,before sleep
+1116,studying
+1117,watching TV
+1118,watching TV
+1119,working
+1120,shopping
+1121,driving
+1122,waiting for bus
+1123,waiting for bus
+1124,shopping
+1125,driving
+1126,dining
+1127,dining
+1128,dining
+1129,walking
+1130,waiting for bus
+1131,driving
+1132,studying
+1133,shopping
+1134,driving
+1135,driving
+1136,before sleep
+1137,driving
+1138,before sleep
+1139,walking
+1140,shopping
+1141,dining
+1142,before sleep
+1143,shopping
+1144,working
+1145,working
+1146,driving
+1147,dining
+1148,driving
+1149,shopping
+1150,driving
+1151,driving
+1152,before sleep
+1153,studying
+1154,shopping
+1155,driving
+1156,dining
+1157,waiting for bus
+1158,walking
+1159,driving
+1160,walking
+1161,waiting for bus
+1162,studying
+1163,working
+1164,walking
+1165,studying
+1166,walking
+1167,walking
+1168,driving
+1169,working
+1170,driving
+1171,shopping
+1172,dining
+1173,waiting for bus
+1174,dining
+1175,walking
+1176,walking
+1177,shopping
+1178,walking
+1179,dining
+1180,walking
+1181,before sleep
+1182,waiting for bus
+1183,walking
+1184,driving
+1185,dining
+1186,walking
+1187,working
+1188,walking
+1189,watching TV
+1190,studying
+1191,waiting for bus
+1192,working
+1193,driving
+1194,before sleep
+1195,shopping
+1196,studying
+1197,studying
+1198,studying
+1199,driving
+1200,driving
+1201,dining
+1202,before sleep
+1203,watching TV
+1204,watching TV
+1205,waiting for bus
+1206,waiting for bus
+1207,driving
+1208,driving
+1209,dining
+1210,dining
+1211,dining
+1212,studying
+1213,watching TV
+1214,driving
+1215,before sleep
+1216,before sleep
+1217,watching TV
+1218,driving
+1219,walking
+1220,walking
+1221,driving
+1222,driving
+1223,driving
+1224,walking
+1225,shopping
+1226,driving
+1227,before sleep
+1228,waiting for bus
+1229,shopping
+1230,studying
+1231,shopping
+1232,walking
+1233,before sleep
+1234,working
+1235,walking
+1236,before sleep
+1237,waiting for bus
+1238,driving
+1239,walking
+1240,walking
+1241,driving
+1242,dining
+1243,driving
+1244,walking
+1245,driving
+1246,walking
+1247,driving
+1248,dining
+1249,dining
+1250,working
+1251,dining
+1252,watching TV
+1253,walking
+1254,watching TV
+1255,before sleep
+1256,working
+1257,driving
+1258,watching TV
+1259,driving
+1260,walking
+1261,driving
+1262,driving
+1263,dining
+1264,walking
+1265,before sleep
+1266,walking
+1267,walking
+1268,walking
+1269,shopping
+1270,waiting for bus
+1271,working
+1272,dining
+1273,dining
+1274,dining
+1275,driving
+1276,before sleep
+1277,studying
+1278,driving
+1279,studying
+1280,walking
+1281,studying
+1282,walking
+1283,waiting for bus
+1284,working
+1285,dining
+1286,studying
+1287,driving
+1288,before sleep
+1289,walking
+1290,walking
+1291,waiting for bus
+1292,watching TV
+1293,walking
+1294,driving
+1295,working
+1296,driving
+1297,before sleep
+1298,walking
+1299,driving
+1300,working
+1301,driving
+1302,waiting for bus
+1303,shopping
+1304,dining
+1305,waiting for bus
+1306,dining
+1307,waiting for bus
+1308,before sleep
+1309,walking
+1310,shopping
+1311,waiting for bus
+1312,walking
+1313,driving
+1314,dining
+1315,waiting for bus
+1316,watching TV
+1317,before sleep
+1318,shopping
+1319,waiting for bus
+1320,studying
+1321,waiting for bus
+1322,walking
+1323,walking
+1324,dining
+1325,watching TV
+1326,working
+1327,dining
+1328,driving
+1329,studying
+1330,shopping
+1331,driving
+1332,driving
+1333,shopping
+1334,working
+1335,working
+1336,shopping
+1337,shopping
+1338,driving
+1339,watching TV
+1340,before sleep
+1341,walking
+1342,studying
+1343,driving
+1344,driving
+1345,driving
+1346,before sleep
+1347,dining
+1348,driving
+1349,driving
+1350,walking
+1351,watching TV
+1352,walking
+1353,driving
+1354,working
+1355,waiting for bus
+1356,dining
+1357,shopping
+1358,waiting for bus
+1359,waiting for bus
+1360,walking
+1361,driving
+1362,waiting for bus
+1363,waiting for bus
+1364,driving
+1365,working
+1366,working
+1367,watching TV
+1368,walking
+1369,driving
+1370,waiting for bus
+1371,dining
+1372,working
+1373,dining
+1374,watching TV
+1375,driving
+1376,walking
+1377,driving
+1378,driving
+1379,working
+1380,shopping
+1381,driving
+1382,dining
+1383,walking
+1384,walking
+1385,driving
+1386,shopping
+1387,dining
+1388,shopping
+1389,dining
+1390,watching TV
+1391,before sleep
+1392,waiting for bus
+1393,before sleep
+1394,walking
+1395,walking
+1396,walking
+1397,before sleep
+1398,before sleep
+1399,waiting for bus
+1400,shopping
+1401,before sleep
+1402,working
+1403,walking
+1404,driving
+1405,waiting for bus
+1406,shopping
+1407,driving
+1408,studying
+1409,waiting for bus
+1410,studying
+1411,shopping
+1412,driving
+1413,walking
+1414,waiting for bus
+1415,shopping
+1416,dining
+1417,dining
+1418,walking
+1419,working
+1420,studying
+1421,walking
+1422,working
+1423,driving
+1424,driving
+1425,dining
+1426,watching TV
+1427,walking
+1428,driving
+1429,driving
+1430,shopping
+1431,watching TV
+1432,working
+1433,watching TV
+1434,working
+1435,walking
+1436,watching TV
+1437,walking
+1438,studying
+1439,walking
+1440,before sleep
+1441,waiting for bus
+1442,dining
+1443,walking
+1444,shopping
+1445,before sleep
+1446,dining
+1447,studying
+1448,driving
+1449,dining
+1450,waiting for bus
+1451,before sleep
+1452,shopping
+1453,shopping
+1454,waiting for bus
+1455,studying
+1456,working
+1457,walking
+1458,driving
+1459,waiting for bus
+1460,working
+1461,before sleep
+1462,studying
+1463,walking
+1464,driving
+1465,before sleep
+1466,working
+1467,studying
+1468,studying
+1469,walking
+1470,before sleep
+1471,driving
+1472,watching TV
+1473,studying
+1474,driving
+1475,working
+1476,driving
+1477,before sleep
+1478,working
+1479,walking
+1480,walking
+1481,waiting for bus
+1482,watching TV
+1483,watching TV
+1484,walking
+1485,walking
+1486,working
+1487,driving
+1488,studying
+1489,walking
+1490,watching TV
+1491,before sleep
+1492,walking
+1493,walking
+1494,shopping
+1495,shopping
+1496,studying
+1497,studying
+1498,waiting for bus
+1499,waiting for bus
+1500,dining
+1501,studying
+1502,studying
+1503,working
+1504,walking
+1505,dining
+1506,driving
+1507,walking
+1508,before sleep
+1509,driving
+1510,waiting for bus
+1511,working
+1512,walking
+1513,driving
+1514,waiting for bus
+1515,shopping
+1516,shopping
+1517,before sleep
+1518,watching TV
+1519,driving
+1520,shopping
+1521,driving
+1522,walking
+1523,watching TV
+1524,walking
+1525,watching TV
+1526,waiting for bus
+1527,studying
+1528,walking
+1529,shopping
+1530,shopping
+1531,watching TV
+1532,waiting for bus
+1533,watching TV
+1534,walking
+1535,driving
+1536,watching TV
+1537,walking
+1538,before sleep
+1539,walking
+1540,studying
+1541,driving
+1542,dining
+1543,dining
+1544,studying
+1545,walking
+1546,working
+1547,before sleep
+1548,watching TV
+1549,shopping
+1550,working
+1551,waiting for bus
+1552,watching TV
+1553,working
+1554,walking
+1555,working
+1556,driving
+1557,driving
+1558,watching TV
+1559,working
+1560,driving
+1561,walking
+1562,before sleep
+1563,walking
+1564,walking
+1565,before sleep
+1566,studying
+1567,waiting for bus
+1568,shopping
+1569,dining
+1570,dining
+1571,waiting for bus
+1572,dining
+1573,working
+1574,waiting for bus
+1575,waiting for bus
+1576,working
+1577,working
+1578,shopping
+1579,working
+1580,walking
+1581,watching TV
+1582,dining
+1583,waiting for bus
+1584,waiting for bus
+1585,dining
+1586,dining
+1587,dining
+1588,dining
+1589,driving
+1590,driving
+1591,walking
+1592,before sleep
+1593,waiting for bus
+1594,driving
+1595,driving
+1596,before sleep
+1597,driving
+1598,shopping
+1599,dining
+1600,watching TV
+1601,driving
+1602,before sleep
+1603,watching TV
+1604,dining
+1605,driving
+1606,walking
+1607,before sleep
+1608,studying
+1609,driving
+1610,waiting for bus
+1611,walking
+1612,dining
+1613,studying
+1614,working
+1615,working
+1616,driving
+1617,walking
+1618,walking
+1619,walking
+1620,before sleep
+1621,shopping
+1622,watching TV
+1623,before sleep
+1624,waiting for bus
+1625,waiting for bus
+1626,waiting for bus
+1627,studying
+1628,driving
+1629,waiting for bus
+1630,driving
+1631,watching TV
+1632,driving
+1633,driving
+1634,walking
+1635,waiting for bus
+1636,driving
+1637,waiting for bus
+1638,before sleep
+1639,driving
+1640,waiting for bus
+1641,walking
+1642,driving
+1643,driving
+1644,driving
+1645,working
+1646,driving
+1647,walking
+1648,shopping
+1649,driving
+1650,shopping
+1651,driving
+1652,waiting for bus
+1653,walking
+1654,waiting for bus
+1655,walking
+1656,shopping
+1657,driving
+1658,watching TV
+1659,working
+1660,walking
+1661,studying
+1662,shopping
+1663,driving
+1664,watching TV
+1665,walking
+1666,before sleep
+1667,waiting for bus
+1668,before sleep
+1669,watching TV
+1670,shopping
+1671,studying
+1672,shopping
+1673,watching TV
+1674,driving
+1675,dining
+1676,watching TV
+1677,watching TV
+1678,shopping
+1679,walking
+1680,walking
+1681,waiting for bus
+1682,working
+1683,dining
+1684,driving
+1685,watching TV
+1686,walking
+1687,working
+1688,walking
+1689,before sleep
+1690,before sleep
+1691,studying
+1692,before sleep
+1693,working
+1694,dining
+1695,driving
+1696,shopping
+1697,walking
+1698,waiting for bus
+1699,driving
+1700,before sleep
+1701,watching TV
+1702,dining
+1703,dining
+1704,dining
+1705,studying
+1706,watching TV
+1707,before sleep
+1708,waiting for bus
+1709,walking
+1710,shopping
+1711,walking
+1712,walking
+1713,dining
+1714,watching TV
+1715,shopping
+1716,studying
+1717,driving
+1718,dining
+1719,walking
+1720,driving
+1721,before sleep
+1722,dining
+1723,driving
+1724,driving
+1725,before sleep
+1726,walking
+1727,walking
+1728,driving
+1729,dining
+1730,before sleep
+1731,driving
+1732,dining
+1733,driving
+1734,dining
+1735,dining
+1736,walking
+1737,working
+1738,waiting for bus
+1739,walking
+1740,watching TV
+1741,driving
+1742,studying
+1743,dining
+1744,before sleep
+1745,shopping
+1746,walking
+1747,driving
+1748,before sleep
+1749,walking
+1750,dining
+1751,before sleep
+1752,dining
+1753,working
+1754,dining
+1755,waiting for bus
+1756,walking
+1757,shopping
+1758,dining
+1759,dining
+1760,watching TV
+1761,walking
+1762,waiting for bus
+1763,watching TV
+1764,driving
+1765,walking
+1766,walking
+1767,working
+1768,walking
+1769,driving
+1770,driving
+1771,driving
+1772,waiting for bus
+1773,dining
+1774,watching TV
+1775,studying
+1776,watching TV
+1777,waiting for bus
+1778,waiting for bus
+1779,watching TV
+1780,dining
+1781,waiting for bus
+1782,watching TV
+1783,shopping
+1784,shopping
+1785,watching TV
+1786,dining
+1787,watching TV
+1788,walking
+1789,shopping
+1790,walking
+1791,before sleep
+1792,walking
+1793,watching TV
+1794,watching TV
+1795,shopping
+1796,waiting for bus
+1797,watching TV
+1798,watching TV
+1799,shopping
+1800,walking
+1801,dining
+1802,waiting for bus
+1803,before sleep
+1804,studying
+1805,studying
+1806,driving
+1807,walking
+1808,working
+1809,waiting for bus
+1810,driving
+1811,studying
+1812,driving
+1813,driving
+1814,walking
+1815,before sleep
+1816,before sleep
+1817,driving
+1818,studying
+1819,waiting for bus
+1820,waiting for bus
+1821,studying
+1822,waiting for bus
+1823,watching TV
+1824,walking
+1825,shopping
+1826,before sleep
+1827,shopping
+1828,dining
+1829,walking
+1830,dining
+1831,waiting for bus
+1832,driving
+1833,watching TV
+1834,walking
+1835,watching TV
+1836,driving
+1837,dining
+1838,waiting for bus
+1839,watching TV
+1840,studying
+1841,driving
+1842,before sleep
+1843,waiting for bus
+1844,working
+1845,walking
+1846,walking
+1847,walking
+1848,dining
+1849,before sleep
+1850,studying
+1851,watching TV
+1852,shopping
+1853,watching TV
+1854,driving
+1855,dining
+1856,watching TV
+1857,watching TV
+1858,dining
+1859,studying
+1860,dining
+1861,shopping
+1862,walking
+1863,walking
+1864,shopping
+1865,driving
+1866,driving
+1867,before sleep
+1868,before sleep
+1869,walking
+1870,shopping
+1871,waiting for bus
+1872,waiting for bus
+1873,driving
+1874,walking
+1875,working
+1876,driving
+1877,walking
+1878,driving
+1879,watching TV
+1880,walking
+1881,walking
+1882,walking
+1883,driving
+1884,dining
+1885,driving
+1886,studying
+1887,before sleep
+1888,watching TV
+1889,studying
+1890,waiting for bus
+1891,walking
+1892,driving
+1893,walking
+1894,driving
+1895,waiting for bus
+1896,working
+1897,walking
+1898,waiting for bus
+1899,watching TV
+1900,before sleep
+1901,studying
+1902,driving
+1903,walking
+1904,waiting for bus
+1905,watching TV
+1906,walking
+1907,walking
+1908,watching TV
+1909,driving
+1910,waiting for bus
+1911,driving
+1912,watching TV
+1913,before sleep
+1914,walking
+1915,walking
+1916,dining
+1917,watching TV
+1918,driving
+1919,before sleep
+1920,driving
+1921,before sleep
+1922,watching TV
+1923,working
+1924,dining
+1925,walking
+1926,driving
+1927,watching TV
+1928,dining
+1929,driving
+1930,driving
+1931,dining
+1932,walking
+1933,before sleep
+1934,walking
+1935,watching TV
+1936,studying
+1937,shopping
+1938,shopping
+1939,before sleep
+1940,studying
+1941,before sleep
+1942,driving
+1943,studying
+1944,studying
+1945,before sleep
+1946,shopping
+1947,working
+1948,watching TV
+1949,before sleep
+1950,shopping
+1951,walking
+1952,watching TV
+1953,driving
+1954,walking
+1955,driving
+1956,studying
+1957,waiting for bus
+1958,walking
+1959,driving
+1960,walking
+1961,waiting for bus
+1962,watching TV
+1963,studying
+1964,dining
+1965,studying
+1966,driving
+1967,before sleep
+1968,walking
+1969,waiting for bus
+1970,before sleep
+1971,studying
+1972,before sleep
+1973,working
+1974,waiting for bus
+1975,shopping
+1976,before sleep
+1977,dining
+1978,waiting for bus
+1979,driving
+1980,driving
+1981,dining
+1982,driving
+1983,driving
+1984,before sleep
+1985,studying
+1986,shopping
+1987,waiting for bus
+1988,waiting for bus
+1989,driving
+1990,shopping
+1991,before sleep
+1992,driving
+1993,driving
+1994,shopping
+1995,driving
+1996,studying
+1997,watching TV
+1998,studying
+1999,driving
+2000,studying
+2001,studying
+2002,dining
+2003,working
+2004,driving
+2005,watching TV
+2006,studying
+2007,watching TV
+2008,walking
+2009,driving
+2010,studying
+2011,studying
+2012,studying
+2013,studying
+2014,studying
+2015,driving
+2016,watching TV
+2017,working
+2018,before sleep
+2019,waiting for bus
+2020,dining
+2021,driving
+2022,before sleep
+2023,shopping
+2024,driving
+2025,driving
+2026,before sleep
+2027,before sleep
+2028,studying
+2029,driving
+2030,before sleep
+2031,working
+2032,before sleep
+2033,walking
+2034,shopping
+2035,studying
+2036,driving
+2037,dining
+2038,driving
+2039,driving
+2040,shopping
+2041,working
+2042,driving
+2043,studying
+2044,watching TV
+2045,driving
+2046,driving
+2047,dining
+2048,before sleep
+2049,shopping
+2050,watching TV
+2051,waiting for bus
+2052,walking
+2053,before sleep
+2054,driving
+2055,walking
+2056,walking
+2057,walking
+2058,watching TV
+2059,walking
+2060,walking
+2061,walking
+2062,driving
+2063,dining
+2064,driving
+2065,walking
+2066,working
+2067,walking
+2068,walking
+2069,working
+2070,working
+2071,shopping
+2072,watching TV
+2073,walking
+2074,walking
+2075,waiting for bus
+2076,waiting for bus
+2077,walking
+2078,driving
+2079,walking
+2080,walking
+2081,walking
+2082,walking
+2083,walking
+2084,driving
+2085,driving
+2086,walking
+2087,shopping
+2088,before sleep
+2089,walking
+2090,studying
+2091,working
+2092,walking
+2093,working
+2094,watching TV
+2095,shopping
+2096,working
+2097,driving
+2098,shopping
+2099,studying
+2100,driving
+2101,before sleep
+2102,waiting for bus
+2103,walking
+2104,working
+2105,shopping
+2106,studying
+2107,driving
+2108,working
+2109,shopping
+2110,shopping
+2111,waiting for bus
+2112,walking
+2113,walking
+2114,dining
+2115,driving
+2116,before sleep
+2117,driving
+2118,dining
+2119,dining
+2120,studying
+2121,shopping
+2122,walking
+2123,watching TV
+2124,watching TV
+2125,shopping
+2126,working
+2127,walking
+2128,driving
+2129,waiting for bus
+2130,watching TV
+2131,studying
+2132,working
+2133,watching TV
+2134,working
+2135,waiting for bus
+2136,shopping
+2137,driving
+2138,waiting for bus
+2139,shopping
+2140,waiting for bus
+2141,driving
+2142,driving
+2143,watching TV
+2144,working
+2145,driving
+2146,driving
+2147,driving
+2148,watching TV
+2149,shopping
+2150,working
+2151,shopping
+2152,before sleep
+2153,driving
+2154,dining
+2155,watching TV
+2156,watching TV
+2157,waiting for bus
+2158,walking
+2159,driving
+2160,shopping
+2161,walking
+2162,watching TV
+2163,studying
+2164,studying
+2165,waiting for bus
+2166,walking
+2167,shopping
+2168,shopping
+2169,shopping
+2170,shopping
+2171,waiting for bus
+2172,walking
+2173,before sleep
+2174,dining
+2175,waiting for bus
+2176,studying
+2177,watching TV
+2178,waiting for bus
+2179,shopping
+2180,studying
+2181,working
+2182,driving
+2183,walking
+2184,studying
+2185,working
+2186,driving
+2187,walking
+2188,driving
+2189,dining
+2190,watching TV
+2191,dining
+2192,walking
+2193,working
+2194,driving
+2195,waiting for bus
+2196,studying
+2197,walking
+2198,working
+2199,walking
+2200,walking
+2201,dining
+2202,watching TV
+2203,walking
+2204,walking
+2205,waiting for bus
+2206,driving
+2207,before sleep
+2208,before sleep
+2209,studying
+2210,before sleep
+2211,driving
+2212,driving
+2213,driving
+2214,shopping
+2215,dining
+2216,driving
+2217,walking
+2218,studying
+2219,walking
+2220,walking
+2221,studying
+2222,driving
+2223,watching TV
+2224,walking
+2225,walking
+2226,shopping
+2227,dining
+2228,dining
+2229,working
+2230,working
+2231,watching TV
+2232,studying
+2233,before sleep
+2234,shopping
+2235,working
+2236,working
+2237,waiting for bus
+2238,studying
+2239,watching TV
+2240,waiting for bus
+2241,working
+2242,driving
+2243,waiting for bus
+2244,walking
+2245,walking
+2246,working
+2247,waiting for bus
+2248,walking
+2249,driving
+2250,dining
+2251,driving
+2252,dining
+2253,waiting for bus
+2254,working
+2255,walking
+2256,dining
+2257,waiting for bus
+2258,watching TV
+2259,studying
+2260,before sleep
+2261,driving
+2262,driving
+2263,watching TV
+2264,walking
+2265,walking
+2266,waiting for bus
+2267,watching TV
+2268,driving
+2269,watching TV
+2270,waiting for bus
+2271,waiting for bus
+2272,walking
+2273,walking
+2274,dining
+2275,walking
+2276,dining
+2277,walking
+2278,driving
+2279,walking
+2280,working
+2281,watching TV
+2282,waiting for bus
+2283,before sleep
+2284,watching TV
+2285,waiting for bus
+2286,driving
+2287,shopping
+2288,studying
+2289,waiting for bus
+2290,walking
+2291,walking
+2292,watching TV
+2293,waiting for bus
+2294,walking
+2295,working
+2296,working
+2297,driving
+2298,waiting for bus
+2299,watching TV
+2300,dining
+2301,walking
+2302,shopping
+2303,driving
+2304,driving
+2305,waiting for bus
+2306,before sleep
+2307,driving
+2308,working
+2309,waiting for bus
+2310,shopping
+2311,waiting for bus
+2312,waiting for bus
+2313,driving
+2314,walking
+2315,driving
+2316,driving
+2317,watching TV
+2318,studying
+2319,before sleep
+2320,working
+2321,watching TV
+2322,driving
+2323,driving
+2324,studying
+2325,studying
+2326,driving
+2327,walking
+2328,walking
+2329,walking
+2330,before sleep
+2331,driving
+2332,working
+2333,shopping
+2334,before sleep
+2335,watching TV
+2336,driving
+2337,waiting for bus
+2338,watching TV
+2339,driving
+2340,before sleep
+2341,shopping
+2342,watching TV
+2343,working
+2344,shopping
+2345,waiting for bus
+2346,dining
+2347,walking
+2348,driving
+2349,working
+2350,dining
+2351,working
+2352,walking
+2353,studying
+2354,walking
+2355,walking
+2356,waiting for bus
+2357,waiting for bus
+2358,waiting for bus
+2359,waiting for bus
+2360,driving
+2361,driving
+2362,driving
+2363,walking
+2364,studying
+2365,shopping
+2366,watching TV
+2367,dining
+2368,watching TV
+2369,walking
+2370,studying
+2371,waiting for bus
+2372,driving
+2373,shopping
+2374,walking
+2375,working
+2376,walking
+2377,before sleep
+2378,before sleep
+2379,studying
+2380,driving
+2381,driving
+2382,shopping
+2383,driving
+2384,walking
+2385,shopping
+2386,watching TV
+2387,driving
+2388,studying
+2389,studying
+2390,driving
+2391,shopping
+2392,walking
+2393,shopping
+2394,working
+2395,driving
+2396,studying
+2397,working
+2398,driving
+2399,working
+2400,working
+2401,shopping
+2402,driving
+2403,shopping
+2404,walking
+2405,waiting for bus
+2406,working
+2407,dining
+2408,waiting for bus
+2409,walking
+2410,working
+2411,waiting for bus
+2412,studying
+2413,shopping
+2414,before sleep
+2415,walking
+2416,before sleep
+2417,walking
+2418,driving
+2419,walking
+2420,walking
+2421,waiting for bus
+2422,walking
+2423,watching TV
+2424,walking
+2425,dining
+2426,driving
+2427,working
+2428,waiting for bus
+2429,watching TV
+2430,working
+2431,shopping
+2432,watching TV
+2433,waiting for bus
+2434,driving
+2435,studying
+2436,driving
+2437,driving
+2438,walking
+2439,watching TV
+2440,waiting for bus
+2441,studying
+2442,walking
+2443,walking
+2444,watching TV
+2445,before sleep
+2446,before sleep
+2447,watching TV
+2448,watching TV
+2449,walking
+2450,walking
+2451,shopping
+2452,watching TV
+2453,walking
+2454,dining
+2455,studying
+2456,shopping
+2457,studying
+2458,walking
+2459,walking
+2460,waiting for bus
+2461,studying
+2462,before sleep
+2463,walking
+2464,walking
+2465,walking
+2466,driving
+2467,working
+2468,before sleep
+2469,shopping
+2470,waiting for bus
+2471,walking
+2472,driving
+2473,waiting for bus
+2474,watching TV
+2475,dining
+2476,driving
+2477,walking
+2478,driving
+2479,shopping
+2480,waiting for bus
+2481,dining
+2482,watching TV
+2483,driving
+2484,walking
+2485,working
+2486,waiting for bus
+2487,walking
+2488,walking
+2489,waiting for bus
+2490,driving
+2491,working
+2492,driving
+2493,waiting for bus
+2494,working
+2495,watching TV
+2496,walking
+2497,waiting for bus
+2498,waiting for bus
+2499,shopping
+2500,driving
+2501,driving
+2502,before sleep
+2503,driving
+2504,dining
+2505,walking
+2506,driving
+2507,dining
+2508,dining
+2509,waiting for bus
+2510,driving
+2511,waiting for bus
+2512,walking
+2513,watching TV
+2514,dining
+2515,waiting for bus
+2516,driving
+2517,driving
+2518,shopping
+2519,studying
+2520,shopping
+2521,walking
+2522,walking
+2523,dining
+2524,before sleep
+2525,driving
+2526,studying
+2527,walking
+2528,dining
+2529,driving
+2530,watching TV
+2531,before sleep
+2532,shopping
+2533,working
+2534,studying
+2535,before sleep
+2536,watching TV
+2537,waiting for bus
+2538,waiting for bus
+2539,waiting for bus
+2540,before sleep
+2541,walking
+2542,dining
+2543,shopping
+2544,driving
+2545,shopping
+2546,walking
+2547,before sleep
+2548,watching TV
+2549,working
+2550,shopping
+2551,before sleep
+2552,walking
+2553,driving
+2554,dining
+2555,shopping
+2556,dining
+2557,shopping
+2558,working
+2559,shopping
+2560,watching TV
+2561,studying
+2562,before sleep
+2563,shopping
+2564,walking
+2565,studying
+2566,studying
+2567,before sleep
+2568,watching TV
+2569,driving
+2570,walking
+2571,watching TV
+2572,watching TV
+2573,waiting for bus
+2574,before sleep
+2575,driving
+2576,watching TV
+2577,watching TV
+2578,driving
+2579,watching TV
+2580,before sleep
+2581,driving
+2582,studying
+2583,waiting for bus
+2584,waiting for bus
+2585,waiting for bus
+2586,studying
+2587,studying
+2588,watching TV
+2589,working
+2590,dining
+2591,waiting for bus
+2592,waiting for bus
+2593,studying
+2594,walking
+2595,driving
+2596,working
+2597,walking
+2598,walking
+2599,walking
+2600,walking
+2601,dining
+2602,walking
+2603,shopping
+2604,shopping
+2605,working
+2606,working
+2607,walking
+2608,watching TV
+2609,before sleep
+2610,waiting for bus
+2611,shopping
+2612,studying
+2613,walking
+2614,driving
+2615,shopping
+2616,before sleep
+2617,studying
+2618,driving
+2619,walking
+2620,waiting for bus
+2621,studying
+2622,walking
+2623,driving
+2624,dining
+2625,studying
+2626,walking
+2627,walking
+2628,walking
+2629,walking
+2630,working
+2631,driving
+2632,shopping
+2633,driving
+2634,waiting for bus
+2635,driving
+2636,working
+2637,walking
+2638,driving
+2639,walking
+2640,before sleep
+2641,watching TV
+2642,before sleep
+2643,walking
+2644,waiting for bus
+2645,walking
+2646,studying
+2647,working
+2648,watching TV
+2649,walking
+2650,watching TV
+2651,waiting for bus
+2652,waiting for bus
+2653,shopping
+2654,walking
+2655,before sleep
+2656,walking
+2657,working
+2658,before sleep
+2659,watching TV
+2660,driving
+2661,driving
+2662,working
+2663,driving
+2664,studying
+2665,before sleep
+2666,waiting for bus
+2667,driving
+2668,watching TV
+2669,driving
+2670,watching TV
+2671,working
+2672,walking
+2673,driving
+2674,walking
+2675,driving
+2676,waiting for bus
+2677,walking
+2678,walking
+2679,shopping
+2680,dining
+2681,walking
+2682,studying
+2683,studying
+2684,driving
+2685,studying
+2686,studying
+2687,waiting for bus
+2688,dining
+2689,walking
+2690,driving
+2691,driving
+2692,walking
+2693,driving
+2694,driving
+2695,dining
+2696,waiting for bus
+2697,walking
+2698,working
+2699,watching TV
+2700,dining
+2701,waiting for bus
+2702,shopping
+2703,watching TV
+2704,watching TV
+2705,studying
+2706,waiting for bus
+2707,watching TV
+2708,waiting for bus
+2709,shopping
+2710,before sleep
+2711,studying
+2712,shopping
+2713,watching TV
+2714,watching TV
+2715,driving
+2716,driving
+2717,watching TV
+2718,shopping
+2719,waiting for bus
+2720,driving
+2721,before sleep
+2722,working
+2723,working
+2724,dining
+2725,dining
+2726,driving
+2727,walking
+2728,waiting for bus
+2729,waiting for bus
+2730,driving
+2731,watching TV
+2732,shopping
+2733,studying
+2734,working
+2735,watching TV
+2736,working
+2737,watching TV
+2738,studying
+2739,walking
+2740,driving
+2741,walking
+2742,walking
+2743,driving
+2744,shopping
+2745,watching TV
+2746,walking
+2747,walking
+2748,shopping
+2749,walking
+2750,dining
+2751,studying
+2752,shopping
+2753,driving
+2754,dining
+2755,driving
+2756,studying
+2757,watching TV
+2758,shopping
+2759,walking
+2760,working
+2761,shopping
+2762,waiting for bus
+2763,working
+2764,walking
+2765,driving
+2766,driving
+2767,walking
+2768,walking
+2769,watching TV
+2770,studying
+2771,driving
+2772,watching TV
+2773,driving
+2774,waiting for bus
+2775,driving
+2776,driving
+2777,studying
+2778,driving
+2779,shopping
+2780,waiting for bus
+2781,waiting for bus
+2782,watching TV
+2783,dining
+2784,walking
+2785,driving
+2786,shopping
+2787,shopping
+2788,walking
+2789,driving
+2790,working
+2791,driving
+2792,walking
+2793,walking
+2794,studying
+2795,walking
+2796,walking
+2797,waiting for bus
+2798,shopping
+2799,before sleep
+2800,before sleep
+2801,shopping
+2802,walking
+2803,waiting for bus
+2804,driving
+2805,dining
+2806,watching TV
+2807,driving
+2808,driving
+2809,driving
+2810,driving
+2811,walking
+2812,dining
+2813,walking
+2814,walking
+2815,shopping
+2816,studying
+2817,driving
+2818,dining
+2819,walking
+2820,driving
+2821,before sleep
+2822,watching TV
+2823,dining
+2824,walking
+2825,driving
+2826,studying
+2827,driving
+2828,before sleep
+2829,studying
+2830,walking
+2831,working
+2832,shopping
+2833,dining
+2834,driving
+2835,driving
+2836,walking
+2837,walking
+2838,driving
+2839,walking
+2840,walking
+2841,working
+2842,working
+2843,studying
+2844,waiting for bus
+2845,walking
+2846,driving
+2847,walking
+2848,dining
+2849,driving
+2850,watching TV
+2851,walking
+2852,waiting for bus
+2853,walking
+2854,driving
+2855,dining
+2856,dining
+2857,working
+2858,driving
+2859,before sleep
+2860,working
+2861,driving
+2862,waiting for bus
+2863,dining
+2864,studying
+2865,studying
+2866,walking
+2867,working
+2868,studying
+2869,waiting for bus
+2870,studying
+2871,driving
+2872,watching TV
+2873,shopping
+2874,working
+2875,before sleep
+2876,driving
+2877,driving
+2878,working
+2879,before sleep
+2880,walking
+2881,shopping
+2882,shopping
+2883,shopping
+2884,working
+2885,walking
+2886,waiting for bus
+2887,driving
+2888,working
+2889,driving
+2890,driving
+2891,walking
+2892,working
+2893,shopping
+2894,walking
+2895,driving
+2896,driving
+2897,driving
+2898,studying
+2899,watching TV
+2900,dining
+2901,shopping
+2902,walking
+2903,working
+2904,working
+2905,shopping
+2906,working
+2907,shopping
+2908,studying
+2909,walking
+2910,working
+2911,driving
+2912,studying
+2913,walking
+2914,driving
+2915,shopping
+2916,before sleep
+2917,watching TV
+2918,dining
+2919,driving
+2920,waiting for bus
+2921,walking
+2922,working
+2923,driving
+2924,walking
+2925,shopping
+2926,waiting for bus
+2927,walking
+2928,dining
+2929,walking
+2930,walking
+2931,driving
+2932,driving
+2933,shopping
+2934,studying
+2935,walking
+2936,watching TV
+2937,shopping
+2938,watching TV
+2939,driving
+2940,working
+2941,dining
+2942,studying
+2943,working
+2944,shopping
+2945,driving
+2946,driving
+2947,watching TV
+2948,walking
+2949,driving
+2950,shopping
+2951,waiting for bus
+2952,driving
+2953,shopping
+2954,dining
+2955,waiting for bus
+2956,studying
+2957,working
+2958,studying
+2959,watching TV
+2960,before sleep
+2961,waiting for bus
+2962,walking
+2963,walking
+2964,dining
+2965,working
+2966,walking
+2967,walking
+2968,walking
+2969,driving
+2970,walking
+2971,before sleep
+2972,working
+2973,before sleep
+2974,walking
+2975,shopping
+2976,waiting for bus
+2977,walking
+2978,walking
+2979,working
+2980,studying
+2981,studying
+2982,waiting for bus
+2983,shopping
+2984,shopping
+2985,driving
+2986,walking
+2987,driving
+2988,before sleep
+2989,walking
+2990,walking
+2991,watching TV
+2992,driving
+2993,working
+2994,working
+2995,watching TV
+2996,walking
+2997,shopping
+2998,studying
+2999,dining
+3000,watching TV
+3001,driving
+3002,dining
+3003,waiting for bus
+3004,shopping
+3005,waiting for bus
+3006,working
+3007,driving
+3008,waiting for bus
+3009,waiting for bus
+3010,shopping
+3011,working
+3012,shopping
+3013,watching TV
+3014,waiting for bus
+3015,studying
+3016,waiting for bus
+3017,working
+3018,walking
+3019,waiting for bus
+3020,driving
+3021,working
+3022,driving
+3023,shopping
+3024,working
+3025,waiting for bus
+3026,working
+3027,waiting for bus
+3028,dining
+3029,watching TV
+3030,driving
+3031,driving
+3032,shopping
+3033,working
+3034,driving
+3035,walking
+3036,dining
+3037,shopping
+3038,dining
+3039,driving
+3040,before sleep
+3041,studying
+3042,working
+3043,dining
+3044,shopping
+3045,studying
+3046,studying
+3047,driving
+3048,watching TV
+3049,walking
+3050,watching TV
+3051,dining
+3052,studying
+3053,driving
+3054,studying
+3055,studying
+3056,driving
+3057,dining
+3058,watching TV
+3059,driving
+3060,driving
+3061,dining
+3062,waiting for bus
+3063,watching TV
+3064,shopping
+3065,before sleep
+3066,dining
+3067,studying
+3068,studying
+3069,shopping
+3070,driving
+3071,studying
+3072,shopping
+3073,watching TV
+3074,studying
+3075,watching TV
+3076,walking
+3077,waiting for bus
+3078,watching TV
+3079,studying
+3080,watching TV
+3081,driving
+3082,shopping
+3083,waiting for bus
+3084,driving
+3085,working
+3086,walking
+3087,studying
+3088,working
+3089,watching TV
+3090,driving
+3091,watching TV
+3092,walking
+3093,driving
+3094,driving
+3095,watching TV
+3096,walking
+3097,studying
+3098,studying
+3099,driving
+3100,waiting for bus
+3101,driving
+3102,studying
+3103,studying
+3104,waiting for bus
+3105,dining
+3106,shopping
+3107,shopping
+3108,walking
+3109,walking
+3110,studying
+3111,working
+3112,watching TV
+3113,shopping
+3114,dining
+3115,walking
+3116,waiting for bus
+3117,before sleep
+3118,walking
+3119,walking
+3120,driving
+3121,driving
+3122,dining
+3123,shopping
+3124,studying
+3125,working
+3126,walking
+3127,walking
+3128,shopping
+3129,dining
+3130,before sleep
+3131,studying
+3132,watching TV
+3133,dining
+3134,before sleep
+3135,before sleep
+3136,walking
+3137,driving
+3138,walking
+3139,studying
+3140,walking
+3141,before sleep
+3142,watching TV
+3143,studying
+3144,before sleep
+3145,driving
+3146,before sleep
+3147,walking
+3148,dining
+3149,walking
+3150,watching TV
+3151,driving
+3152,studying
+3153,studying
+3154,waiting for bus
+3155,driving
+3156,working
+3157,waiting for bus
+3158,before sleep
+3159,waiting for bus
+3160,dining
+3161,driving
+3162,driving
+3163,waiting for bus
+3164,driving
+3165,shopping
+3166,walking
+3167,waiting for bus
+3168,before sleep
+3169,shopping
+3170,watching TV
+3171,shopping
+3172,waiting for bus
+3173,working
+3174,working
+3175,walking
+3176,driving
+3177,waiting for bus
+3178,watching TV
+3179,dining
+3180,shopping
+3181,waiting for bus
+3182,walking
+3183,walking
+3184,driving
+3185,driving
+3186,driving
+3187,shopping
+3188,driving
+3189,shopping
+3190,watching TV
+3191,watching TV
+3192,driving
+3193,walking
+3194,driving
+3195,dining
+3196,dining
+3197,watching TV
+3198,watching TV
+3199,dining
+3200,walking
+3201,dining
+3202,shopping
+3203,driving
+3204,waiting for bus
+3205,studying
+3206,dining
+3207,dining
+3208,shopping
+3209,walking
+3210,studying
+3211,before sleep
+3212,watching TV
+3213,studying
+3214,waiting for bus
+3215,working
+3216,working
+3217,working
+3218,dining
+3219,waiting for bus
+3220,studying
+3221,watching TV
+3222,watching TV
+3223,shopping
+3224,walking
+3225,shopping
+3226,shopping
+3227,waiting for bus
+3228,walking
+3229,waiting for bus
+3230,working
+3231,walking
+3232,working
+3233,dining
+3234,watching TV
+3235,dining
+3236,before sleep
+3237,driving
+3238,driving
+3239,watching TV
+3240,shopping
+3241,walking
+3242,working
+3243,walking
+3244,driving
+3245,driving
+3246,studying
+3247,waiting for bus
+3248,waiting for bus
+3249,driving
+3250,driving
+3251,shopping
+3252,dining
+3253,shopping
+3254,waiting for bus
+3255,waiting for bus
+3256,watching TV
+3257,waiting for bus
+3258,walking
+3259,studying
+3260,working
+3261,driving
+3262,driving
+3263,before sleep
+3264,dining
+3265,waiting for bus
+3266,walking
+3267,before sleep
+3268,watching TV
+3269,walking
+3270,watching TV
+3271,walking
+3272,waiting for bus
+3273,walking
+3274,dining
+3275,driving
+3276,before sleep
+3277,waiting for bus
+3278,waiting for bus
+3279,driving
+3280,driving
+3281,working
+3282,driving
+3283,waiting for bus
+3284,waiting for bus
+3285,studying
+3286,studying
+3287,walking
+3288,waiting for bus
+3289,driving
+3290,driving
+3291,dining
+3292,waiting for bus
+3293,waiting for bus
+3294,watching TV
+3295,walking
+3296,driving
+3297,dining
+3298,waiting for bus
+3299,before sleep
+3300,watching TV
+3301,shopping
+3302,walking
+3303,before sleep
+3304,waiting for bus
+3305,walking
+3306,driving
+3307,working
+3308,walking
+3309,waiting for bus
+3310,dining
+3311,working
+3312,walking
+3313,dining
+3314,waiting for bus
+3315,shopping
+3316,driving
+3317,watching TV
+3318,walking
+3319,walking
+3320,working
+3321,driving
+3322,dining
+3323,walking
+3324,studying
+3325,working
+3326,driving
+3327,shopping
+3328,driving
+3329,studying
+3330,driving
+3331,driving
+3332,driving
+3333,shopping
+3334,driving
+3335,driving
+3336,dining
+3337,driving
+3338,driving
+3339,walking
+3340,watching TV
+3341,watching TV
+3342,studying
+3343,walking
+3344,walking
+3345,waiting for bus
+3346,watching TV
+3347,shopping
+3348,watching TV
+3349,walking
+3350,working
+3351,studying
+3352,waiting for bus
+3353,watching TV
+3354,before sleep
+3355,before sleep
+3356,before sleep
+3357,driving
+3358,waiting for bus
+3359,shopping
+3360,working
+3361,shopping
+3362,walking
+3363,studying
+3364,walking
+3365,walking
+3366,watching TV
+3367,working
+3368,driving
+3369,driving
+3370,driving
+3371,walking
+3372,dining
+3373,walking
+3374,shopping
+3375,shopping
+3376,waiting for bus
+3377,studying
+3378,studying
+3379,watching TV
+3380,driving
+3381,walking
+3382,watching TV
+3383,waiting for bus
+3384,walking
+3385,driving
+3386,driving
+3387,driving
+3388,shopping
+3389,driving
+3390,dining
+3391,working
+3392,walking
+3393,walking
+3394,working
+3395,driving
+3396,waiting for bus
+3397,watching TV
+3398,watching TV
+3399,walking
+3400,waiting for bus
+3401,dining
+3402,walking
+3403,walking
+3404,working
+3405,before sleep
+3406,waiting for bus
+3407,dining
+3408,driving
+3409,studying
+3410,shopping
+3411,shopping
+3412,walking
+3413,shopping
+3414,shopping
+3415,waiting for bus
+3416,before sleep
+3417,driving
+3418,driving
+3419,studying
+3420,shopping
+3421,waiting for bus
+3422,waiting for bus
+3423,dining
+3424,walking
+3425,watching TV
+3426,studying
+3427,studying
+3428,driving
+3429,shopping
+3430,dining
+3431,walking
+3432,waiting for bus
+3433,shopping
+3434,before sleep
+3435,working
+3436,working
+3437,watching TV
+3438,before sleep
+3439,waiting for bus
+3440,driving
+3441,waiting for bus
+3442,walking
+3443,working
+3444,watching TV
+3445,walking
+3446,driving
+3447,working
+3448,dining
+3449,waiting for bus
+3450,walking
+3451,driving
+3452,working
+3453,working
+3454,studying
+3455,shopping
+3456,studying
+3457,driving
+3458,working
+3459,driving
+3460,driving
+3461,before sleep
+3462,waiting for bus
+3463,shopping
+3464,driving
+3465,dining
+3466,studying
+3467,watching TV
+3468,watching TV
+3469,before sleep
+3470,shopping
+3471,driving
+3472,driving
+3473,walking
+3474,working
+3475,walking
+3476,studying
+3477,driving
+3478,driving
+3479,driving
+3480,dining
+3481,studying
+3482,driving
+3483,watching TV
+3484,watching TV
+3485,walking
+3486,working
+3487,dining
+3488,working
+3489,walking
+3490,driving
+3491,before sleep
+3492,working
+3493,waiting for bus
+3494,working
+3495,shopping
+3496,before sleep
+3497,driving
+3498,walking
+3499,walking
+3500,shopping
+3501,driving
+3502,walking
+3503,before sleep
+3504,shopping
+3505,walking
+3506,walking
+3507,watching TV
+3508,waiting for bus
+3509,studying
+3510,dining
+3511,working
+3512,studying
+3513,waiting for bus
+3514,working
+3515,driving
+3516,studying
+3517,watching TV
+3518,before sleep
+3519,walking
+3520,walking
+3521,working
+3522,walking
+3523,shopping
+3524,walking
+3525,waiting for bus
+3526,driving
+3527,walking
+3528,dining
+3529,before sleep
+3530,waiting for bus
+3531,shopping
+3532,watching TV
+3533,studying
+3534,watching TV
+3535,before sleep
+3536,studying
+3537,studying
+3538,walking
+3539,shopping
+3540,working
+3541,watching TV
+3542,working
+3543,walking
+3544,walking
+3545,waiting for bus
+3546,dining
+3547,shopping
+3548,walking
+3549,driving
+3550,walking
+3551,walking
+3552,before sleep
+3553,walking
+3554,watching TV
+3555,driving
+3556,walking
+3557,waiting for bus
+3558,before sleep
+3559,waiting for bus
+3560,walking
+3561,working
+3562,dining
+3563,watching TV
+3564,waiting for bus
+3565,dining
+3566,shopping
+3567,driving
+3568,before sleep
+3569,working
+3570,walking
+3571,walking
+3572,waiting for bus
+3573,driving
+3574,working
+3575,driving
+3576,driving
+3577,waiting for bus
+3578,walking
+3579,driving
+3580,walking
+3581,shopping
+3582,walking
+3583,walking
+3584,before sleep
+3585,driving
+3586,driving
+3587,studying
+3588,watching TV
+3589,waiting for bus
+3590,driving
+3591,walking
+3592,waiting for bus
+3593,driving
+3594,studying
+3595,shopping
+3596,driving
+3597,driving
+3598,driving
+3599,walking
+3600,driving
+3601,studying
+3602,studying
+3603,studying
+3604,working
+3605,walking
+3606,studying
+3607,dining
+3608,waiting for bus
+3609,dining
+3610,driving
+3611,walking
+3612,driving
+3613,before sleep
+3614,shopping
+3615,dining
+3616,watching TV
+3617,studying
+3618,driving
+3619,shopping
+3620,driving
+3621,walking
+3622,driving
+3623,walking
+3624,walking
+3625,waiting for bus
+3626,waiting for bus
+3627,walking
+3628,walking
+3629,working
+3630,working
+3631,watching TV
+3632,walking
+3633,working
+3634,studying
+3635,watching TV
+3636,before sleep
+3637,walking
+3638,walking
+3639,waiting for bus
+3640,shopping
+3641,driving
+3642,waiting for bus
+3643,waiting for bus
+3644,before sleep
+3645,watching TV
+3646,driving
+3647,shopping
+3648,working
+3649,shopping
+3650,working
+3651,driving
+3652,walking
+3653,walking
+3654,driving
+3655,walking
+3656,before sleep
+3657,walking
+3658,walking
+3659,working
+3660,driving
+3661,dining
+3662,working
+3663,walking
+3664,studying
+3665,shopping
+3666,driving
+3667,waiting for bus
+3668,studying
+3669,watching TV
+3670,studying
+3671,waiting for bus
+3672,shopping
+3673,shopping
+3674,shopping
+3675,watching TV
+3676,working
+3677,before sleep
+3678,watching TV
+3679,walking
+3680,studying
+3681,watching TV
+3682,driving
+3683,studying
+3684,waiting for bus
+3685,dining
+3686,waiting for bus
+3687,shopping
+3688,driving
+3689,shopping
+3690,walking
+3691,walking
+3692,walking
+3693,walking
+3694,walking
+3695,walking
+3696,working
+3697,walking
+3698,studying
+3699,driving
+3700,working
+3701,driving
+3702,working
+3703,watching TV
+3704,studying
+3705,driving
+3706,driving
+3707,walking
+3708,watching TV
+3709,shopping
+3710,driving
+3711,driving
+3712,driving
+3713,before sleep
+3714,walking
+3715,driving
+3716,working
+3717,shopping
+3718,walking
+3719,walking
+3720,driving
+3721,before sleep
+3722,working
+3723,driving
+3724,driving
+3725,studying
+3726,driving
+3727,studying
+3728,studying
+3729,working
+3730,before sleep
+3731,driving
+3732,driving
+3733,walking
+3734,shopping
+3735,waiting for bus
+3736,waiting for bus
+3737,walking
+3738,walking
+3739,dining
+3740,waiting for bus
+3741,watching TV
+3742,driving
+3743,walking
+3744,driving
+3745,studying
+3746,waiting for bus
+3747,shopping
+3748,waiting for bus
+3749,dining
+3750,driving
+3751,shopping
+3752,studying
+3753,walking
+3754,studying
+3755,driving
+3756,walking
+3757,driving
+3758,walking
+3759,watching TV
+3760,watching TV
+3761,before sleep
+3762,studying
+3763,before sleep
+3764,waiting for bus
+3765,working
+3766,studying
+3767,walking
+3768,walking
+3769,watching TV
+3770,watching TV
+3771,shopping
+3772,walking
+3773,driving
+3774,before sleep
+3775,shopping
+3776,watching TV
+3777,working
+3778,waiting for bus
+3779,working
+3780,waiting for bus
+3781,driving
+3782,driving
+3783,driving
+3784,before sleep
+3785,walking
+3786,studying
+3787,walking
+3788,driving
+3789,waiting for bus
+3790,waiting for bus
+3791,dining
+3792,driving
+3793,studying
+3794,studying
+3795,driving
+3796,walking
+3797,shopping
+3798,dining
+3799,waiting for bus
+3800,working
+3801,dining
+3802,walking
+3803,waiting for bus
+3804,waiting for bus
+3805,waiting for bus
+3806,driving
+3807,walking
+3808,studying
+3809,working
+3810,driving
+3811,before sleep
+3812,studying
+3813,dining
+3814,shopping
+3815,walking
+3816,walking
+3817,before sleep
+3818,walking
+3819,watching TV
+3820,watching TV
+3821,walking
+3822,walking
+3823,dining
+3824,shopping
+3825,watching TV
+3826,studying
+3827,dining
+3828,watching TV
+3829,driving
+3830,waiting for bus
+3831,working
+3832,shopping
+3833,working
+3834,shopping
+3835,walking
+3836,driving
+3837,walking
+3838,driving
+3839,working
+3840,walking
+3841,walking
+3842,watching TV
+3843,dining
+3844,before sleep
+3845,walking
+3846,driving
+3847,driving
+3848,shopping
+3849,studying
+3850,driving
+3851,walking
+3852,driving
+3853,before sleep
+3854,working
+3855,waiting for bus
+3856,walking
+3857,driving
+3858,watching TV
+3859,waiting for bus
+3860,driving
+3861,walking
+3862,driving
+3863,before sleep
+3864,walking
+3865,driving
+3866,shopping
+3867,walking
+3868,driving
+3869,driving
+3870,working
+3871,before sleep
+3872,driving
+3873,walking
+3874,watching TV
+3875,studying
+3876,working
+3877,dining
+3878,before sleep
+3879,watching TV
+3880,studying
+3881,walking
+3882,before sleep
+3883,walking
+3884,watching TV
+3885,before sleep
+3886,shopping
+3887,walking
+3888,watching TV
+3889,before sleep
+3890,waiting for bus
+3891,dining
+3892,walking
+3893,working
+3894,shopping
+3895,before sleep
+3896,waiting for bus
+3897,before sleep
+3898,waiting for bus
+3899,watching TV
+3900,working
+3901,working
+3902,driving
+3903,working
+3904,dining
+3905,watching TV
+3906,driving
+3907,before sleep
+3908,watching TV
+3909,walking
+3910,waiting for bus
+3911,shopping
+3912,shopping
+3913,shopping
+3914,shopping
+3915,walking
+3916,before sleep
+3917,shopping
+3918,driving
+3919,shopping
+3920,watching TV
+3921,working
+3922,watching TV
+3923,studying
+3924,walking
+3925,waiting for bus
+3926,walking
+3927,working
+3928,waiting for bus
+3929,working
+3930,watching TV
+3931,waiting for bus
+3932,walking
+3933,walking
+3934,shopping
+3935,watching TV
+3936,studying
+3937,waiting for bus
+3938,waiting for bus
+3939,studying
+3940,watching TV
+3941,waiting for bus
+3942,before sleep
+3943,walking
+3944,shopping
+3945,studying
+3946,dining
+3947,studying
+3948,walking
+3949,watching TV
+3950,before sleep
+3951,waiting for bus
+3952,dining
+3953,dining
+3954,dining
+3955,walking
+3956,studying
+3957,before sleep
+3958,walking
+3959,shopping
+3960,shopping
+3961,before sleep
+3962,shopping
+3963,working
+3964,driving
+3965,walking
+3966,dining
+3967,before sleep
+3968,walking
+3969,working
+3970,shopping
+3971,walking
+3972,studying
+3973,studying
+3974,watching TV
+3975,driving
+3976,walking
+3977,watching TV
+3978,driving
+3979,walking
+3980,walking
+3981,driving
+3982,shopping
+3983,studying
+3984,studying
+3985,shopping
+3986,working
+3987,waiting for bus
+3988,driving
+3989,waiting for bus
+3990,working
+3991,walking
+3992,before sleep
+3993,walking
+3994,working
+3995,walking
+3996,driving
+3997,driving
+3998,driving
+3999,dining
+4000,before sleep
+4001,dining
+4002,shopping
+4003,working
+4004,studying
+4005,watching TV
+4006,shopping
+4007,working
+4008,studying
+4009,waiting for bus
+4010,driving
+4011,driving
+4012,driving
+4013,working
+4014,before sleep
+4015,watching TV
+4016,driving
+4017,waiting for bus
+4018,walking
+4019,before sleep
+4020,working
+4021,walking
+4022,working
+4023,driving
+4024,before sleep
+4025,walking
+4026,working
+4027,walking
+4028,waiting for bus
+4029,driving
+4030,shopping
+4031,studying
+4032,shopping
+4033,walking
+4034,shopping
+4035,driving
+4036,waiting for bus
+4037,before sleep
+4038,driving
+4039,before sleep
+4040,watching TV
+4041,before sleep
+4042,waiting for bus
+4043,shopping
+4044,working
+4045,dining
+4046,waiting for bus
+4047,walking
+4048,walking
+4049,dining
+4050,shopping
+4051,driving
+4052,shopping
+4053,shopping
+4054,working
+4055,waiting for bus
+4056,walking
+4057,studying
+4058,dining
+4059,dining
+4060,waiting for bus
+4061,dining
+4062,walking
+4063,walking
+4064,watching TV
+4065,before sleep
+4066,waiting for bus
+4067,walking
+4068,driving
+4069,watching TV
+4070,studying
+4071,shopping
+4072,walking
+4073,dining
+4074,working
+4075,before sleep
+4076,driving
+4077,waiting for bus
+4078,driving
+4079,before sleep
+4080,before sleep
+4081,walking
+4082,walking
+4083,before sleep
+4084,shopping
+4085,watching TV
+4086,shopping
+4087,driving
+4088,before sleep
+4089,working
+4090,shopping
+4091,walking
+4092,studying
+4093,waiting for bus
+4094,driving
+4095,studying
+4096,studying
+4097,driving
+4098,shopping
+4099,walking
+4100,walking
+4101,watching TV
+4102,working
+4103,walking
+4104,dining
+4105,driving
+4106,driving
+4107,shopping
+4108,waiting for bus
+4109,shopping
+4110,shopping
+4111,walking
+4112,working
+4113,walking
+4114,studying
+4115,waiting for bus
+4116,studying
+4117,walking
+4118,driving
+4119,watching TV
+4120,waiting for bus
+4121,driving
+4122,walking
+4123,walking
+4124,walking
+4125,driving
+4126,watching TV
+4127,driving
+4128,shopping
+4129,shopping
+4130,driving
+4131,waiting for bus
+4132,waiting for bus
+4133,driving
+4134,driving
+4135,waiting for bus
+4136,walking
+4137,driving
+4138,walking
+4139,working
+4140,waiting for bus
+4141,walking
+4142,dining
+4143,shopping
+4144,before sleep
+4145,working
+4146,before sleep
+4147,walking
+4148,dining
+4149,watching TV
+4150,studying
+4151,studying
+4152,walking
+4153,dining
+4154,walking
+4155,driving
+4156,working
+4157,watching TV
+4158,watching TV
+4159,driving
+4160,studying
+4161,shopping
+4162,studying
+4163,waiting for bus
+4164,walking
+4165,dining
+4166,studying
+4167,working
+4168,dining
+4169,studying
+4170,watching TV
+4171,driving
+4172,shopping
+4173,walking
+4174,shopping
+4175,watching TV
+4176,walking
+4177,shopping
+4178,watching TV
+4179,watching TV
+4180,working
+4181,shopping
+4182,shopping
+4183,walking
+4184,working
+4185,before sleep
+4186,shopping
+4187,driving
+4188,walking
+4189,working
+4190,driving
+4191,working
+4192,dining
+4193,driving
+4194,working
+4195,working
+4196,walking
+4197,shopping
+4198,dining
+4199,shopping
+4200,shopping
+4201,driving
+4202,before sleep
+4203,watching TV
+4204,studying
+4205,watching TV
+4206,dining
+4207,studying
+4208,waiting for bus
+4209,watching TV
+4210,driving
+4211,watching TV
+4212,driving
+4213,driving
+4214,walking
+4215,walking
+4216,driving
+4217,shopping
+4218,studying
+4219,walking
+4220,walking
+4221,before sleep
+4222,watching TV
+4223,working
+4224,waiting for bus
+4225,driving
+4226,dining
+4227,driving
+4228,waiting for bus
+4229,before sleep
+4230,watching TV
+4231,waiting for bus
+4232,working
+4233,shopping
+4234,waiting for bus
+4235,shopping
+4236,dining
+4237,watching TV
+4238,shopping
+4239,studying
+4240,driving
+4241,watching TV
+4242,driving
+4243,walking
+4244,driving
+4245,before sleep
+4246,waiting for bus
+4247,shopping
+4248,waiting for bus
+4249,driving
+4250,before sleep
+4251,walking
+4252,watching TV
+4253,waiting for bus
+4254,working
+4255,dining
+4256,before sleep
+4257,walking
+4258,driving
+4259,before sleep
+4260,waiting for bus
+4261,shopping
+4262,walking
+4263,walking
+4264,walking
+4265,watching TV
+4266,walking
+4267,walking
+4268,walking
+4269,dining
+4270,working
+4271,working
+4272,walking
+4273,driving
+4274,before sleep
+4275,shopping
+4276,shopping
+4277,driving
+4278,dining
+4279,shopping
+4280,walking
+4281,studying
+4282,studying
+4283,dining
+4284,walking
+4285,driving
+4286,walking
+4287,driving
+4288,walking
+4289,driving
+4290,driving
+4291,waiting for bus
+4292,shopping
+4293,studying
+4294,walking
+4295,watching TV
+4296,before sleep
+4297,watching TV
+4298,working
+4299,walking
+4300,before sleep
+4301,studying
+4302,dining
+4303,before sleep
+4304,studying
+4305,dining
+4306,waiting for bus
+4307,driving
+4308,walking
+4309,driving
+4310,walking
+4311,walking
+4312,working
+4313,waiting for bus
+4314,watching TV
+4315,watching TV
+4316,driving
+4317,driving
+4318,driving
+4319,waiting for bus
+4320,driving
+4321,walking
+4322,walking
+4323,dining
+4324,before sleep
+4325,driving
+4326,watching TV
+4327,driving
+4328,walking
+4329,dining
+4330,waiting for bus
+4331,before sleep
+4332,watching TV
+4333,watching TV
+4334,waiting for bus
+4335,shopping
+4336,driving
+4337,dining
+4338,shopping
+4339,dining
+4340,working
+4341,working
+4342,dining
+4343,dining
+4344,driving
+4345,driving
+4346,before sleep
+4347,shopping
+4348,walking
+4349,walking
+4350,driving
+4351,walking
+4352,walking
+4353,driving
+4354,studying
+4355,walking
+4356,driving
+4357,working
+4358,waiting for bus
+4359,watching TV
+4360,driving
+4361,shopping
+4362,working
+4363,walking
+4364,before sleep
+4365,driving
+4366,walking
+4367,walking
+4368,before sleep
+4369,watching TV
+4370,waiting for bus
+4371,walking
+4372,dining
+4373,shopping
+4374,dining
+4375,before sleep
+4376,working
+4377,walking
+4378,working
+4379,watching TV
+4380,driving
+4381,waiting for bus
+4382,watching TV
+4383,walking
+4384,waiting for bus
+4385,before sleep
+4386,before sleep
+4387,waiting for bus
+4388,driving
+4389,walking
+4390,waiting for bus
+4391,watching TV
+4392,watching TV
+4393,waiting for bus
+4394,studying
+4395,driving
+4396,dining
+4397,working
+4398,driving
+4399,shopping
+4400,waiting for bus
+4401,studying
+4402,walking
+4403,walking
+4404,watching TV
+4405,waiting for bus
+4406,before sleep
+4407,waiting for bus
+4408,walking
+4409,waiting for bus
+4410,walking
+4411,driving
+4412,waiting for bus
+4413,driving
+4414,studying
+4415,working
+4416,driving
+4417,driving
+4418,dining
+4419,watching TV
+4420,watching TV
+4421,watching TV
+4422,before sleep
+4423,driving
+4424,before sleep
+4425,shopping
+4426,driving
+4427,before sleep
+4428,waiting for bus
+4429,driving
+4430,watching TV
+4431,dining
+4432,driving
+4433,walking
+4434,waiting for bus
+4435,waiting for bus
+4436,before sleep
+4437,walking
+4438,dining
+4439,waiting for bus
+4440,shopping
+4441,shopping
+4442,studying
+4443,before sleep
+4444,working
+4445,waiting for bus
+4446,shopping
+4447,driving
+4448,before sleep
+4449,driving
+4450,driving
+4451,waiting for bus
+4452,walking
+4453,watching TV
+4454,dining
+4455,waiting for bus
+4456,watching TV
+4457,working
+4458,shopping
+4459,dining
+4460,watching TV
+4461,driving
+4462,before sleep
+4463,driving
+4464,driving
+4465,shopping
+4466,driving
+4467,walking
+4468,watching TV
+4469,walking
+4470,walking
+4471,watching TV
+4472,before sleep
+4473,driving
+4474,working
+4475,driving
+4476,waiting for bus
+4477,driving
+4478,walking
+4479,waiting for bus
+4480,watching TV
+4481,watching TV
+4482,waiting for bus
+4483,walking
+4484,waiting for bus
+4485,studying
+4486,driving
+4487,shopping
+4488,watching TV
+4489,walking
+4490,before sleep
+4491,before sleep
+4492,dining
+4493,driving
+4494,watching TV
+4495,walking
+4496,working
+4497,shopping
+4498,driving
+4499,shopping
+4500,walking
+4501,watching TV
+4502,waiting for bus
+4503,shopping
+4504,driving
+4505,dining
+4506,waiting for bus
+4507,walking
+4508,working
+4509,working
+4510,walking
+4511,waiting for bus
+4512,waiting for bus
+4513,waiting for bus
+4514,shopping
+4515,working
+4516,walking
+4517,studying
+4518,walking
+4519,dining
+4520,studying
+4521,waiting for bus
+4522,before sleep
+4523,dining
+4524,waiting for bus
+4525,before sleep
+4526,driving
+4527,driving
+4528,dining
+4529,before sleep
+4530,shopping
+4531,before sleep
+4532,shopping
+4533,waiting for bus
+4534,walking
+4535,studying
+4536,walking
+4537,dining
+4538,walking
+4539,working
+4540,walking
+4541,dining
+4542,walking
+4543,waiting for bus
+4544,watching TV
+4545,walking
+4546,waiting for bus
+4547,waiting for bus
+4548,working
+4549,driving
+4550,waiting for bus
+4551,dining
+4552,walking
+4553,shopping
+4554,driving
+4555,shopping
+4556,shopping
+4557,working
+4558,walking
+4559,watching TV
+4560,dining
+4561,shopping
+4562,before sleep
+4563,driving
+4564,working
+4565,watching TV
+4566,studying
+4567,working
+4568,waiting for bus
+4569,dining
+4570,dining
+4571,driving
+4572,dining
+4573,dining
+4574,before sleep
+4575,driving
+4576,before sleep
+4577,working
+4578,driving
+4579,walking
+4580,studying
+4581,waiting for bus
+4582,driving
+4583,driving
+4584,watching TV
+4585,before sleep
+4586,driving
+4587,shopping
+4588,dining
+4589,walking
+4590,driving
+4591,driving
+4592,watching TV
+4593,walking
+4594,before sleep
+4595,working
+4596,shopping
+4597,walking
+4598,walking
+4599,studying
+4600,walking
+4601,before sleep
+4602,walking
+4603,walking
+4604,before sleep
+4605,studying
+4606,driving
+4607,before sleep
+4608,dining
+4609,driving
+4610,shopping
+4611,driving
+4612,watching TV
+4613,waiting for bus
+4614,watching TV
+4615,shopping
+4616,working
+4617,watching TV
+4618,walking
+4619,dining
+4620,dining
+4621,driving
+4622,shopping
+4623,walking
+4624,walking
+4625,walking
+4626,before sleep
+4627,studying
+4628,before sleep
+4629,driving
+4630,shopping
+4631,driving
+4632,studying
+4633,walking
+4634,watching TV
+4635,studying
+4636,before sleep
+4637,driving
+4638,shopping
+4639,driving
+4640,waiting for bus
+4641,walking
+4642,watching TV
+4643,walking
+4644,waiting for bus
+4645,working
+4646,shopping
+4647,driving
+4648,studying
+4649,driving
+4650,before sleep
+4651,driving
+4652,walking
+4653,walking
+4654,watching TV
+4655,waiting for bus
+4656,shopping
+4657,driving
+4658,driving
+4659,waiting for bus
+4660,walking
+4661,studying
+4662,driving
+4663,waiting for bus
+4664,studying
+4665,watching TV
+4666,dining
+4667,driving
+4668,driving
+4669,watching TV
+4670,studying
+4671,working
+4672,shopping
+4673,dining
+4674,studying
+4675,studying
+4676,waiting for bus
+4677,driving
+4678,dining
+4679,waiting for bus
+4680,driving
+4681,dining
+4682,driving
+4683,shopping
+4684,waiting for bus
+4685,driving
+4686,walking
+4687,watching TV
+4688,dining
+4689,driving
+4690,walking
+4691,dining
+4692,shopping
+4693,driving
+4694,dining
+4695,walking
+4696,watching TV
+4697,watching TV
+4698,dining
+4699,dining
+4700,waiting for bus
+4701,before sleep
+4702,working
+4703,working
+4704,watching TV
+4705,driving
+4706,studying
+4707,driving
+4708,before sleep
+4709,shopping
+4710,working
+4711,walking
+4712,waiting for bus
+4713,waiting for bus
+4714,watching TV
+4715,driving
+4716,before sleep
+4717,driving
+4718,studying
+4719,watching TV
+4720,walking
+4721,driving
+4722,driving
+4723,working
+4724,waiting for bus
+4725,waiting for bus
+4726,shopping
+4727,driving
+4728,walking
+4729,waiting for bus
+4730,waiting for bus
+4731,before sleep
+4732,walking
+4733,studying
+4734,watching TV
+4735,watching TV
+4736,driving
+4737,driving
+4738,studying
+4739,walking
+4740,watching TV
+4741,studying
+4742,walking
+4743,watching TV
+4744,waiting for bus
+4745,working
+4746,before sleep
+4747,studying
+4748,driving
+4749,walking
+4750,watching TV
+4751,working
+4752,studying
+4753,studying
+4754,studying
+4755,shopping
+4756,waiting for bus
+4757,waiting for bus
+4758,waiting for bus
+4759,waiting for bus
+4760,dining
+4761,working
+4762,shopping
+4763,working
+4764,waiting for bus
+4765,walking
+4766,driving
+4767,shopping
+4768,waiting for bus
+4769,walking
+4770,shopping
+4771,driving
+4772,driving
+4773,before sleep
+4774,before sleep
+4775,walking
+4776,walking
+4777,walking
+4778,watching TV
+4779,driving
+4780,walking
+4781,working
+4782,before sleep
+4783,shopping
+4784,walking
+4785,driving
+4786,watching TV
+4787,waiting for bus
+4788,shopping
+4789,walking
+4790,driving
+4791,walking
+4792,walking
+4793,studying
+4794,before sleep
+4795,shopping
+4796,waiting for bus
+4797,watching TV
+4798,before sleep
+4799,driving
+4800,studying
+4801,walking
+4802,watching TV
+4803,studying
+4804,shopping
+4805,driving
+4806,working
+4807,driving
+4808,before sleep
+4809,working
+4810,studying
+4811,walking
+4812,dining
+4813,walking
+4814,before sleep
+4815,studying
+4816,driving
+4817,working
+4818,shopping
+4819,waiting for bus
+4820,waiting for bus
+4821,driving
+4822,walking
+4823,watching TV
+4824,walking
+4825,driving
+4826,walking
+4827,waiting for bus
+4828,driving
+4829,shopping
+4830,walking
+4831,driving
+4832,watching TV
+4833,walking
+4834,walking
+4835,driving
+4836,before sleep
+4837,watching TV
+4838,before sleep
+4839,walking
+4840,studying
+4841,studying
+4842,shopping
+4843,waiting for bus
+4844,watching TV
+4845,before sleep
+4846,waiting for bus
+4847,before sleep
+4848,walking
+4849,shopping
+4850,studying
+4851,working
+4852,watching TV
+4853,driving
+4854,watching TV
+4855,shopping
+4856,driving
+4857,driving
+4858,working
+4859,working
+4860,driving
+4861,driving
+4862,dining
+4863,working
+4864,working
+4865,working
+4866,shopping
+4867,driving
+4868,driving
+4869,dining
+4870,dining
+4871,driving
+4872,before sleep
+4873,driving
+4874,before sleep
+4875,walking
+4876,watching TV
+4877,dining
+4878,driving
+4879,shopping
+4880,driving
+4881,studying
+4882,dining
+4883,studying
+4884,walking
+4885,before sleep
+4886,studying
+4887,working
+4888,working
+4889,walking
+4890,working
+4891,working
+4892,before sleep
+4893,driving
+4894,walking
+4895,dining
+4896,driving
+4897,dining
+4898,driving
+4899,before sleep
+4900,dining
+4901,waiting for bus
+4902,waiting for bus
+4903,walking
+4904,studying
+4905,shopping
+4906,driving
+4907,shopping
+4908,driving
+4909,waiting for bus
+4910,walking
+4911,driving
+4912,driving
+4913,driving
+4914,driving
+4915,driving
+4916,working
+4917,dining
+4918,before sleep
+4919,driving
+4920,shopping
+4921,watching TV
+4922,dining
+4923,studying
+4924,walking
+4925,before sleep
+4926,walking
+4927,driving
+4928,driving
+4929,walking
+4930,shopping
+4931,walking
+4932,working
+4933,shopping
+4934,walking
+4935,driving
+4936,studying
+4937,shopping
+4938,driving
+4939,walking
+4940,before sleep
+4941,driving
+4942,working
+4943,studying
+4944,working
+4945,driving
+4946,working
+4947,walking
+4948,walking
+4949,waiting for bus
+4950,walking
+4951,watching TV
+4952,working
+4953,working
+4954,watching TV
+4955,driving
+4956,driving
+4957,dining
+4958,studying
+4959,waiting for bus
+4960,waiting for bus
+4961,shopping
+4962,driving
+4963,driving
+4964,driving
+4965,driving
+4966,before sleep
+4967,driving
+4968,driving
+4969,walking
+4970,studying
+4971,watching TV
+4972,watching TV
+4973,watching TV
+4974,driving
+4975,driving
+4976,studying
+4977,working
+4978,walking
+4979,before sleep
+4980,waiting for bus
+4981,driving
+4982,driving
+4983,working
+4984,walking
+4985,dining
+4986,shopping
+4987,waiting for bus
+4988,waiting for bus
+4989,waiting for bus
+4990,before sleep
+4991,driving
+4992,studying
+4993,driving
+4994,working
+4995,waiting for bus
+4996,working
+4997,dining
+4998,studying
+4999,driving

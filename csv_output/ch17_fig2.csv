@@ -1,0 +1,1001 @@
+id,total-spend,payment-method
+0,134.05,credit card
+1,149.24,credit card
+2,175.54,credit card
+3,100.93,credit card
+4,148.32,credit card
+5,95.1,credit card
+6,109.68,check
+7,33.82,credit card
+8,145.13,credit card
+9,139.59,credit card
+10,141.81,credit card
+11,172.32,credit card
+12,147.06,credit card
+13,119.37,credit card
+14,126.84,credit card
+15,121.98,credit card
+16,35.46,credit card
+17,85.48,credit card
+18,124.48,credit card
+19,170.64,credit card
+20,112.04,credit card
+21,193.38,credit card
+22,138.29,credit card
+23,183.1,credit card
+24,99.85,credit card
+25,188.49,credit card
+26,185.81,credit card
+27,137.82,credit card
+28,190.89,credit card
+29,64.92,paypal
+30,127.49,paypal
+31,102.91,paypal
+32,191.84,paypal
+33,133.81,paypal
+34,194.18,paypal
+35,184.9,paypal
+36,105.19,paypal
+37,115.18,paypal
+38,145.31,credit card
+39,157.73,credit card
+40,150.97,credit card
+41,141.82,credit card
+42,193.78,credit card
+43,93.0,credit card
+44,126.97,credit card
+45,118.9,credit card
+46,141.38,credit card
+47,49.7,cash
+48,179.74,cash
+49,30.48,credit card
+50,172.14,credit card
+51,53.26,credit card
+52,172.37,credit card
+53,112.38,credit card
+54,141.85,credit card
+55,80.84,credit card
+56,136.19,credit card
+57,111.95,credit card
+58,141.7,credit card
+59,86.47,credit card
+60,147.13,paypal
+61,67.92,credit card
+62,145.57,credit card
+63,116.13,credit card
+64,72.03,credit card
+65,200.94,credit card
+66,97.78,credit card
+67,101.66,credit card
+68,31.63,credit card
+69,124.25,credit card
+70,30.77,credit card
+71,196.88,credit card
+72,144.57,credit card
+73,67.12,credit card
+74,26.01,credit card
+75,177.69,credit card
+76,143.78,credit card
+77,175.18,credit card
+78,100.01,paypal
+79,131.61,paypal
+80,126.09,paypal
+81,174.21,paypal
+82,174.66,paypal
+83,62.23,credit card
+84,127.68,credit card
+85,107.81,credit card
+86,111.69,credit card
+87,172.83,credit card
+88,109.24,credit card
+89,140.65,credit card
+90,121.27,credit card
+91,49.8,paypal
+92,131.65,credit card
+93,133.32,credit card
+94,142.04,credit card
+95,111.02,credit card
+96,129.09,credit card
+97,195.05,credit card
+98,38.12,credit card
+99,92.65,credit card
+100,133.23,credit card
+101,169.49,credit card
+102,53.36,credit card
+103,53.71,credit card
+104,140.52,credit card
+105,109.34,credit card
+106,187.68,credit card
+107,109.79,credit card
+108,105.56,credit card
+109,173.78,credit card
+110,139.94,credit card
+111,127.21,credit card
+112,153.15,credit card
+113,187.04,credit card
+114,105.98,credit card
+115,124.07,credit card
+116,49.43,credit card
+117,131.59,credit card
+118,97.85,credit card
+119,46.7,paypal
+120,41.88,credit card
+121,69.2,credit card
+122,79.03,check
+123,69.23,credit card
+124,127.13,credit card
+125,134.97,credit card
+126,110.52,credit card
+127,113.37,credit card
+128,110.56,credit card
+129,106.11,credit card
+130,29.64,credit card
+131,102.09,credit card
+132,138.5,credit card
+133,162.75,credit card
+134,174.18,credit card
+135,184.73,credit card
+136,163.31,credit card
+137,30.57,credit card
+138,142.09,credit card
+139,46.0,credit card
+140,124.42,credit card
+141,160.51,credit card
+142,100.86,credit card
+143,55.3,credit card
+144,146.83,credit card
+145,121.2,credit card
+146,195.35,credit card
+147,108.82,credit card
+148,165.7,credit card
+149,136.94,credit card
+150,48.5,credit card
+151,102.76,paypal
+152,40.49,credit card
+153,172.92,credit card
+154,190.56,credit card
+155,147.82,credit card
+156,43.76,credit card
+157,192.05,credit card
+158,114.1,credit card
+159,131.39,credit card
+160,184.53,credit card
+161,124.13,credit card
+162,189.87,credit card
+163,25.17,credit card
+164,138.01,credit card
+165,142.04,credit card
+166,111.77,credit card
+167,146.76,credit card
+168,121.4,credit card
+169,106.69,credit card
+170,97.74,paypal
+171,161.72,paypal
+172,105.94,credit card
+173,185.39,credit card
+174,191.71,credit card
+175,110.07,credit card
+176,142.93,credit card
+177,130.21,credit card
+178,107.21,credit card
+179,139.51,credit card
+180,147.93,credit card
+181,160.67,credit card
+182,73.44,credit card
+183,116.11,credit card
+184,62.02,credit card
+185,75.3,paypal
+186,95.78,paypal
+187,36.43,cash
+188,111.45,credit card
+189,143.98,credit card
+190,99.16,credit card
+191,78.1,credit card
+192,133.01,credit card
+193,177.37,credit card
+194,194.65,credit card
+195,75.87,paypal
+196,163.11,paypal
+197,169.8,paypal
+198,151.09,paypal
+199,101.64,credit card
+200,41.4,credit card
+201,23.04,credit card
+202,97.9,credit card
+203,141.62,credit card
+204,122.85,credit card
+205,125.43,credit card
+206,78.9,credit card
+207,90.07,credit card
+208,42.54,credit card
+209,146.6,credit card
+210,157.94,credit card
+211,64.33,credit card
+212,148.94,credit card
+213,103.73,credit card
+214,40.0,credit card
+215,131.08,paypal
+216,154.64,paypal
+217,163.57,paypal
+218,149.11,paypal
+219,121.33,credit card
+220,142.4,credit card
+221,144.66,credit card
+222,31.81,cash
+223,92.64,credit card
+224,127.76,credit card
+225,116.09,credit card
+226,176.08,credit card
+227,152.72,credit card
+228,61.24,credit card
+229,42.66,credit card
+230,146.55,credit card
+231,120.15,credit card
+232,198.79,credit card
+233,122.32,credit card
+234,150.41,credit card
+235,119.74,credit card
+236,118.66,credit card
+237,101.11,credit card
+238,120.68,credit card
+239,112.59,credit card
+240,194.5,credit card
+241,147.46,credit card
+242,71.53,check
+243,56.35,credit card
+244,38.42,cash
+245,108.26,cash
+246,183.6,cash
+247,157.79,cash
+248,138.43,credit card
+249,138.18,credit card
+250,133.46,credit card
+251,117.74,credit card
+252,142.93,credit card
+253,193.84,credit card
+254,38.67,credit card
+255,138.26,credit card
+256,119.96,credit card
+257,168.23,credit card
+258,75.35,credit card
+259,132.93,credit card
+260,87.84,check
+261,125.06,cash
+262,136.23,credit card
+263,193.37,credit card
+264,187.67,credit card
+265,149.25,credit card
+266,179.38,credit card
+267,82.34,check
+268,28.6,credit card
+269,157.21,credit card
+270,147.01,credit card
+271,177.43,credit card
+272,25.8,paypal
+273,94.38,paypal
+274,191.79,paypal
+275,171.56,paypal
+276,102.25,credit card
+277,144.82,credit card
+278,149.04,credit card
+279,181.61,credit card
+280,154.66,credit card
+281,123.45,paypal
+282,188.16,paypal
+283,67.09,credit card
+284,110.42,credit card
+285,189.45,credit card
+286,111.8,credit card
+287,123.08,credit card
+288,82.13,paypal
+289,159.06,paypal
+290,64.55,credit card
+291,84.36,credit card
+292,156.08,credit card
+293,110.37,credit card
+294,113.8,credit card
+295,49.72,cash
+296,21.17,credit card
+297,174.38,credit card
+298,110.28,credit card
+299,109.14,credit card
+300,199.55,credit card
+301,116.49,credit card
+302,77.87,credit card
+303,126.16,credit card
+304,157.22,credit card
+305,121.7,credit card
+306,110.43,credit card
+307,164.88,credit card
+308,144.27,credit card
+309,155.09,credit card
+310,167.26,credit card
+311,142.58,credit card
+312,133.87,credit card
+313,69.44,credit card
+314,180.05,credit card
+315,180.37,credit card
+316,180.72,credit card
+317,157.6,credit card
+318,123.77,credit card
+319,146.42,paypal
+320,117.26,credit card
+321,159.8,credit card
+322,179.27,credit card
+323,131.86,credit card
+324,196.82,credit card
+325,128.36,credit card
+326,129.33,credit card
+327,29.21,paypal
+328,169.45,paypal
+329,68.75,credit card
+330,144.15,credit card
+331,118.25,credit card
+332,150.38,credit card
+333,145.15,credit card
+334,147.33,credit card
+335,130.95,credit card
+336,51.12,credit card
+337,36.79,credit card
+338,113.79,credit card
+339,124.75,credit card
+340,189.72,credit card
+341,165.04,credit card
+342,167.19,credit card
+343,144.19,credit card
+344,121.07,credit card
+345,117.28,credit card
+346,142.03,credit card
+347,119.18,credit card
+348,173.91,credit card
+349,148.96,credit card
+350,91.98,cash
+351,101.03,cash
+352,147.26,credit card
+353,151.5,credit card
+354,91.84,credit card
+355,49.1,credit card
+356,166.84,credit card
+357,107.36,credit card
+358,140.93,credit card
+359,49.06,credit card
+360,154.55,credit card
+361,176.33,credit card
+362,50.15,cash
+363,150.89,cash
+364,170.41,cash
+365,115.62,credit card
+366,123.24,credit card
+367,182.92,credit card
+368,171.04,credit card
+369,200.3,credit card
+370,80.66,credit card
+371,131.33,credit card
+372,180.5,credit card
+373,150.69,credit card
+374,99.34,credit card
+375,20.46,credit card
+376,98.51,check
+377,74.11,credit card
+378,156.25,credit card
+379,97.99,paypal
+380,138.39,cash
+381,179.74,cash
+382,102.28,cash
+383,104.1,credit card
+384,136.71,credit card
+385,182.52,credit card
+386,108.71,credit card
+387,34.37,credit card
+388,67.96,cash
+389,37.13,paypal
+390,185.83,paypal
+391,58.39,credit card
+392,128.6,credit card
+393,126.23,credit card
+394,159.54,credit card
+395,114.79,credit card
+396,101.28,credit card
+397,199.35,credit card
+398,123.79,credit card
+399,198.01,credit card
+400,136.01,credit card
+401,182.59,credit card
+402,197.54,credit card
+403,89.99,credit card
+404,141.75,credit card
+405,60.94,paypal
+406,125.29,paypal
+407,131.61,paypal
+408,105.98,paypal
+409,197.34,paypal
+410,25.33,credit card
+411,143.4,credit card
+412,45.84,credit card
+413,77.08,credit card
+414,68.97,paypal
+415,73.75,credit card
+416,136.03,credit card
+417,116.95,credit card
+418,125.9,check
+419,196.22,check
+420,153.83,check
+421,69.05,credit card
+422,23.29,check
+423,135.5,check
+424,127.42,paypal
+425,69.33,credit card
+426,33.19,credit card
+427,75.36,check
+428,79.04,cash
+429,164.66,cash
+430,74.45,credit card
+431,166.37,credit card
+432,186.69,credit card
+433,191.24,credit card
+434,119.07,credit card
+435,103.6,credit card
+436,85.69,credit card
+437,141.9,credit card
+438,184.18,credit card
+439,109.9,credit card
+440,143.56,credit card
+441,62.77,credit card
+442,34.86,credit card
+443,124.02,credit card
+444,25.7,check
+445,169.82,check
+446,152.41,check
+447,115.29,paypal
+448,130.13,cash
+449,132.34,cash
+450,105.67,cash
+451,193.71,cash
+452,145.68,cash
+453,113.25,cash
+454,102.75,credit card
+455,183.52,credit card
+456,123.4,credit card
+457,76.59,cash
+458,128.4,cash
+459,61.21,credit card
+460,110.1,cash
+461,106.75,cash
+462,150.49,cash
+463,109.48,cash
+464,150.46,cash
+465,167.59,cash
+466,125.4,cash
+467,190.33,cash
+468,167.25,cash
+469,116.22,credit card
+470,125.96,credit card
+471,116.35,credit card
+472,26.59,check
+473,121.45,check
+474,176.55,check
+475,182.97,check
+476,144.66,check
+477,187.11,check
+478,117.44,check
+479,157.88,check
+480,166.64,check
+481,103.87,check
+482,118.3,check
+483,62.35,credit card
+484,117.69,credit card
+485,186.67,credit card
+486,146.05,paypal
+487,162.17,paypal
+488,168.2,paypal
+489,44.24,credit card
+490,148.58,credit card
+491,160.73,credit card
+492,190.42,credit card
+493,65.48,credit card
+494,139.83,credit card
+495,187.24,credit card
+496,170.54,credit card
+497,195.23,credit card
+498,119.35,credit card
+499,79.93,credit card
+500,108.35,credit card
+501,69.9,paypal
+502,120.89,paypal
+503,61.6,credit card
+504,120.34,credit card
+505,44.15,credit card
+506,122.6,credit card
+507,182.28,credit card
+508,96.62,credit card
+509,142.21,credit card
+510,123.47,credit card
+511,52.58,credit card
+512,130.51,credit card
+513,167.12,credit card
+514,140.21,credit card
+515,113.52,credit card
+516,153.03,credit card
+517,115.44,credit card
+518,145.06,credit card
+519,108.16,credit card
+520,111.73,credit card
+521,162.07,credit card
+522,161.61,credit card
+523,199.72,credit card
+524,138.83,credit card
+525,126.34,paypal
+526,183.32,paypal
+527,136.81,paypal
+528,135.58,credit card
+529,23.39,credit card
+530,172.82,credit card
+531,128.84,credit card
+532,166.3,credit card
+533,200.42,credit card
+534,112.99,paypal
+535,95.65,cash
+536,174.48,cash
+537,135.66,cash
+538,142.0,paypal
+539,99.85,credit card
+540,105.97,credit card
+541,149.24,credit card
+542,30.77,credit card
+543,117.89,credit card
+544,163.47,credit card
+545,192.77,credit card
+546,76.71,credit card
+547,130.03,credit card
+548,146.24,credit card
+549,131.73,credit card
+550,110.39,credit card
+551,177.32,credit card
+552,36.03,credit card
+553,138.53,credit card
+554,139.66,credit card
+555,138.17,credit card
+556,155.72,credit card
+557,112.75,paypal
+558,194.33,paypal
+559,109.0,paypal
+560,144.54,paypal
+561,92.08,credit card
+562,178.26,credit card
+563,101.41,credit card
+564,190.78,credit card
+565,122.85,credit card
+566,192.49,credit card
+567,121.93,credit card
+568,141.0,credit card
+569,123.89,credit card
+570,123.27,credit card
+571,117.25,credit card
+572,112.38,credit card
+573,141.25,credit card
+574,197.28,credit card
+575,181.16,credit card
+576,101.83,credit card
+577,181.22,credit card
+578,163.87,credit card
+579,145.65,paypal
+580,141.26,check
+581,60.56,credit card
+582,66.15,credit card
+583,182.64,credit card
+584,130.58,credit card
+585,63.03,credit card
+586,82.57,credit card
+587,36.46,credit card
+588,83.43,cash
+589,66.96,paypal
+590,32.63,credit card
+591,134.24,credit card
+592,164.0,credit card
+593,28.05,credit card
+594,125.62,credit card
+595,104.68,credit card
+596,71.45,credit card
+597,99.25,credit card
+598,103.53,credit card
+599,107.79,credit card
+600,147.3,credit card
+601,161.87,credit card
+602,178.37,credit card
+603,134.02,credit card
+604,111.9,credit card
+605,168.98,credit card
+606,128.74,credit card
+607,155.41,credit card
+608,128.09,cash
+609,114.36,cash
+610,144.11,credit card
+611,132.57,credit card
+612,89.13,credit card
+613,129.07,credit card
+614,163.11,credit card
+615,104.43,credit card
+616,97.35,credit card
+617,23.36,cash
+618,108.45,cash
+619,94.9,credit card
+620,28.61,paypal
+621,113.71,paypal
+622,129.97,paypal
+623,130.67,paypal
+624,88.7,cash
+625,194.9,cash
+626,189.84,cash
+627,150.48,cash
+628,131.84,cash
+629,184.18,cash
+630,129.22,check
+631,93.33,cash
+632,148.63,cash
+633,108.5,credit card
+634,192.67,credit card
+635,109.08,credit card
+636,103.46,credit card
+637,58.73,credit card
+638,148.05,credit card
+639,126.4,paypal
+640,185.88,paypal
+641,51.24,credit card
+642,134.36,credit card
+643,118.91,credit card
+644,46.22,credit card
+645,127.2,credit card
+646,140.94,credit card
+647,177.55,credit card
+648,141.56,credit card
+649,99.21,cash
+650,89.91,cash
+651,104.88,cash
+652,142.24,cash
+653,139.98,cash
+654,23.44,credit card
+655,200.51,credit card
+656,120.89,credit card
+657,91.88,cash
+658,28.46,check
+659,28.73,credit card
+660,64.06,credit card
+661,167.13,credit card
+662,193.95,credit card
+663,61.37,credit card
+664,91.14,credit card
+665,110.61,credit card
+666,65.93,credit card
+667,144.08,credit card
+668,168.55,credit card
+669,107.91,cash
+670,133.33,cash
+671,130.51,credit card
+672,154.31,credit card
+673,98.78,credit card
+674,172.78,credit card
+675,138.36,credit card
+676,139.73,credit card
+677,145.02,credit card
+678,133.09,credit card
+679,44.94,credit card
+680,134.29,credit card
+681,197.65,credit card
+682,191.11,credit card
+683,67.96,cash
+684,196.3,cash
+685,140.34,cash
+686,183.16,cash
+687,53.04,credit card
+688,140.43,credit card
+689,199.25,credit card
+690,90.7,credit card
+691,127.62,check
+692,131.27,check
+693,156.07,check
+694,113.72,credit card
+695,199.53,credit card
+696,135.29,credit card
+697,144.58,credit card
+698,178.53,credit card
+699,138.64,credit card
+700,131.89,credit card
+701,130.15,credit card
+702,32.8,credit card
+703,64.42,cash
+704,128.08,credit card
+705,109.05,credit card
+706,165.38,credit card
+707,143.12,credit card
+708,25.22,credit card
+709,157.54,credit card
+710,142.82,credit card
+711,129.74,credit card
+712,86.47,credit card
+713,127.36,credit card
+714,199.09,credit card
+715,150.88,credit card
+716,167.99,credit card
+717,27.52,paypal
+718,193.07,paypal
+719,147.24,credit card
+720,65.61,credit card
+721,82.83,credit card
+722,106.27,cash
+723,147.0,cash
+724,21.29,credit card
+725,126.56,credit card
+726,146.81,credit card
+727,107.89,credit card
+728,71.89,credit card
+729,141.53,credit card
+730,85.98,cash
+731,42.02,credit card
+732,158.06,credit card
+733,187.9,credit card
+734,100.18,credit card
+735,150.18,credit card
+736,93.53,cash
+737,111.46,cash
+738,154.76,cash
+739,200.18,cash
+740,112.74,credit card
+741,138.51,credit card
+742,138.44,credit card
+743,134.99,cash
+744,193.14,cash
+745,39.73,credit card
+746,40.89,credit card
+747,145.84,credit card
+748,78.73,credit card
+749,195.47,credit card
+750,113.9,credit card
+751,141.09,credit card
+752,101.09,credit card
+753,150.77,credit card
+754,186.63,credit card
+755,63.63,credit card
+756,37.16,credit card
+757,25.58,credit card
+758,171.57,credit card
+759,39.91,credit card
+760,120.57,credit card
+761,100.33,credit card
+762,120.59,credit card
+763,122.44,credit card
+764,87.56,credit card
+765,80.71,credit card
+766,130.87,credit card
+767,41.18,paypal
+768,157.91,paypal
+769,156.86,paypal
+770,62.04,credit card
+771,156.73,credit card
+772,141.45,credit card
+773,101.34,credit card
+774,160.94,credit card
+775,187.89,credit card
+776,180.78,credit card
+777,165.89,credit card
+778,111.11,credit card
+779,189.91,credit card
+780,104.62,credit card
+781,115.32,credit card
+782,134.5,credit card
+783,134.8,credit card
+784,133.99,credit card
+785,102.7,credit card
+786,144.46,credit card
+787,148.17,credit card
+788,189.02,credit card
+789,131.77,credit card
+790,122.76,credit card
+791,121.38,credit card
+792,104.28,credit card
+793,136.14,credit card
+794,133.63,credit card
+795,126.26,credit card
+796,133.23,credit card
+797,88.55,credit card
+798,183.69,credit card
+799,144.55,credit card
+800,68.12,credit card
+801,196.44,credit card
+802,124.37,credit card
+803,169.73,credit card
+804,188.07,credit card
+805,76.82,cash
+806,120.4,cash
+807,200.63,cash
+808,151.07,cash
+809,194.39,cash
+810,118.13,credit card
+811,197.43,credit card
+812,170.23,credit card
+813,172.27,credit card
+814,103.31,credit card
+815,156.77,credit card
+816,177.5,credit card
+817,78.08,paypal
+818,181.97,paypal
+819,188.61,paypal
+820,176.81,paypal
+821,104.83,paypal
+822,53.07,credit card
+823,132.1,credit card
+824,116.87,credit card
+825,164.91,credit card
+826,77.99,check
+827,174.38,check
+828,176.72,check
+829,108.44,check
+830,188.32,check
+831,183.21,check
+832,90.12,credit card
+833,154.12,credit card
+834,129.99,credit card
+835,154.65,credit card
+836,146.74,credit card
+837,144.86,credit card
+838,112.12,credit card
+839,83.98,cash
+840,175.43,cash
+841,140.38,cash
+842,172.1,cash
+843,134.04,cash
+844,127.33,cash
+845,127.31,cash
+846,140.37,credit card
+847,27.93,credit card
+848,123.02,credit card
+849,128.84,credit card
+850,39.88,credit card
+851,123.55,cash
+852,56.25,credit card
+853,176.25,credit card
+854,32.38,credit card
+855,105.02,credit card
+856,124.82,credit card
+857,95.77,credit card
+858,130.26,credit card
+859,118.42,credit card
+860,61.15,credit card
+861,105.5,credit card
+862,49.48,paypal
+863,105.65,credit card
+864,153.46,credit card
+865,157.89,credit card
+866,163.89,credit card
+867,160.42,credit card
+868,157.85,credit card
+869,86.36,credit card
+870,122.93,credit card
+871,145.66,credit card
+872,143.1,credit card
+873,103.5,paypal
+874,149.24,paypal
+875,36.88,credit card
+876,132.38,credit card
+877,108.95,credit card
+878,27.18,paypal
+879,158.52,paypal
+880,55.9,credit card
+881,183.4,credit card
+882,195.13,credit card
+883,108.53,credit card
+884,166.15,credit card
+885,119.27,credit card
+886,169.55,credit card
+887,62.62,credit card
+888,104.3,credit card
+889,46.03,check
+890,185.64,check
+891,177.77,check
+892,113.79,check
+893,84.88,credit card
+894,118.72,credit card
+895,175.7,credit card
+896,159.89,credit card
+897,191.79,credit card
+898,113.76,credit card
+899,106.76,cash
+900,172.27,cash
+901,168.74,cash
+902,165.36,cash
+903,77.48,credit card
+904,76.17,paypal
+905,115.68,paypal
+906,130.31,credit card
+907,195.46,credit card
+908,118.0,check
+909,180.64,check
+910,134.97,check
+911,133.97,credit card
+912,41.52,credit card
+913,158.99,credit card
+914,173.78,credit card
+915,151.14,credit card
+916,169.15,credit card
+917,43.71,credit card
+918,167.37,credit card
+919,53.77,check
+920,30.28,paypal
+921,83.57,credit card
+922,29.17,credit card
+923,84.21,paypal
+924,42.55,credit card
+925,170.38,credit card
+926,144.71,credit card
+927,87.09,credit card
+928,114.48,credit card
+929,189.09,credit card
+930,156.81,credit card
+931,140.59,cash
+932,133.94,cash
+933,60.51,paypal
+934,66.28,credit card
+935,38.73,credit card
+936,49.77,credit card
+937,173.02,credit card
+938,64.81,credit card
+939,176.11,credit card
+940,125.97,credit card
+941,73.96,credit card
+942,185.56,credit card
+943,166.61,credit card
+944,141.51,credit card
+945,70.6,credit card
+946,175.7,credit card
+947,61.06,credit card
+948,137.63,credit card
+949,124.52,credit card
+950,176.36,credit card
+951,83.89,credit card
+952,150.15,credit card
+953,39.11,credit card
+954,171.16,credit card
+955,50.89,credit card
+956,56.84,cash
+957,177.76,cash
+958,133.08,credit card
+959,126.14,credit card
+960,105.38,paypal
+961,95.81,cash
+962,115.97,cash
+963,114.77,cash
+964,114.48,cash
+965,122.37,cash
+966,138.01,cash
+967,134.55,credit card
+968,141.71,credit card
+969,144.59,cash
+970,194.2,cash
+971,100.26,cash
+972,55.33,credit card
+973,187.27,credit card
+974,99.59,credit card
+975,71.87,cash
+976,167.22,cash
+977,137.22,cash
+978,35.88,credit card
+979,118.15,credit card
+980,114.97,credit card
+981,33.91,credit card
+982,79.76,paypal
+983,184.28,paypal
+984,109.09,paypal
+985,60.24,credit card
+986,130.05,credit card
+987,156.7,credit card
+988,137.42,credit card
+989,147.65,credit card
+990,154.25,credit card
+991,109.25,credit card
+992,168.22,credit card
+993,134.8,credit card
+994,55.33,credit card
+995,124.59,credit card
+996,46.1,credit card
+997,151.33,credit card
+998,100.18,credit card
+999,184.47,credit card

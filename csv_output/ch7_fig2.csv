@@ -1,0 +1,3001 @@
+id,type,age
+0,stability,26
+1,neutral,74
+2,stability,51
+3,neutral,82
+4,cushioned stability,89
+5,neutral,20
+6,lightweight trainer,78
+7,neutral,80
+8,walking,87
+9,stability,50
+10,stability,73
+11,stability,22
+12,racing,33
+13,lightweight trainer,89
+14,stability,49
+15,stability,64
+16,lightweight trainer,18
+17,stability,52
+18,neutral,68
+19,cross-trainer,83
+20,stability,35
+21,stability,44
+22,lightweight trainer,76
+23,stability,45
+24,stability,67
+25,walking,77
+26,cross-trainer,98
+27,stability,24
+28,racing,63
+29,stability,52
+30,stability,63
+31,lightweight trainer,89
+32,cross-trainer,71
+33,neutral,86
+34,stability,55
+35,stability,98
+36,trail,19
+37,neutral,78
+38,cross-trainer,83
+39,stability,62
+40,neutral,76
+41,stability,58
+42,walking,4
+43,lightweight trainer,20
+44,stability,47
+45,neutral,78
+46,stability,46
+47,stability,57
+48,stability,28
+49,stability,41
+50,stability,50
+51,stability,56
+52,racing,19
+53,stability,43
+54,neutral,67
+55,cushioned stability,70
+56,stability,62
+57,stability,23
+58,trail,34
+59,lightweight trainer,84
+60,stability,41
+61,lightweight trainer,58
+62,neutral,72
+63,cross-trainer,21
+64,stability,70
+65,stability,45
+66,walking,92
+67,stability,58
+68,stability,22
+69,motion control,19
+70,neutral,20
+71,walking,79
+72,lightweight trainer,33
+73,stability,55
+74,stability,45
+75,cross-trainer,72
+76,stability,35
+77,stability,47
+78,stability,74
+79,stability,51
+80,stability,61
+81,motion control,27
+82,cushioned stability,83
+83,stability,45
+84,lightweight trainer,10
+85,stability,22
+86,neutral,74
+87,neutral,72
+88,lightweight trainer,9
+89,stability,52
+90,neutral,21
+91,walking,20
+92,stability,55
+93,cushioned stability,90
+94,stability,53
+95,stability,56
+96,stability,24
+97,stability,22
+98,cross-trainer,88
+99,cross-trainer,90
+100,neutral,45
+101,stability,26
+102,cross-trainer,24
+103,stability,51
+104,stability,29
+105,neutral,7
+106,stability,83
+107,stability,30
+108,neutral,69
+109,stability,44
+110,stability,30
+111,walking,89
+112,walking,81
+113,neutral,20
+114,cross-trainer,98
+115,cross-trainer,94
+116,cross-trainer,80
+117,walking,67
+118,stability,24
+119,stability,43
+120,stability,38
+121,stability,27
+122,neutral,57
+123,stability,48
+124,neutral,69
+125,neutral,70
+126,cushioned stability,73
+127,lightweight trainer,1
+128,neutral,83
+129,stability,55
+130,stability,41
+131,stability,49
+132,cushioned stability,97
+133,stability,44
+134,stability,35
+135,stability,38
+136,neutral,19
+137,neutral,66
+138,cushioned stability,90
+139,stability,50
+140,neutral,41
+141,stability,60
+142,cushioned stability,90
+143,stability,82
+144,stability,47
+145,stability,57
+146,stability,46
+147,walking,5
+148,cross-trainer,22
+149,lightweight trainer,55
+150,walking,90
+151,stability,28
+152,stability,38
+153,cushioned stability,74
+154,stability,36
+155,stability,33
+156,stability,40
+157,stability,26
+158,lightweight trainer,19
+159,motion control,31
+160,cross-trainer,86
+161,motion control,16
+162,cushioned stability,99
+163,neutral,79
+164,stability,57
+165,lightweight trainer,75
+166,stability,40
+167,lightweight trainer,6
+168,lightweight trainer,34
+169,stability,27
+170,lightweight trainer,18
+171,walking,71
+172,stability,42
+173,cross-trainer,90
+174,stability,39
+175,neutral,69
+176,stability,30
+177,stability,99
+178,stability,58
+179,stability,24
+180,cross-trainer,18
+181,cross-trainer,66
+182,neutral,45
+183,neutral,86
+184,stability,22
+185,stability,37
+186,stability,60
+187,stability,32
+188,stability,58
+189,neutral,24
+190,stability,62
+191,stability,69
+192,cross-trainer,83
+193,stability,39
+194,walking,70
+195,cross-trainer,85
+196,stability,31
+197,stability,42
+198,stability,59
+199,lightweight trainer,91
+200,stability,59
+201,lightweight trainer,60
+202,neutral,26
+203,stability,58
+204,stability,54
+205,stability,31
+206,neutral,87
+207,neutral,69
+208,stability,54
+209,cross-trainer,59
+210,racing,10
+211,neutral,25
+212,cross-trainer,52
+213,stability,45
+214,stability,34
+215,stability,33
+216,stability,55
+217,cross-trainer,18
+218,stability,62
+219,trail,50
+220,stability,60
+221,racing,64
+222,cushioned stability,77
+223,cross-trainer,42
+224,stability,72
+225,cross-trainer,82
+226,stability,90
+227,cushioned stability,75
+228,stability,23
+229,stability,32
+230,cross-trainer,91
+231,stability,87
+232,stability,42
+233,neutral,33
+234,lightweight trainer,2
+235,stability,34
+236,stability,46
+237,stability,45
+238,stability,49
+239,motion control,25
+240,cross-trainer,18
+241,neutral,70
+242,cross-trainer,90
+243,stability,38
+244,stability,23
+245,stability,64
+246,motion control,48
+247,cushioned stability,93
+248,neutral,19
+249,lightweight trainer,5
+250,neutral,89
+251,walking,99
+252,lightweight trainer,87
+253,stability,38
+254,stability,31
+255,cross-trainer,65
+256,lightweight trainer,6
+257,lightweight trainer,99
+258,neutral,76
+259,neutral,76
+260,neutral,87
+261,trail,37
+262,cross-trainer,55
+263,stability,90
+264,cushioned stability,65
+265,stability,24
+266,stability,90
+267,stability,64
+268,stability,57
+269,stability,22
+270,stability,48
+271,stability,48
+272,cross-trainer,84
+273,stability,25
+274,stability,54
+275,stability,48
+276,cushioned stability,90
+277,lightweight trainer,2
+278,lightweight trainer,26
+279,neutral,70
+280,lightweight trainer,31
+281,neutral,51
+282,trail,39
+283,cushioned stability,90
+284,stability,58
+285,neutral,88
+286,neutral,59
+287,neutral,19
+288,stability,44
+289,stability,29
+290,neutral,45
+291,stability,30
+292,stability,44
+293,trail,61
+294,cross-trainer,57
+295,stability,39
+296,stability,24
+297,lightweight trainer,4
+298,neutral,70
+299,lightweight trainer,73
+300,lightweight trainer,20
+301,stability,42
+302,cross-trainer,63
+303,lightweight trainer,72
+304,stability,60
+305,stability,52
+306,stability,51
+307,lightweight trainer,5
+308,stability,46
+309,cross-trainer,90
+310,stability,49
+311,stability,34
+312,neutral,82
+313,stability,37
+314,neutral,79
+315,cushioned stability,90
+316,stability,27
+317,stability,38
+318,stability,42
+319,stability,30
+320,cross-trainer,65
+321,motion control,36
+322,walking,73
+323,stability,63
+324,cushioned stability,91
+325,stability,29
+326,stability,33
+327,stability,57
+328,stability,55
+329,stability,39
+330,cross-trainer,53
+331,neutral,82
+332,lightweight trainer,18
+333,motion control,20
+334,walking,70
+335,stability,27
+336,lightweight trainer,99
+337,stability,25
+338,lightweight trainer,64
+339,lightweight trainer,19
+340,cross-trainer,97
+341,stability,49
+342,walking,78
+343,stability,33
+344,lightweight trainer,81
+345,lightweight trainer,16
+346,trail,18
+347,stability,44
+348,neutral,80
+349,lightweight trainer,30
+350,stability,23
+351,stability,27
+352,cushioned stability,71
+353,stability,35
+354,lightweight trainer,66
+355,cushioned stability,79
+356,lightweight trainer,80
+357,stability,41
+358,lightweight trainer,68
+359,neutral,84
+360,lightweight trainer,16
+361,lightweight trainer,6
+362,stability,27
+363,cushioned stability,87
+364,stability,51
+365,neutral,14
+366,stability,50
+367,stability,47
+368,walking,19
+369,lightweight trainer,21
+370,neutral,84
+371,cross-trainer,52
+372,stability,27
+373,neutral,78
+374,neutral,72
+375,stability,39
+376,stability,27
+377,cushioned stability,68
+378,stability,61
+379,neutral,76
+380,stability,58
+381,stability,62
+382,stability,61
+383,lightweight trainer,18
+384,cushioned stability,87
+385,neutral,80
+386,lightweight trainer,20
+387,stability,31
+388,neutral,85
+389,stability,44
+390,stability,37
+391,lightweight trainer,95
+392,cushioned stability,68
+393,neutral,41
+394,stability,36
+395,neutral,66
+396,stability,61
+397,motion control,23
+398,stability,49
+399,trail,21
+400,cross-trainer,100
+401,neutral,89
+402,racing,32
+403,stability,51
+404,neutral,13
+405,neutral,87
+406,stability,52
+407,walking,68
+408,lightweight trainer,25
+409,cross-trainer,79
+410,stability,56
+411,stability,40
+412,stability,30
+413,stability,41
+414,trail,48
+415,stability,90
+416,neutral,84
+417,walking,74
+418,neutral,85
+419,stability,45
+420,cross-trainer,72
+421,stability,38
+422,cross-trainer,67
+423,stability,53
+424,stability,31
+425,trail,5
+426,walking,78
+427,lightweight trainer,14
+428,stability,55
+429,neutral,74
+430,neutral,80
+431,lightweight trainer,22
+432,lightweight trainer,76
+433,stability,88
+434,neutral,63
+435,neutral,80
+436,stability,26
+437,neutral,73
+438,stability,94
+439,cushioned stability,67
+440,neutral,66
+441,stability,29
+442,stability,48
+443,neutral,80
+444,stability,52
+445,stability,29
+446,stability,74
+447,stability,49
+448,neutral,72
+449,cross-trainer,32
+450,stability,49
+451,lightweight trainer,74
+452,lightweight trainer,49
+453,stability,27
+454,neutral,88
+455,stability,55
+456,stability,58
+457,stability,40
+458,racing,36
+459,stability,63
+460,motion control,29
+461,cushioned stability,87
+462,walking,77
+463,neutral,13
+464,lightweight trainer,20
+465,lightweight trainer,84
+466,stability,39
+467,cushioned stability,96
+468,motion control,58
+469,stability,58
+470,stability,100
+471,trail,7
+472,racing,57
+473,walking,20
+474,stability,33
+475,lightweight trainer,80
+476,stability,29
+477,trail,46
+478,stability,57
+479,lightweight trainer,7
+480,stability,35
+481,cushioned stability,79
+482,motion control,52
+483,stability,45
+484,neutral,66
+485,stability,22
+486,lightweight trainer,22
+487,stability,30
+488,lightweight trainer,22
+489,stability,54
+490,stability,31
+491,lightweight trainer,73
+492,neutral,70
+493,stability,42
+494,stability,50
+495,motion control,51
+496,stability,42
+497,stability,24
+498,neutral,57
+499,motion control,17
+500,neutral,73
+501,stability,81
+502,racing,21
+503,stability,42
+504,stability,39
+505,racing,21
+506,stability,56
+507,neutral,76
+508,stability,51
+509,stability,40
+510,stability,65
+511,stability,45
+512,stability,35
+513,lightweight trainer,9
+514,stability,40
+515,cushioned stability,87
+516,stability,41
+517,stability,41
+518,cross-trainer,67
+519,neutral,76
+520,stability,33
+521,cross-trainer,81
+522,stability,63
+523,stability,42
+524,lightweight trainer,82
+525,motion control,27
+526,stability,41
+527,stability,79
+528,stability,32
+529,cushioned stability,95
+530,cross-trainer,80
+531,lightweight trainer,38
+532,stability,90
+533,lightweight trainer,17
+534,stability,42
+535,walking,76
+536,cross-trainer,69
+537,walking,88
+538,neutral,69
+539,neutral,36
+540,neutral,79
+541,stability,24
+542,lightweight trainer,18
+543,stability,35
+544,neutral,30
+545,cross-trainer,52
+546,stability,23
+547,stability,37
+548,neutral,74
+549,neutral,21
+550,stability,31
+551,cross-trainer,24
+552,racing,55
+553,stability,40
+554,lightweight trainer,84
+555,neutral,67
+556,cushioned stability,87
+557,neutral,86
+558,stability,50
+559,neutral,38
+560,stability,36
+561,stability,48
+562,lightweight trainer,28
+563,lightweight trainer,69
+564,cross-trainer,67
+565,stability,36
+566,racing,15
+567,neutral,80
+568,walking,96
+569,walking,92
+570,stability,40
+571,stability,85
+572,stability,26
+573,racing,23
+574,stability,29
+575,walking,71
+576,lightweight trainer,3
+577,lightweight trainer,68
+578,lightweight trainer,66
+579,neutral,77
+580,cushioned stability,72
+581,stability,33
+582,neutral,67
+583,stability,45
+584,neutral,84
+585,stability,57
+586,stability,60
+587,lightweight trainer,19
+588,stability,49
+589,stability,39
+590,neutral,85
+591,neutral,73
+592,neutral,52
+593,stability,38
+594,lightweight trainer,19
+595,neutral,68
+596,stability,68
+597,stability,29
+598,stability,34
+599,stability,27
+600,neutral,65
+601,stability,42
+602,stability,39
+603,cushioned stability,89
+604,lightweight trainer,28
+605,racing,6
+606,walking,73
+607,walking,66
+608,stability,28
+609,stability,57
+610,lightweight trainer,68
+611,neutral,77
+612,stability,46
+613,neutral,67
+614,trail,51
+615,walking,69
+616,stability,48
+617,stability,46
+618,neutral,81
+619,stability,22
+620,stability,27
+621,stability,52
+622,stability,26
+623,lightweight trainer,85
+624,lightweight trainer,73
+625,stability,52
+626,neutral,77
+627,stability,86
+628,neutral,19
+629,lightweight trainer,66
+630,lightweight trainer,10
+631,lightweight trainer,18
+632,stability,56
+633,neutral,48
+634,stability,32
+635,stability,56
+636,lightweight trainer,19
+637,neutral,56
+638,stability,62
+639,neutral,89
+640,lightweight trainer,2
+641,lightweight trainer,2
+642,lightweight trainer,99
+643,cross-trainer,80
+644,stability,37
+645,neutral,75
+646,neutral,76
+647,neutral,36
+648,cross-trainer,29
+649,neutral,65
+650,walking,77
+651,racing,30
+652,stability,35
+653,neutral,89
+654,stability,41
+655,neutral,16
+656,stability,58
+657,stability,48
+658,stability,47
+659,cross-trainer,90
+660,stability,29
+661,neutral,42
+662,stability,63
+663,cushioned stability,77
+664,trail,57
+665,stability,54
+666,lightweight trainer,19
+667,stability,76
+668,stability,32
+669,neutral,79
+670,neutral,87
+671,stability,43
+672,stability,40
+673,lightweight trainer,84
+674,stability,40
+675,stability,41
+676,stability,52
+677,stability,51
+678,stability,51
+679,walking,88
+680,lightweight trainer,88
+681,walking,65
+682,cross-trainer,76
+683,lightweight trainer,61
+684,lightweight trainer,84
+685,lightweight trainer,71
+686,motion control,28
+687,stability,33
+688,cross-trainer,89
+689,stability,50
+690,walking,7
+691,stability,39
+692,stability,42
+693,neutral,79
+694,stability,90
+695,lightweight trainer,1
+696,neutral,85
+697,cushioned stability,72
+698,stability,31
+699,lightweight trainer,19
+700,stability,53
+701,lightweight trainer,6
+702,cushioned stability,83
+703,stability,88
+704,cross-trainer,71
+705,motion control,36
+706,lightweight trainer,20
+707,trail,52
+708,stability,28
+709,stability,63
+710,stability,58
+711,stability,22
+712,stability,66
+713,stability,35
+714,stability,49
+715,stability,32
+716,neutral,34
+717,stability,57
+718,lightweight trainer,99
+719,trail,31
+720,cross-trainer,73
+721,neutral,82
+722,stability,55
+723,stability,53
+724,neutral,89
+725,neutral,69
+726,neutral,68
+727,stability,23
+728,lightweight trainer,5
+729,cross-trainer,78
+730,stability,26
+731,stability,58
+732,stability,52
+733,stability,37
+734,lightweight trainer,9
+735,walking,91
+736,lightweight trainer,68
+737,lightweight trainer,40
+738,lightweight trainer,65
+739,stability,34
+740,stability,52
+741,trail,62
+742,stability,81
+743,trail,4
+744,neutral,66
+745,stability,28
+746,neutral,75
+747,cushioned stability,86
+748,stability,42
+749,stability,55
+750,stability,70
+751,cross-trainer,87
+752,neutral,85
+753,stability,22
+754,stability,59
+755,stability,81
+756,motion control,24
+757,stability,25
+758,stability,53
+759,stability,82
+760,stability,45
+761,neutral,68
+762,neutral,76
+763,stability,32
+764,trail,20
+765,neutral,87
+766,neutral,89
+767,neutral,65
+768,lightweight trainer,78
+769,stability,57
+770,racing,8
+771,lightweight trainer,13
+772,stability,36
+773,lightweight trainer,95
+774,stability,60
+775,trail,30
+776,cross-trainer,82
+777,lightweight trainer,89
+778,walking,21
+779,neutral,80
+780,lightweight trainer,40
+781,walking,87
+782,lightweight trainer,21
+783,stability,33
+784,stability,51
+785,cushioned stability,69
+786,stability,63
+787,stability,64
+788,trail,1
+789,cross-trainer,69
+790,stability,34
+791,neutral,82
+792,neutral,77
+793,stability,32
+794,cushioned stability,100
+795,cross-trainer,90
+796,cross-trainer,91
+797,stability,47
+798,motion control,38
+799,stability,45
+800,cushioned stability,82
+801,lightweight trainer,5
+802,neutral,31
+803,stability,48
+804,stability,59
+805,walking,21
+806,cross-trainer,94
+807,stability,28
+808,stability,32
+809,racing,64
+810,walking,76
+811,motion control,47
+812,stability,39
+813,stability,57
+814,walking,93
+815,stability,25
+816,walking,69
+817,walking,78
+818,cushioned stability,74
+819,stability,34
+820,racing,21
+821,cross-trainer,60
+822,lightweight trainer,7
+823,stability,54
+824,cushioned stability,69
+825,stability,76
+826,stability,56
+827,stability,31
+828,stability,60
+829,motion control,4
+830,stability,32
+831,stability,26
+832,lightweight trainer,20
+833,stability,22
+834,lightweight trainer,85
+835,neutral,30
+836,cross-trainer,73
+837,cushioned stability,77
+838,cross-trainer,68
+839,racing,18
+840,stability,33
+841,lightweight trainer,54
+842,stability,29
+843,stability,44
+844,lightweight trainer,75
+845,stability,31
+846,trail,21
+847,stability,79
+848,racing,44
+849,lightweight trainer,86
+850,trail,41
+851,neutral,56
+852,stability,57
+853,stability,61
+854,stability,62
+855,stability,49
+856,stability,22
+857,cushioned stability,77
+858,stability,25
+859,stability,27
+860,racing,32
+861,stability,39
+862,cross-trainer,81
+863,lightweight trainer,21
+864,cushioned stability,100
+865,stability,25
+866,stability,74
+867,stability,60
+868,neutral,80
+869,neutral,70
+870,stability,49
+871,stability,22
+872,stability,59
+873,stability,59
+874,stability,32
+875,lightweight trainer,66
+876,stability,42
+877,neutral,84
+878,stability,62
+879,stability,37
+880,stability,44
+881,neutral,88
+882,walking,12
+883,stability,26
+884,lightweight trainer,88
+885,stability,22
+886,walking,86
+887,stability,99
+888,cross-trainer,64
+889,neutral,75
+890,racing,10
+891,walking,75
+892,stability,46
+893,stability,63
+894,stability,35
+895,stability,39
+896,stability,60
+897,stability,35
+898,stability,55
+899,stability,46
+900,trail,45
+901,neutral,59
+902,stability,64
+903,cross-trainer,68
+904,stability,71
+905,stability,40
+906,neutral,64
+907,stability,38
+908,lightweight trainer,8
+909,stability,41
+910,stability,51
+911,stability,37
+912,trail,21
+913,neutral,70
+914,neutral,70
+915,neutral,89
+916,stability,32
+917,stability,29
+918,stability,26
+919,stability,57
+920,lightweight trainer,64
+921,walking,5
+922,stability,81
+923,lightweight trainer,73
+924,stability,45
+925,trail,21
+926,racing,18
+927,neutral,74
+928,lightweight trainer,52
+929,lightweight trainer,6
+930,lightweight trainer,15
+931,stability,45
+932,walking,75
+933,neutral,57
+934,trail,61
+935,neutral,79
+936,cross-trainer,99
+937,stability,51
+938,stability,69
+939,stability,62
+940,neutral,75
+941,stability,61
+942,cross-trainer,90
+943,lightweight trainer,84
+944,stability,61
+945,cushioned stability,69
+946,lightweight trainer,88
+947,stability,68
+948,neutral,83
+949,walking,93
+950,cushioned stability,75
+951,cross-trainer,96
+952,racing,55
+953,neutral,89
+954,neutral,74
+955,stability,44
+956,cross-trainer,40
+957,neutral,33
+958,stability,53
+959,stability,35
+960,neutral,86
+961,stability,56
+962,walking,78
+963,neutral,74
+964,stability,27
+965,stability,37
+966,lightweight trainer,85
+967,neutral,44
+968,stability,51
+969,stability,57
+970,neutral,74
+971,cross-trainer,82
+972,stability,30
+973,racing,50
+974,stability,29
+975,stability,49
+976,neutral,86
+977,lightweight trainer,69
+978,walking,77
+979,walking,90
+980,lightweight trainer,74
+981,stability,63
+982,lightweight trainer,19
+983,stability,46
+984,cross-trainer,77
+985,lightweight trainer,40
+986,walking,72
+987,stability,23
+988,walking,73
+989,stability,50
+990,neutral,83
+991,stability,61
+992,cross-trainer,65
+993,neutral,59
+994,stability,36
+995,neutral,77
+996,walking,84
+997,stability,63
+998,stability,59
+999,stability,30
+1000,walking,70
+1001,neutral,82
+1002,walking,77
+1003,trail,50
+1004,lightweight trainer,19
+1005,neutral,71
+1006,lightweight trainer,4
+1007,lightweight trainer,79
+1008,stability,27
+1009,stability,63
+1010,cross-trainer,20
+1011,stability,60
+1012,stability,64
+1013,stability,41
+1014,stability,55
+1015,cushioned stability,87
+1016,stability,76
+1017,stability,50
+1018,lightweight trainer,20
+1019,walking,72
+1020,cushioned stability,65
+1021,motion control,35
+1022,stability,60
+1023,cross-trainer,90
+1024,neutral,38
+1025,neutral,79
+1026,neutral,67
+1027,stability,34
+1028,neutral,15
+1029,walking,72
+1030,stability,33
+1031,stability,57
+1032,stability,40
+1033,cushioned stability,74
+1034,stability,40
+1035,neutral,78
+1036,stability,44
+1037,stability,29
+1038,stability,53
+1039,neutral,65
+1040,walking,84
+1041,cross-trainer,96
+1042,walking,20
+1043,stability,44
+1044,cross-trainer,82
+1045,stability,41
+1046,lightweight trainer,12
+1047,lightweight trainer,10
+1048,stability,39
+1049,lightweight trainer,70
+1050,stability,22
+1051,stability,38
+1052,stability,59
+1053,stability,33
+1054,motion control,12
+1055,racing,64
+1056,trail,19
+1057,stability,35
+1058,neutral,86
+1059,neutral,51
+1060,lightweight trainer,17
+1061,stability,33
+1062,stability,88
+1063,stability,41
+1064,racing,18
+1065,cross-trainer,71
+1066,motion control,63
+1067,cushioned stability,72
+1068,neutral,70
+1069,stability,45
+1070,stability,40
+1071,walking,65
+1072,trail,47
+1073,stability,53
+1074,cushioned stability,72
+1075,stability,32
+1076,stability,59
+1077,stability,33
+1078,lightweight trainer,19
+1079,trail,51
+1080,stability,50
+1081,stability,37
+1082,cross-trainer,73
+1083,trail,25
+1084,stability,38
+1085,neutral,70
+1086,motion control,42
+1087,lightweight trainer,85
+1088,stability,27
+1089,stability,45
+1090,lightweight trainer,20
+1091,stability,34
+1092,cross-trainer,72
+1093,cross-trainer,93
+1094,cross-trainer,80
+1095,lightweight trainer,60
+1096,motion control,19
+1097,cushioned stability,88
+1098,lightweight trainer,45
+1099,cushioned stability,98
+1100,stability,51
+1101,walking,81
+1102,stability,43
+1103,trail,51
+1104,stability,64
+1105,stability,62
+1106,neutral,89
+1107,stability,86
+1108,neutral,82
+1109,cross-trainer,65
+1110,stability,42
+1111,stability,49
+1112,cross-trainer,71
+1113,walking,81
+1114,neutral,88
+1115,stability,23
+1116,stability,37
+1117,stability,57
+1118,stability,49
+1119,stability,39
+1120,stability,57
+1121,stability,50
+1122,neutral,79
+1123,stability,28
+1124,cushioned stability,70
+1125,cushioned stability,73
+1126,stability,54
+1127,trail,24
+1128,stability,49
+1129,stability,54
+1130,stability,61
+1131,walking,79
+1132,neutral,72
+1133,stability,52
+1134,stability,55
+1135,stability,30
+1136,neutral,70
+1137,stability,38
+1138,lightweight trainer,19
+1139,lightweight trainer,41
+1140,stability,33
+1141,stability,64
+1142,stability,50
+1143,walking,78
+1144,stability,49
+1145,stability,34
+1146,stability,23
+1147,cross-trainer,56
+1148,cross-trainer,81
+1149,neutral,71
+1150,stability,77
+1151,cross-trainer,50
+1152,stability,37
+1153,stability,59
+1154,neutral,75
+1155,lightweight trainer,21
+1156,stability,46
+1157,lightweight trainer,81
+1158,racing,44
+1159,stability,28
+1160,lightweight trainer,73
+1161,lightweight trainer,74
+1162,cross-trainer,84
+1163,stability,33
+1164,stability,38
+1165,stability,24
+1166,stability,69
+1167,cross-trainer,22
+1168,cross-trainer,100
+1169,stability,37
+1170,lightweight trainer,22
+1171,lightweight trainer,79
+1172,lightweight trainer,100
+1173,motion control,21
+1174,stability,51
+1175,neutral,81
+1176,stability,58
+1177,lightweight trainer,20
+1178,stability,26
+1179,stability,57
+1180,stability,40
+1181,stability,36
+1182,lightweight trainer,33
+1183,stability,27
+1184,neutral,73
+1185,stability,79
+1186,neutral,86
+1187,stability,49
+1188,stability,28
+1189,racing,60
+1190,lightweight trainer,17
+1191,neutral,21
+1192,stability,23
+1193,lightweight trainer,87
+1194,cross-trainer,89
+1195,walking,70
+1196,stability,59
+1197,stability,46
+1198,cushioned stability,85
+1199,stability,27
+1200,stability,24
+1201,stability,50
+1202,stability,36
+1203,stability,57
+1204,cross-trainer,79
+1205,stability,61
+1206,neutral,67
+1207,stability,26
+1208,stability,30
+1209,lightweight trainer,20
+1210,lightweight trainer,13
+1211,stability,43
+1212,stability,47
+1213,stability,58
+1214,neutral,77
+1215,cross-trainer,94
+1216,stability,90
+1217,stability,43
+1218,stability,37
+1219,stability,83
+1220,cross-trainer,65
+1221,cross-trainer,74
+1222,stability,51
+1223,motion control,31
+1224,stability,44
+1225,lightweight trainer,2
+1226,stability,54
+1227,stability,34
+1228,walking,69
+1229,stability,63
+1230,stability,43
+1231,lightweight trainer,57
+1232,neutral,81
+1233,cushioned stability,83
+1234,cross-trainer,16
+1235,neutral,69
+1236,cushioned stability,78
+1237,stability,48
+1238,lightweight trainer,82
+1239,stability,33
+1240,walking,88
+1241,cross-trainer,96
+1242,walking,19
+1243,neutral,18
+1244,stability,51
+1245,stability,34
+1246,stability,60
+1247,stability,57
+1248,lightweight trainer,66
+1249,stability,43
+1250,cross-trainer,87
+1251,lightweight trainer,19
+1252,lightweight trainer,74
+1253,neutral,85
+1254,neutral,70
+1255,neutral,48
+1256,lightweight trainer,93
+1257,stability,44
+1258,neutral,80
+1259,neutral,68
+1260,stability,52
+1261,racing,23
+1262,neutral,70
+1263,stability,24
+1264,lightweight trainer,30
+1265,stability,23
+1266,stability,64
+1267,stability,39
+1268,cross-trainer,18
+1269,stability,23
+1270,stability,68
+1271,neutral,76
+1272,walking,87
+1273,stability,39
+1274,stability,62
+1275,stability,31
+1276,stability,36
+1277,stability,46
+1278,stability,29
+1279,stability,52
+1280,lightweight trainer,63
+1281,lightweight trainer,87
+1282,lightweight trainer,88
+1283,cross-trainer,84
+1284,stability,23
+1285,stability,39
+1286,stability,81
+1287,cross-trainer,82
+1288,walking,7
+1289,stability,34
+1290,stability,56
+1291,stability,63
+1292,stability,54
+1293,neutral,82
+1294,stability,34
+1295,stability,35
+1296,neutral,76
+1297,stability,41
+1298,motion control,11
+1299,racing,12
+1300,neutral,61
+1301,stability,47
+1302,stability,36
+1303,neutral,51
+1304,stability,52
+1305,stability,30
+1306,stability,33
+1307,motion control,24
+1308,stability,56
+1309,stability,32
+1310,neutral,39
+1311,neutral,71
+1312,cross-trainer,88
+1313,stability,54
+1314,stability,32
+1315,stability,50
+1316,cross-trainer,80
+1317,neutral,52
+1318,stability,88
+1319,neutral,86
+1320,stability,60
+1321,stability,64
+1322,neutral,73
+1323,racing,20
+1324,stability,50
+1325,cross-trainer,88
+1326,stability,30
+1327,stability,56
+1328,stability,49
+1329,stability,27
+1330,neutral,76
+1331,stability,60
+1332,neutral,76
+1333,stability,38
+1334,stability,36
+1335,stability,46
+1336,stability,63
+1337,neutral,68
+1338,stability,38
+1339,cushioned stability,88
+1340,cross-trainer,90
+1341,stability,34
+1342,lightweight trainer,0
+1343,lightweight trainer,61
+1344,stability,41
+1345,stability,61
+1346,walking,18
+1347,neutral,75
+1348,stability,43
+1349,racing,45
+1350,stability,49
+1351,motion control,30
+1352,walking,80
+1353,neutral,66
+1354,motion control,30
+1355,stability,63
+1356,stability,26
+1357,stability,22
+1358,neutral,67
+1359,stability,71
+1360,neutral,75
+1361,stability,35
+1362,stability,71
+1363,neutral,79
+1364,lightweight trainer,89
+1365,lightweight trainer,16
+1366,cross-trainer,68
+1367,stability,32
+1368,stability,34
+1369,stability,26
+1370,stability,39
+1371,stability,63
+1372,neutral,55
+1373,neutral,75
+1374,lightweight trainer,18
+1375,lightweight trainer,59
+1376,cushioned stability,84
+1377,lightweight trainer,16
+1378,cross-trainer,24
+1379,stability,22
+1380,neutral,88
+1381,cross-trainer,50
+1382,cushioned stability,65
+1383,lightweight trainer,68
+1384,stability,64
+1385,lightweight trainer,3
+1386,stability,32
+1387,stability,32
+1388,stability,67
+1389,stability,59
+1390,stability,58
+1391,walking,87
+1392,stability,57
+1393,stability,28
+1394,stability,59
+1395,motion control,53
+1396,cross-trainer,98
+1397,cross-trainer,83
+1398,stability,23
+1399,trail,54
+1400,stability,34
+1401,stability,75
+1402,stability,50
+1403,cushioned stability,83
+1404,stability,52
+1405,stability,31
+1406,stability,44
+1407,cross-trainer,78
+1408,neutral,85
+1409,walking,76
+1410,stability,51
+1411,stability,61
+1412,neutral,84
+1413,neutral,78
+1414,neutral,76
+1415,stability,62
+1416,stability,52
+1417,neutral,85
+1418,lightweight trainer,81
+1419,neutral,79
+1420,cushioned stability,82
+1421,lightweight trainer,41
+1422,walking,19
+1423,stability,36
+1424,lightweight trainer,19
+1425,neutral,74
+1426,stability,42
+1427,racing,7
+1428,cross-trainer,10
+1429,stability,47
+1430,stability,27
+1431,lightweight trainer,2
+1432,racing,61
+1433,stability,47
+1434,neutral,86
+1435,cross-trainer,90
+1436,lightweight trainer,43
+1437,stability,25
+1438,neutral,20
+1439,stability,57
+1440,lightweight trainer,68
+1441,neutral,82
+1442,neutral,82
+1443,neutral,79
+1444,stability,90
+1445,cushioned stability,89
+1446,neutral,78
+1447,motion control,56
+1448,neutral,37
+1449,stability,41
+1450,stability,41
+1451,stability,36
+1452,trail,35
+1453,stability,61
+1454,cross-trainer,59
+1455,stability,52
+1456,cross-trainer,76
+1457,motion control,56
+1458,stability,47
+1459,stability,51
+1460,trail,17
+1461,stability,63
+1462,stability,30
+1463,stability,26
+1464,stability,39
+1465,stability,40
+1466,lightweight trainer,79
+1467,stability,42
+1468,stability,49
+1469,stability,31
+1470,neutral,26
+1471,stability,23
+1472,stability,32
+1473,stability,31
+1474,stability,24
+1475,stability,32
+1476,cushioned stability,90
+1477,stability,55
+1478,neutral,77
+1479,stability,31
+1480,neutral,58
+1481,stability,58
+1482,stability,45
+1483,walking,66
+1484,cross-trainer,67
+1485,trail,63
+1486,stability,45
+1487,stability,56
+1488,stability,59
+1489,neutral,74
+1490,stability,33
+1491,lightweight trainer,3
+1492,racing,44
+1493,stability,61
+1494,cross-trainer,80
+1495,cross-trainer,93
+1496,cushioned stability,96
+1497,neutral,60
+1498,stability,26
+1499,neutral,71
+1500,neutral,66
+1501,lightweight trainer,20
+1502,stability,55
+1503,stability,24
+1504,stability,31
+1505,cross-trainer,87
+1506,cushioned stability,81
+1507,lightweight trainer,11
+1508,stability,22
+1509,stability,51
+1510,stability,73
+1511,neutral,87
+1512,trail,39
+1513,stability,41
+1514,cushioned stability,71
+1515,stability,24
+1516,stability,83
+1517,neutral,85
+1518,racing,60
+1519,racing,2
+1520,neutral,50
+1521,walking,89
+1522,trail,62
+1523,stability,82
+1524,lightweight trainer,21
+1525,racing,29
+1526,stability,28
+1527,stability,58
+1528,stability,35
+1529,stability,28
+1530,lightweight trainer,50
+1531,cushioned stability,78
+1532,cross-trainer,100
+1533,stability,62
+1534,stability,42
+1535,racing,29
+1536,stability,51
+1537,stability,55
+1538,neutral,74
+1539,neutral,66
+1540,neutral,86
+1541,lightweight trainer,2
+1542,neutral,67
+1543,cushioned stability,68
+1544,lightweight trainer,28
+1545,stability,54
+1546,neutral,72
+1547,stability,88
+1548,stability,53
+1549,stability,54
+1550,walking,99
+1551,cross-trainer,70
+1552,walking,82
+1553,stability,79
+1554,neutral,68
+1555,stability,66
+1556,stability,51
+1557,lightweight trainer,18
+1558,lightweight trainer,19
+1559,lightweight trainer,78
+1560,stability,37
+1561,stability,58
+1562,neutral,75
+1563,racing,10
+1564,stability,44
+1565,stability,22
+1566,walking,86
+1567,walking,90
+1568,lightweight trainer,19
+1569,racing,5
+1570,walking,78
+1571,neutral,66
+1572,motion control,53
+1573,stability,66
+1574,stability,31
+1575,cushioned stability,71
+1576,walking,79
+1577,stability,53
+1578,stability,41
+1579,stability,38
+1580,stability,56
+1581,stability,53
+1582,cross-trainer,46
+1583,motion control,60
+1584,trail,49
+1585,walking,68
+1586,stability,37
+1587,stability,49
+1588,stability,56
+1589,stability,50
+1590,lightweight trainer,15
+1591,stability,43
+1592,lightweight trainer,20
+1593,stability,35
+1594,neutral,88
+1595,stability,55
+1596,lightweight trainer,19
+1597,lightweight trainer,1
+1598,stability,60
+1599,neutral,72
+1600,stability,43
+1601,stability,61
+1602,lightweight trainer,12
+1603,cross-trainer,96
+1604,stability,86
+1605,stability,61
+1606,stability,39
+1607,walking,77
+1608,stability,31
+1609,cushioned stability,71
+1610,stability,22
+1611,neutral,89
+1612,stability,72
+1613,cross-trainer,98
+1614,trail,3
+1615,lightweight trainer,68
+1616,racing,30
+1617,neutral,45
+1618,cushioned stability,92
+1619,neutral,67
+1620,stability,26
+1621,stability,78
+1622,stability,51
+1623,stability,59
+1624,stability,35
+1625,racing,50
+1626,stability,32
+1627,neutral,67
+1628,stability,36
+1629,stability,38
+1630,cross-trainer,77
+1631,stability,59
+1632,neutral,89
+1633,stability,38
+1634,lightweight trainer,71
+1635,cross-trainer,95
+1636,racing,44
+1637,neutral,62
+1638,cross-trainer,96
+1639,walking,74
+1640,cross-trainer,37
+1641,stability,61
+1642,racing,50
+1643,cushioned stability,84
+1644,neutral,72
+1645,neutral,81
+1646,lightweight trainer,72
+1647,stability,59
+1648,stability,54
+1649,stability,22
+1650,stability,63
+1651,stability,25
+1652,motion control,37
+1653,lightweight trainer,10
+1654,stability,50
+1655,lightweight trainer,83
+1656,motion control,34
+1657,stability,60
+1658,stability,30
+1659,lightweight trainer,86
+1660,racing,62
+1661,stability,67
+1662,walking,19
+1663,neutral,72
+1664,stability,43
+1665,stability,49
+1666,cross-trainer,65
+1667,stability,36
+1668,stability,40
+1669,stability,62
+1670,neutral,48
+1671,stability,100
+1672,neutral,76
+1673,cross-trainer,77
+1674,neutral,76
+1675,walking,5
+1676,stability,53
+1677,cross-trainer,93
+1678,walking,67
+1679,stability,43
+1680,lightweight trainer,65
+1681,cross-trainer,32
+1682,stability,47
+1683,stability,30
+1684,stability,62
+1685,stability,31
+1686,stability,27
+1687,stability,62
+1688,stability,29
+1689,cross-trainer,84
+1690,neutral,87
+1691,cross-trainer,34
+1692,stability,77
+1693,stability,54
+1694,lightweight trainer,12
+1695,cross-trainer,90
+1696,stability,51
+1697,trail,19
+1698,cross-trainer,85
+1699,neutral,84
+1700,stability,35
+1701,stability,47
+1702,neutral,77
+1703,stability,23
+1704,stability,80
+1705,stability,60
+1706,lightweight trainer,54
+1707,lightweight trainer,57
+1708,stability,63
+1709,stability,52
+1710,lightweight trainer,81
+1711,stability,56
+1712,stability,40
+1713,neutral,76
+1714,stability,63
+1715,lightweight trainer,73
+1716,stability,22
+1717,stability,58
+1718,walking,98
+1719,stability,85
+1720,motion control,48
+1721,lightweight trainer,6
+1722,neutral,66
+1723,lightweight trainer,98
+1724,stability,25
+1725,racing,19
+1726,lightweight trainer,86
+1727,trail,35
+1728,neutral,88
+1729,stability,32
+1730,neutral,75
+1731,neutral,79
+1732,cross-trainer,61
+1733,motion control,15
+1734,neutral,75
+1735,stability,75
+1736,lightweight trainer,14
+1737,stability,64
+1738,cross-trainer,73
+1739,lightweight trainer,18
+1740,stability,23
+1741,neutral,72
+1742,stability,49
+1743,neutral,67
+1744,neutral,89
+1745,neutral,29
+1746,lightweight trainer,94
+1747,walking,80
+1748,walking,67
+1749,neutral,65
+1750,stability,34
+1751,stability,62
+1752,cross-trainer,82
+1753,stability,29
+1754,neutral,75
+1755,stability,43
+1756,stability,81
+1757,lightweight trainer,70
+1758,stability,47
+1759,neutral,85
+1760,lightweight trainer,52
+1761,neutral,73
+1762,stability,50
+1763,cross-trainer,74
+1764,stability,25
+1765,cross-trainer,67
+1766,cross-trainer,63
+1767,neutral,69
+1768,stability,27
+1769,stability,30
+1770,stability,41
+1771,trail,18
+1772,stability,28
+1773,stability,33
+1774,stability,45
+1775,lightweight trainer,9
+1776,cross-trainer,18
+1777,neutral,74
+1778,neutral,78
+1779,neutral,72
+1780,walking,77
+1781,cushioned stability,90
+1782,stability,29
+1783,trail,1
+1784,neutral,80
+1785,lightweight trainer,84
+1786,lightweight trainer,6
+1787,neutral,87
+1788,racing,64
+1789,stability,43
+1790,cross-trainer,29
+1791,stability,43
+1792,stability,43
+1793,stability,58
+1794,stability,47
+1795,stability,22
+1796,cross-trainer,71
+1797,lightweight trainer,18
+1798,cushioned stability,84
+1799,stability,23
+1800,cushioned stability,75
+1801,stability,42
+1802,cross-trainer,71
+1803,stability,26
+1804,lightweight trainer,19
+1805,cross-trainer,84
+1806,stability,43
+1807,stability,28
+1808,stability,63
+1809,lightweight trainer,20
+1810,cross-trainer,77
+1811,stability,55
+1812,neutral,86
+1813,stability,60
+1814,cross-trainer,67
+1815,neutral,82
+1816,stability,55
+1817,neutral,85
+1818,neutral,70
+1819,trail,58
+1820,lightweight trainer,87
+1821,stability,60
+1822,stability,28
+1823,stability,36
+1824,stability,76
+1825,neutral,15
+1826,neutral,70
+1827,stability,36
+1828,stability,77
+1829,stability,25
+1830,stability,27
+1831,lightweight trainer,5
+1832,stability,35
+1833,stability,28
+1834,neutral,85
+1835,cross-trainer,61
+1836,cross-trainer,73
+1837,lightweight trainer,31
+1838,cross-trainer,91
+1839,stability,41
+1840,neutral,65
+1841,stability,55
+1842,neutral,84
+1843,stability,61
+1844,stability,55
+1845,stability,82
+1846,neutral,89
+1847,walking,71
+1848,stability,41
+1849,neutral,11
+1850,neutral,71
+1851,trail,38
+1852,cross-trainer,66
+1853,stability,38
+1854,neutral,15
+1855,stability,43
+1856,neutral,72
+1857,lightweight trainer,5
+1858,stability,42
+1859,neutral,86
+1860,cross-trainer,75
+1861,lightweight trainer,14
+1862,trail,26
+1863,cross-trainer,47
+1864,stability,43
+1865,neutral,74
+1866,cushioned stability,93
+1867,lightweight trainer,23
+1868,stability,50
+1869,stability,23
+1870,neutral,50
+1871,racing,20
+1872,neutral,78
+1873,stability,62
+1874,stability,86
+1875,cross-trainer,19
+1876,neutral,66
+1877,stability,64
+1878,stability,29
+1879,stability,61
+1880,neutral,71
+1881,stability,28
+1882,stability,42
+1883,stability,63
+1884,stability,36
+1885,stability,41
+1886,stability,34
+1887,cross-trainer,53
+1888,stability,24
+1889,stability,35
+1890,walking,85
+1891,lightweight trainer,16
+1892,cross-trainer,79
+1893,stability,43
+1894,racing,23
+1895,trail,24
+1896,stability,46
+1897,walking,68
+1898,stability,24
+1899,neutral,68
+1900,neutral,87
+1901,cushioned stability,71
+1902,stability,52
+1903,stability,40
+1904,stability,51
+1905,lightweight trainer,8
+1906,stability,41
+1907,stability,53
+1908,stability,39
+1909,cross-trainer,20
+1910,stability,30
+1911,neutral,89
+1912,lightweight trainer,53
+1913,stability,64
+1914,stability,43
+1915,stability,35
+1916,stability,37
+1917,motion control,18
+1918,lightweight trainer,19
+1919,walking,74
+1920,stability,32
+1921,motion control,47
+1922,lightweight trainer,18
+1923,stability,45
+1924,stability,37
+1925,lightweight trainer,19
+1926,racing,4
+1927,neutral,65
+1928,lightweight trainer,55
+1929,cushioned stability,83
+1930,lightweight trainer,12
+1931,racing,45
+1932,stability,79
+1933,neutral,64
+1934,stability,44
+1935,cross-trainer,67
+1936,stability,50
+1937,neutral,84
+1938,stability,55
+1939,neutral,78
+1940,lightweight trainer,99
+1941,neutral,80
+1942,cross-trainer,43
+1943,neutral,75
+1944,stability,34
+1945,cross-trainer,84
+1946,neutral,13
+1947,cross-trainer,70
+1948,neutral,82
+1949,racing,58
+1950,lightweight trainer,78
+1951,stability,56
+1952,neutral,65
+1953,neutral,87
+1954,stability,24
+1955,stability,85
+1956,stability,26
+1957,cross-trainer,27
+1958,stability,22
+1959,neutral,82
+1960,stability,46
+1961,stability,57
+1962,walking,73
+1963,cushioned stability,85
+1964,cushioned stability,67
+1965,stability,58
+1966,lightweight trainer,73
+1967,cushioned stability,89
+1968,stability,64
+1969,stability,30
+1970,neutral,72
+1971,stability,54
+1972,stability,87
+1973,stability,38
+1974,stability,59
+1975,stability,74
+1976,stability,41
+1977,stability,29
+1978,lightweight trainer,18
+1979,stability,44
+1980,stability,49
+1981,stability,66
+1982,stability,35
+1983,stability,35
+1984,motion control,16
+1985,neutral,68
+1986,stability,61
+1987,walking,88
+1988,lightweight trainer,79
+1989,neutral,21
+1990,stability,64
+1991,cushioned stability,71
+1992,cushioned stability,79
+1993,cushioned stability,66
+1994,stability,34
+1995,stability,33
+1996,stability,37
+1997,racing,29
+1998,stability,52
+1999,walking,98
+2000,trail,20
+2001,stability,28
+2002,lightweight trainer,9
+2003,neutral,77
+2004,motion control,61
+2005,neutral,68
+2006,lightweight trainer,94
+2007,stability,47
+2008,cushioned stability,69
+2009,motion control,37
+2010,stability,43
+2011,cushioned stability,76
+2012,stability,49
+2013,lightweight trainer,1
+2014,stability,70
+2015,stability,22
+2016,stability,25
+2017,trail,18
+2018,cross-trainer,83
+2019,neutral,82
+2020,stability,62
+2021,stability,38
+2022,stability,49
+2023,stability,50
+2024,cross-trainer,66
+2025,stability,52
+2026,stability,22
+2027,stability,59
+2028,stability,29
+2029,motion control,20
+2030,cross-trainer,94
+2031,stability,26
+2032,lightweight trainer,72
+2033,neutral,82
+2034,neutral,85
+2035,stability,51
+2036,stability,50
+2037,stability,44
+2038,cushioned stability,81
+2039,walking,72
+2040,stability,43
+2041,stability,37
+2042,walking,69
+2043,cross-trainer,67
+2044,stability,54
+2045,stability,56
+2046,stability,77
+2047,lightweight trainer,20
+2048,stability,35
+2049,stability,45
+2050,lightweight trainer,24
+2051,stability,47
+2052,stability,51
+2053,cushioned stability,72
+2054,neutral,79
+2055,racing,59
+2056,stability,52
+2057,neutral,70
+2058,neutral,66
+2059,lightweight trainer,80
+2060,lightweight trainer,50
+2061,neutral,84
+2062,stability,44
+2063,motion control,34
+2064,stability,51
+2065,cushioned stability,87
+2066,cross-trainer,60
+2067,neutral,89
+2068,cross-trainer,99
+2069,lightweight trainer,0
+2070,stability,61
+2071,lightweight trainer,71
+2072,cushioned stability,73
+2073,stability,23
+2074,lightweight trainer,68
+2075,neutral,89
+2076,lightweight trainer,69
+2077,neutral,30
+2078,stability,59
+2079,stability,46
+2080,lightweight trainer,87
+2081,stability,25
+2082,cushioned stability,82
+2083,cross-trainer,88
+2084,lightweight trainer,21
+2085,stability,63
+2086,lightweight trainer,13
+2087,stability,32
+2088,lightweight trainer,83
+2089,walking,72
+2090,neutral,74
+2091,stability,40
+2092,neutral,85
+2093,walking,84
+2094,stability,92
+2095,stability,51
+2096,stability,82
+2097,stability,44
+2098,stability,26
+2099,stability,49
+2100,stability,31
+2101,cushioned stability,91
+2102,stability,68
+2103,stability,53
+2104,neutral,78
+2105,stability,58
+2106,walking,72
+2107,stability,26
+2108,neutral,65
+2109,trail,11
+2110,neutral,35
+2111,neutral,80
+2112,motion control,20
+2113,motion control,36
+2114,cross-trainer,80
+2115,walking,73
+2116,stability,25
+2117,walking,80
+2118,cross-trainer,85
+2119,lightweight trainer,71
+2120,lightweight trainer,66
+2121,lightweight trainer,21
+2122,lightweight trainer,5
+2123,neutral,12
+2124,cross-trainer,75
+2125,lightweight trainer,82
+2126,stability,62
+2127,neutral,84
+2128,stability,49
+2129,neutral,85
+2130,trail,20
+2131,stability,55
+2132,stability,74
+2133,stability,24
+2134,stability,24
+2135,neutral,82
+2136,stability,27
+2137,neutral,80
+2138,lightweight trainer,2
+2139,lightweight trainer,19
+2140,stability,53
+2141,stability,40
+2142,trail,13
+2143,walking,66
+2144,neutral,79
+2145,neutral,80
+2146,stability,61
+2147,neutral,79
+2148,stability,30
+2149,motion control,51
+2150,stability,22
+2151,stability,30
+2152,stability,52
+2153,lightweight trainer,21
+2154,racing,29
+2155,stability,31
+2156,stability,54
+2157,lightweight trainer,42
+2158,neutral,84
+2159,stability,22
+2160,stability,44
+2161,motion control,63
+2162,stability,42
+2163,stability,45
+2164,stability,39
+2165,lightweight trainer,84
+2166,walking,71
+2167,stability,57
+2168,neutral,80
+2169,cushioned stability,87
+2170,motion control,57
+2171,stability,60
+2172,stability,26
+2173,stability,49
+2174,stability,44
+2175,stability,38
+2176,stability,90
+2177,cross-trainer,50
+2178,neutral,67
+2179,lightweight trainer,88
+2180,cushioned stability,92
+2181,stability,46
+2182,stability,45
+2183,stability,39
+2184,lightweight trainer,72
+2185,trail,20
+2186,stability,67
+2187,stability,75
+2188,racing,62
+2189,stability,55
+2190,stability,24
+2191,stability,91
+2192,lightweight trainer,71
+2193,racing,58
+2194,stability,57
+2195,stability,79
+2196,stability,57
+2197,lightweight trainer,17
+2198,stability,53
+2199,stability,81
+2200,stability,26
+2201,cross-trainer,63
+2202,cushioned stability,97
+2203,stability,50
+2204,neutral,45
+2205,stability,60
+2206,lightweight trainer,21
+2207,walking,70
+2208,stability,63
+2209,neutral,65
+2210,cross-trainer,92
+2211,motion control,64
+2212,cross-trainer,50
+2213,stability,30
+2214,cushioned stability,65
+2215,stability,40
+2216,neutral,82
+2217,cross-trainer,84
+2218,stability,58
+2219,neutral,35
+2220,lightweight trainer,73
+2221,neutral,79
+2222,stability,50
+2223,neutral,69
+2224,lightweight trainer,42
+2225,stability,46
+2226,motion control,55
+2227,cushioned stability,88
+2228,stability,52
+2229,stability,22
+2230,racing,9
+2231,stability,59
+2232,trail,18
+2233,neutral,30
+2234,neutral,12
+2235,neutral,81
+2236,stability,42
+2237,stability,37
+2238,stability,47
+2239,stability,23
+2240,lightweight trainer,75
+2241,stability,61
+2242,neutral,75
+2243,lightweight trainer,84
+2244,stability,50
+2245,walking,76
+2246,stability,28
+2247,neutral,85
+2248,trail,25
+2249,neutral,26
+2250,stability,24
+2251,stability,60
+2252,walking,91
+2253,lightweight trainer,20
+2254,stability,31
+2255,lightweight trainer,19
+2256,walking,71
+2257,lightweight trainer,11
+2258,cushioned stability,67
+2259,trail,22
+2260,stability,54
+2261,cross-trainer,93
+2262,stability,30
+2263,stability,59
+2264,trail,40
+2265,stability,31
+2266,cross-trainer,67
+2267,stability,45
+2268,stability,53
+2269,stability,57
+2270,stability,37
+2271,stability,61
+2272,stability,86
+2273,stability,25
+2274,stability,63
+2275,racing,10
+2276,cross-trainer,74
+2277,stability,53
+2278,stability,47
+2279,stability,57
+2280,stability,31
+2281,racing,62
+2282,lightweight trainer,21
+2283,lightweight trainer,1
+2284,stability,29
+2285,stability,43
+2286,stability,51
+2287,lightweight trainer,83
+2288,neutral,81
+2289,stability,46
+2290,walking,9
+2291,stability,72
+2292,stability,40
+2293,stability,31
+2294,neutral,44
+2295,lightweight trainer,20
+2296,stability,28
+2297,lightweight trainer,71
+2298,cross-trainer,79
+2299,cross-trainer,51
+2300,stability,38
+2301,neutral,78
+2302,lightweight trainer,21
+2303,cushioned stability,77
+2304,cushioned stability,84
+2305,stability,27
+2306,cushioned stability,69
+2307,stability,79
+2308,motion control,52
+2309,stability,61
+2310,stability,33
+2311,stability,62
+2312,stability,31
+2313,stability,64
+2314,racing,0
+2315,stability,48
+2316,lightweight trainer,6
+2317,stability,50
+2318,stability,25
+2319,lightweight trainer,87
+2320,trail,51
+2321,stability,23
+2322,neutral,67
+2323,lightweight trainer,20
+2324,stability,54
+2325,lightweight trainer,48
+2326,racing,43
+2327,stability,33
+2328,racing,26
+2329,lightweight trainer,0
+2330,stability,53
+2331,walking,83
+2332,stability,61
+2333,motion control,20
+2334,lightweight trainer,20
+2335,neutral,80
+2336,stability,63
+2337,cross-trainer,75
+2338,stability,23
+2339,stability,49
+2340,stability,45
+2341,stability,33
+2342,cross-trainer,50
+2343,neutral,77
+2344,racing,51
+2345,cross-trainer,83
+2346,stability,28
+2347,stability,52
+2348,lightweight trainer,71
+2349,cross-trainer,94
+2350,lightweight trainer,27
+2351,neutral,65
+2352,walking,67
+2353,stability,91
+2354,stability,46
+2355,lightweight trainer,69
+2356,neutral,88
+2357,cross-trainer,96
+2358,cross-trainer,60
+2359,cushioned stability,67
+2360,lightweight trainer,80
+2361,stability,60
+2362,stability,73
+2363,stability,66
+2364,lightweight trainer,87
+2365,stability,23
+2366,stability,44
+2367,stability,64
+2368,stability,49
+2369,stability,62
+2370,trail,31
+2371,neutral,76
+2372,lightweight trainer,20
+2373,stability,28
+2374,stability,44
+2375,stability,26
+2376,neutral,79
+2377,stability,63
+2378,neutral,66
+2379,stability,61
+2380,stability,42
+2381,neutral,22
+2382,lightweight trainer,71
+2383,cross-trainer,94
+2384,stability,42
+2385,stability,37
+2386,stability,62
+2387,stability,32
+2388,stability,52
+2389,stability,47
+2390,stability,59
+2391,neutral,85
+2392,racing,16
+2393,stability,35
+2394,walking,66
+2395,stability,54
+2396,walking,84
+2397,neutral,14
+2398,lightweight trainer,60
+2399,neutral,36
+2400,stability,39
+2401,lightweight trainer,88
+2402,lightweight trainer,9
+2403,stability,59
+2404,stability,24
+2405,stability,38
+2406,stability,49
+2407,walking,76
+2408,stability,60
+2409,lightweight trainer,21
+2410,stability,24
+2411,stability,48
+2412,neutral,84
+2413,stability,46
+2414,neutral,66
+2415,motion control,20
+2416,stability,34
+2417,stability,60
+2418,stability,53
+2419,stability,56
+2420,trail,32
+2421,stability,32
+2422,stability,61
+2423,lightweight trainer,18
+2424,cross-trainer,20
+2425,stability,24
+2426,stability,45
+2427,walking,18
+2428,lightweight trainer,18
+2429,lightweight trainer,20
+2430,cross-trainer,80
+2431,stability,84
+2432,stability,34
+2433,stability,57
+2434,neutral,83
+2435,lightweight trainer,89
+2436,lightweight trainer,18
+2437,neutral,69
+2438,cross-trainer,70
+2439,cushioned stability,78
+2440,neutral,86
+2441,stability,59
+2442,stability,34
+2443,neutral,1
+2444,stability,55
+2445,trail,18
+2446,stability,45
+2447,stability,62
+2448,cross-trainer,89
+2449,neutral,89
+2450,racing,62
+2451,stability,46
+2452,neutral,69
+2453,stability,55
+2454,cross-trainer,69
+2455,stability,54
+2456,motion control,57
+2457,cushioned stability,71
+2458,motion control,28
+2459,stability,35
+2460,lightweight trainer,47
+2461,cross-trainer,39
+2462,stability,40
+2463,stability,57
+2464,stability,69
+2465,cushioned stability,80
+2466,stability,63
+2467,lightweight trainer,18
+2468,stability,83
+2469,neutral,71
+2470,stability,83
+2471,stability,63
+2472,stability,52
+2473,cross-trainer,82
+2474,stability,42
+2475,lightweight trainer,87
+2476,cross-trainer,81
+2477,stability,71
+2478,stability,46
+2479,stability,62
+2480,walking,2
+2481,lightweight trainer,66
+2482,racing,19
+2483,stability,40
+2484,stability,55
+2485,stability,32
+2486,neutral,89
+2487,stability,43
+2488,stability,38
+2489,stability,31
+2490,walking,68
+2491,motion control,45
+2492,walking,18
+2493,motion control,50
+2494,stability,68
+2495,stability,34
+2496,motion control,3
+2497,stability,40
+2498,stability,53
+2499,neutral,72
+2500,stability,56
+2501,lightweight trainer,67
+2502,stability,47
+2503,stability,48
+2504,lightweight trainer,20
+2505,stability,25
+2506,stability,30
+2507,walking,15
+2508,stability,43
+2509,stability,39
+2510,lightweight trainer,19
+2511,lightweight trainer,72
+2512,stability,55
+2513,lightweight trainer,68
+2514,lightweight trainer,44
+2515,stability,44
+2516,stability,32
+2517,stability,58
+2518,neutral,71
+2519,stability,24
+2520,motion control,5
+2521,walking,66
+2522,stability,49
+2523,neutral,77
+2524,stability,45
+2525,stability,39
+2526,neutral,83
+2527,cross-trainer,16
+2528,stability,33
+2529,stability,43
+2530,stability,39
+2531,stability,38
+2532,stability,52
+2533,stability,91
+2534,stability,35
+2535,stability,63
+2536,stability,31
+2537,cross-trainer,92
+2538,stability,55
+2539,neutral,71
+2540,stability,39
+2541,stability,24
+2542,lightweight trainer,8
+2543,lightweight trainer,6
+2544,trail,50
+2545,motion control,21
+2546,stability,60
+2547,stability,55
+2548,trail,18
+2549,stability,83
+2550,stability,63
+2551,stability,49
+2552,lightweight trainer,33
+2553,cross-trainer,89
+2554,motion control,31
+2555,neutral,77
+2556,lightweight trainer,7
+2557,stability,27
+2558,stability,49
+2559,stability,54
+2560,stability,63
+2561,cross-trainer,78
+2562,trail,25
+2563,stability,47
+2564,racing,19
+2565,stability,62
+2566,lightweight trainer,83
+2567,lightweight trainer,70
+2568,stability,43
+2569,neutral,73
+2570,walking,68
+2571,stability,29
+2572,neutral,69
+2573,racing,47
+2574,stability,95
+2575,stability,35
+2576,neutral,75
+2577,lightweight trainer,97
+2578,lightweight trainer,78
+2579,cross-trainer,12
+2580,neutral,75
+2581,stability,43
+2582,stability,33
+2583,motion control,56
+2584,neutral,73
+2585,cushioned stability,65
+2586,cross-trainer,33
+2587,lightweight trainer,72
+2588,neutral,78
+2589,cushioned stability,88
+2590,lightweight trainer,75
+2591,stability,30
+2592,stability,40
+2593,lightweight trainer,43
+2594,cross-trainer,86
+2595,stability,76
+2596,stability,39
+2597,stability,32
+2598,cushioned stability,80
+2599,stability,44
+2600,stability,54
+2601,stability,96
+2602,lightweight trainer,15
+2603,stability,55
+2604,neutral,66
+2605,cushioned stability,73
+2606,stability,55
+2607,stability,36
+2608,cross-trainer,40
+2609,stability,23
+2610,stability,23
+2611,cross-trainer,90
+2612,lightweight trainer,95
+2613,stability,66
+2614,stability,72
+2615,stability,56
+2616,cross-trainer,72
+2617,neutral,82
+2618,motion control,63
+2619,neutral,6
+2620,cushioned stability,93
+2621,stability,59
+2622,stability,68
+2623,racing,19
+2624,stability,61
+2625,motion control,38
+2626,neutral,88
+2627,racing,53
+2628,lightweight trainer,8
+2629,stability,36
+2630,cushioned stability,71
+2631,stability,78
+2632,neutral,72
+2633,stability,57
+2634,stability,42
+2635,lightweight trainer,83
+2636,stability,55
+2637,neutral,70
+2638,stability,24
+2639,neutral,67
+2640,stability,60
+2641,neutral,72
+2642,stability,44
+2643,stability,62
+2644,stability,42
+2645,stability,45
+2646,stability,25
+2647,motion control,44
+2648,motion control,2
+2649,stability,26
+2650,stability,24
+2651,cross-trainer,79
+2652,stability,42
+2653,stability,43
+2654,stability,55
+2655,neutral,87
+2656,walking,88
+2657,racing,34
+2658,neutral,77
+2659,walking,94
+2660,lightweight trainer,38
+2661,stability,42
+2662,lightweight trainer,18
+2663,stability,36
+2664,lightweight trainer,83
+2665,stability,58
+2666,lightweight trainer,68
+2667,cross-trainer,69
+2668,stability,64
+2669,stability,98
+2670,racing,20
+2671,stability,37
+2672,stability,52
+2673,stability,28
+2674,lightweight trainer,37
+2675,cushioned stability,66
+2676,neutral,69
+2677,neutral,86
+2678,lightweight trainer,19
+2679,lightweight trainer,79
+2680,stability,29
+2681,walking,77
+2682,neutral,4
+2683,lightweight trainer,87
+2684,stability,67
+2685,stability,28
+2686,cross-trainer,24
+2687,stability,47
+2688,stability,63
+2689,neutral,67
+2690,stability,60
+2691,lightweight trainer,18
+2692,walking,6
+2693,cross-trainer,71
+2694,stability,44
+2695,stability,23
+2696,stability,56
+2697,stability,33
+2698,neutral,77
+2699,stability,22
+2700,neutral,69
+2701,stability,53
+2702,stability,41
+2703,stability,29
+2704,neutral,78
+2705,cross-trainer,72
+2706,trail,19
+2707,neutral,82
+2708,lightweight trainer,21
+2709,stability,58
+2710,stability,91
+2711,stability,43
+2712,neutral,63
+2713,cushioned stability,89
+2714,racing,7
+2715,neutral,83
+2716,cushioned stability,68
+2717,trail,54
+2718,stability,44
+2719,stability,53
+2720,stability,63
+2721,neutral,78
+2722,trail,47
+2723,lightweight trainer,96
+2724,stability,63
+2725,neutral,81
+2726,stability,57
+2727,lightweight trainer,18
+2728,lightweight trainer,10
+2729,walking,1
+2730,stability,53
+2731,walking,87
+2732,stability,83
+2733,walking,70
+2734,neutral,76
+2735,walking,67
+2736,stability,62
+2737,stability,54
+2738,neutral,80
+2739,lightweight trainer,81
+2740,stability,24
+2741,stability,86
+2742,cross-trainer,70
+2743,stability,40
+2744,cross-trainer,23
+2745,stability,64
+2746,stability,27
+2747,trail,15
+2748,stability,61
+2749,stability,71
+2750,cross-trainer,20
+2751,stability,74
+2752,lightweight trainer,18
+2753,cross-trainer,75
+2754,neutral,85
+2755,stability,63
+2756,neutral,86
+2757,motion control,19
+2758,stability,32
+2759,neutral,65
+2760,neutral,89
+2761,neutral,77
+2762,cushioned stability,85
+2763,stability,38
+2764,stability,38
+2765,stability,53
+2766,neutral,80
+2767,lightweight trainer,38
+2768,stability,42
+2769,lightweight trainer,66
+2770,stability,54
+2771,neutral,77
+2772,stability,52
+2773,neutral,89
+2774,stability,40
+2775,neutral,87
+2776,neutral,85
+2777,stability,60
+2778,stability,34
+2779,stability,58
+2780,motion control,43
+2781,stability,63
+2782,motion control,21
+2783,neutral,47
+2784,stability,26
+2785,cross-trainer,82
+2786,cushioned stability,84
+2787,stability,64
+2788,motion control,9
+2789,cushioned stability,78
+2790,stability,31
+2791,stability,34
+2792,stability,47
+2793,lightweight trainer,38
+2794,stability,61
+2795,stability,54
+2796,racing,43
+2797,neutral,65
+2798,stability,70
+2799,stability,60
+2800,cross-trainer,61
+2801,stability,29
+2802,stability,63
+2803,cross-trainer,95
+2804,neutral,66
+2805,neutral,78
+2806,stability,32
+2807,lightweight trainer,21
+2808,walking,70
+2809,lightweight trainer,96
+2810,stability,23
+2811,cross-trainer,19
+2812,lightweight trainer,12
+2813,lightweight trainer,18
+2814,neutral,73
+2815,lightweight trainer,99
+2816,cushioned stability,84
+2817,lightweight trainer,8
+2818,racing,56
+2819,walking,81
+2820,neutral,21
+2821,stability,30
+2822,stability,38
+2823,stability,50
+2824,cushioned stability,73
+2825,stability,48
+2826,neutral,85
+2827,walking,16
+2828,lightweight trainer,17
+2829,motion control,40
+2830,neutral,75
+2831,stability,29
+2832,stability,54
+2833,stability,25
+2834,neutral,84
+2835,stability,27
+2836,stability,54
+2837,cushioned stability,78
+2838,neutral,76
+2839,stability,25
+2840,stability,36
+2841,stability,37
+2842,lightweight trainer,1
+2843,walking,18
+2844,stability,48
+2845,stability,33
+2846,stability,24
+2847,stability,44
+2848,stability,29
+2849,lightweight trainer,63
+2850,cross-trainer,49
+2851,stability,22
+2852,stability,76
+2853,neutral,78
+2854,stability,49
+2855,neutral,43
+2856,cushioned stability,65
+2857,lightweight trainer,0
+2858,stability,56
+2859,walking,86
+2860,neutral,68
+2861,lightweight trainer,72
+2862,walking,76
+2863,stability,95
+2864,walking,69
+2865,walking,21
+2866,stability,26
+2867,stability,98
+2868,neutral,69
+2869,stability,33
+2870,stability,58
+2871,cushioned stability,72
+2872,lightweight trainer,13
+2873,stability,36
+2874,neutral,44
+2875,cross-trainer,74
+2876,stability,43
+2877,stability,64
+2878,cushioned stability,67
+2879,stability,35
+2880,stability,32
+2881,cushioned stability,83
+2882,stability,74
+2883,cushioned stability,100
+2884,neutral,69
+2885,stability,27
+2886,stability,66
+2887,lightweight trainer,12
+2888,neutral,81
+2889,stability,29
+2890,lightweight trainer,18
+2891,stability,37
+2892,stability,49
+2893,stability,55
+2894,stability,45
+2895,stability,33
+2896,stability,45
+2897,stability,31
+2898,stability,30
+2899,stability,29
+2900,trail,57
+2901,neutral,80
+2902,neutral,73
+2903,cushioned stability,90
+2904,trail,21
+2905,lightweight trainer,27
+2906,stability,55
+2907,stability,70
+2908,stability,33
+2909,neutral,79
+2910,stability,60
+2911,stability,99
+2912,stability,35
+2913,cross-trainer,63
+2914,lightweight trainer,57
+2915,stability,46
+2916,neutral,6
+2917,stability,37
+2918,stability,57
+2919,stability,68
+2920,stability,31
+2921,stability,40
+2922,neutral,81
+2923,lightweight trainer,19
+2924,lightweight trainer,36
+2925,stability,62
+2926,lightweight trainer,52
+2927,walking,88
+2928,neutral,72
+2929,stability,35
+2930,stability,68
+2931,stability,30
+2932,stability,39
+2933,stability,25
+2934,stability,35
+2935,stability,24
+2936,stability,48
+2937,lightweight trainer,23
+2938,stability,33
+2939,motion control,39
+2940,trail,38
+2941,racing,9
+2942,stability,33
+2943,stability,62
+2944,stability,60
+2945,walking,78
+2946,stability,41
+2947,lightweight trainer,67
+2948,lightweight trainer,85
+2949,neutral,78
+2950,cross-trainer,65
+2951,stability,49
+2952,stability,53
+2953,cross-trainer,81
+2954,walking,4
+2955,stability,39
+2956,stability,59
+2957,stability,64
+2958,stability,38
+2959,lightweight trainer,9
+2960,cross-trainer,50
+2961,stability,29
+2962,cross-trainer,65
+2963,lightweight trainer,19
+2964,trail,61
+2965,trail,61
+2966,motion control,11
+2967,stability,76
+2968,neutral,87
+2969,neutral,70
+2970,stability,58
+2971,racing,24
+2972,stability,26
+2973,stability,46
+2974,stability,63
+2975,stability,82
+2976,stability,49
+2977,stability,52
+2978,stability,38
+2979,stability,66
+2980,stability,48
+2981,cross-trainer,58
+2982,stability,48
+2983,neutral,85
+2984,stability,40
+2985,walking,75
+2986,stability,51
+2987,lightweight trainer,16
+2988,cushioned stability,84
+2989,stability,33
+2990,stability,60
+2991,motion control,22
+2992,neutral,70
+2993,stability,68
+2994,lightweight trainer,21
+2995,stability,42
+2996,stability,22
+2997,cushioned stability,71
+2998,stability,45
+2999,cushioned stability,78
